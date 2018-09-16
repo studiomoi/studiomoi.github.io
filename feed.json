@@ -9,5 +9,20 @@
         "name": "uk"
     },
     "items": [
+        {
+            "id": "https://studiomoi.github.io/watt-coffee-co.html",
+            "url": "https://studiomoi.github.io/watt-coffee-co.html",
+            "title": "WATT COFFEE CO",
+            "summary": " watt coffee co bostancıda falan geldi bize ok falan ",
+            "content_html": "<p><img class=\"post__image--center\" src=\"https://studiomoi.github.io/media/posts/1/Untitled-2.jpg\" alt=\"watt coffee mug\" width=\"1920\" height=\"1080\"></p>\n<p class=\"align-center\">watt coffee co bostancıda falan geldi bize ok falan </p>\n<p> </p>",
+            "image": "https://studiomoi.github.io/media/posts/1/b.jpg",
+            "author": {
+                "name": "uk"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-09-16T22:31:11+03:00",
+            "date_modified": "2018-09-16T22:31:11+03:00"
+        }
     ]
 }

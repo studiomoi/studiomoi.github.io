@@ -3,24 +3,12 @@
     <title>moi</title>
     <link href="https://studiomoi.github.io/feed.xml" rel="self" />
     <link href="https://studiomoi.github.io" />
-    <updated>2018-09-17T18:52:58+03:00</updated>
+    <updated>2018-09-17T19:01:00+03:00</updated>
     <author>
         <name>uk</name>
     </author>
     <id>https://studiomoi.github.io</id>
 
-    <entry>
-        <title>MKB Tarım &amp; DOM Domates</title>
-        <author>
-            <name>uk</name>
-        </author>
-        <link href="https://studiomoi.github.io/mkb-dom.html"/>
-        <id>https://studiomoi.github.io/mkb-dom.html</id>
-
-        <updated>2018-09-17T18:36:08+03:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
     <entry>
         <title>BOMDIA</title>
         <author>
@@ -90,6 +78,18 @@
         <id>https://studiomoi.github.io/digilogue.html</id>
 
         <updated>2018-09-17T18:36:37+03:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>MKB Tarım &amp; DOM Domates</title>
+        <author>
+            <name>uk</name>
+        </author>
+        <link href="https://studiomoi.github.io/mkb-dom.html"/>
+        <id>https://studiomoi.github.io/mkb-dom.html</id>
+
+        <updated>2018-09-17T19:00:54+03:00</updated>
             <summary></summary>
         <content></content>
     </entry>

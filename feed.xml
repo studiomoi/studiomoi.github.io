@@ -1,48 +1,120 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>moi studio</title>
+    <title>moi</title>
     <link href="https://studiomoi.github.io/feed.xml" rel="self" />
     <link href="https://studiomoi.github.io" />
-    <updated>2018-09-17T11:16:56+03:00</updated>
+    <updated>2018-09-17T18:13:03+03:00</updated>
     <author>
         <name>uk</name>
     </author>
     <id>https://studiomoi.github.io</id>
 
     <entry>
-        <title>TriCore Academy</title>
+        <title>mkb-dom</title>
         <author>
             <name>uk</name>
         </author>
-        <link href="https://studiomoi.github.io/tricore-academy.html"/>
-        <id>https://studiomoi.github.io/tricore-academy.html</id>
+        <link href="https://studiomoi.github.io/mkb-dom.html"/>
+        <id>https://studiomoi.github.io/mkb-dom.html</id>
 
-        <updated>2018-09-17T11:16:44+03:00</updated>
+        <updated>2018-09-17T17:06:56+03:00</updated>
             <summary></summary>
         <content></content>
     </entry>
     <entry>
-        <title>WATT COFFEE CO</title>
+        <title>bomdia</title>
         <author>
             <name>uk</name>
         </author>
-        <link href="https://studiomoi.github.io/watt-coffee-co.html"/>
-        <id>https://studiomoi.github.io/watt-coffee-co.html</id>
+        <link href="https://studiomoi.github.io/bomdia.html"/>
+        <id>https://studiomoi.github.io/bomdia.html</id>
 
-        <updated>2018-09-17T11:10:36+03:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://studiomoi.github.io/media/posts/1/b.jpg" alt="" />
-                     watt coffee co bostancıda falan geldi bize ok falan 
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://studiomoi.github.io/media/posts/1/b.jpg" alt="" />
-                <p> </p>
-<p class="align-center">watt coffee co bostancıda falan geldi bize ok falan </p>
-<p><img class="post__image--center" src="https://studiomoi.github.io/media/posts/1/Untitled-2.jpg" alt="watt coffee mug" width="1920" height="1080"> </p>
-            ]]>
-        </content>
+        <updated>2018-09-17T17:01:41+03:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>imza bir</title>
+        <author>
+            <name>uk</name>
+        </author>
+        <link href="https://studiomoi.github.io/imza-bir.html"/>
+        <id>https://studiomoi.github.io/imza-bir.html</id>
+
+        <updated>2018-09-17T17:20:25+03:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>a reasonable</title>
+        <author>
+            <name>uk</name>
+        </author>
+        <link href="https://studiomoi.github.io/a-reasonable.html"/>
+        <id>https://studiomoi.github.io/a-reasonable.html</id>
+
+        <updated>2018-09-17T17:27:08+03:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>watt</title>
+        <author>
+            <name>uk</name>
+        </author>
+        <link href="https://studiomoi.github.io/watt.html"/>
+        <id>https://studiomoi.github.io/watt.html</id>
+
+        <updated>2018-09-17T17:17:48+03:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>tricore</title>
+        <author>
+            <name>uk</name>
+        </author>
+        <link href="https://studiomoi.github.io/tricore.html"/>
+        <id>https://studiomoi.github.io/tricore.html</id>
+
+        <updated>2018-09-17T17:41:51+03:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>digilogue</title>
+        <author>
+            <name>uk</name>
+        </author>
+        <link href="https://studiomoi.github.io/digilogue.html"/>
+        <id>https://studiomoi.github.io/digilogue.html</id>
+
+        <updated>2018-09-17T17:52:26+03:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>soking</title>
+        <author>
+            <name>uk</name>
+        </author>
+        <link href="https://studiomoi.github.io/soking.html"/>
+        <id>https://studiomoi.github.io/soking.html</id>
+
+        <updated>2018-09-17T17:01:29+03:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>coralia</title>
+        <author>
+            <name>uk</name>
+        </author>
+        <link href="https://studiomoi.github.io/coralia.html"/>
+        <id>https://studiomoi.github.io/coralia.html</id>
+
+        <updated>2018-09-17T16:59:53+03:00</updated>
+            <summary></summary>
+        <content></content>
     </entry>
 </feed>

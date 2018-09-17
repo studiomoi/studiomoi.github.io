@@ -1,41 +1,131 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "moi studio",
+    "title": "moi",
     "description": "",
     "home_page_url": "https://studiomoi.github.io",
     "feed_url": "https://studiomoi.github.io/feed.json",
     "user_comment": "",
+    "icon": "https://studiomoi.github.io/media/website/logo.png",
     "author": {
         "name": "uk"
     },
     "items": [
         {
-            "id": "https://studiomoi.github.io/tricore-academy.html",
-            "url": "https://studiomoi.github.io/tricore-academy.html",
-            "title": "TriCore Academy",
-            "image": "https://studiomoi.github.io/media/posts/3/tricore.jpg",
+            "id": "https://studiomoi.github.io/mkb-dom.html",
+            "url": "https://studiomoi.github.io/mkb-dom.html",
+            "title": "mkb-dom",
+            "image": "https://studiomoi.github.io/media/posts/11/",
             "author": {
                 "name": "uk"
             },
             "tags": [
             ],
-            "date_published": "2018-09-17T11:16:44+03:00",
-            "date_modified": "2018-09-17T11:16:44+03:00"
+            "date_published": "2018-09-17T17:06:56+03:00",
+            "date_modified": "2018-09-17T17:06:56+03:00"
         },
         {
-            "id": "https://studiomoi.github.io/watt-coffee-co.html",
-            "url": "https://studiomoi.github.io/watt-coffee-co.html",
-            "title": "WATT COFFEE CO",
-            "summary": " watt coffee co bostancıda falan geldi bize ok falan ",
-            "content_html": "<p> </p>\n<p class=\"align-center\">watt coffee co bostancıda falan geldi bize ok falan </p>\n<p><img class=\"post__image--center\" src=\"https://studiomoi.github.io/media/posts/1/Untitled-2.jpg\" alt=\"watt coffee mug\" width=\"1920\" height=\"1080\"> </p>",
-            "image": "https://studiomoi.github.io/media/posts/1/b.jpg",
+            "id": "https://studiomoi.github.io/bomdia.html",
+            "url": "https://studiomoi.github.io/bomdia.html",
+            "title": "bomdia",
+            "image": "https://studiomoi.github.io/media/posts/9/",
             "author": {
                 "name": "uk"
             },
             "tags": [
             ],
-            "date_published": "2018-09-16T22:31:11+03:00",
-            "date_modified": "2018-09-17T11:10:36+03:00"
+            "date_published": "2018-09-17T17:01:41+03:00",
+            "date_modified": "2018-09-17T17:01:41+03:00"
+        },
+        {
+            "id": "https://studiomoi.github.io/imza-bir.html",
+            "url": "https://studiomoi.github.io/imza-bir.html",
+            "title": "imza bir",
+            "image": "https://studiomoi.github.io/media/posts/6/27894457_176886309593734_2540921438500552704_n.jpg",
+            "author": {
+                "name": "uk"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-09-17T16:53:46+03:00",
+            "date_modified": "2018-09-17T17:20:25+03:00"
+        },
+        {
+            "id": "https://studiomoi.github.io/a-reasonable.html",
+            "url": "https://studiomoi.github.io/a-reasonable.html",
+            "title": "a reasonable",
+            "image": "https://studiomoi.github.io/media/posts/7/3.jpg",
+            "author": {
+                "name": "uk"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-07-08T16:53:00+03:00",
+            "date_modified": "2018-09-17T17:27:08+03:00"
+        },
+        {
+            "id": "https://studiomoi.github.io/watt.html",
+            "url": "https://studiomoi.github.io/watt.html",
+            "title": "watt",
+            "image": "https://studiomoi.github.io/media/posts/1/Untitled-2.jpg",
+            "author": {
+                "name": "uk"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-06-07T14:22:00+03:00",
+            "date_modified": "2018-09-17T17:17:48+03:00"
+        },
+        {
+            "id": "https://studiomoi.github.io/tricore.html",
+            "url": "https://studiomoi.github.io/tricore.html",
+            "title": "tricore",
+            "image": "https://studiomoi.github.io/media/posts/8/",
+            "author": {
+                "name": "uk"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-05-15T16:58:00+03:00",
+            "date_modified": "2018-09-17T17:41:51+03:00"
+        },
+        {
+            "id": "https://studiomoi.github.io/digilogue.html",
+            "url": "https://studiomoi.github.io/digilogue.html",
+            "title": "digilogue",
+            "image": "https://studiomoi.github.io/media/posts/10/2.jpg",
+            "author": {
+                "name": "uk"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-04-17T17:05:00+03:00",
+            "date_modified": "2018-09-17T17:52:26+03:00"
+        },
+        {
+            "id": "https://studiomoi.github.io/soking.html",
+            "url": "https://studiomoi.github.io/soking.html",
+            "title": "soking",
+            "image": "https://studiomoi.github.io/media/posts/4/",
+            "author": {
+                "name": "uk"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-01-17T16:53:00+03:00",
+            "date_modified": "2018-09-17T17:01:29+03:00"
+        },
+        {
+            "id": "https://studiomoi.github.io/coralia.html",
+            "url": "https://studiomoi.github.io/coralia.html",
+            "title": "coralia",
+            "image": "https://studiomoi.github.io/media/posts/5/",
+            "author": {
+                "name": "uk"
+            },
+            "tags": [
+            ],
+            "date_published": "2017-12-17T16:53:00+03:00",
+            "date_modified": "2018-09-17T16:59:53+03:00"
         }
     ]
 }

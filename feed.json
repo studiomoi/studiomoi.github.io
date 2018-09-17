@@ -10,6 +10,19 @@
     },
     "items": [
         {
+            "id": "https://studiomoi.github.io/tricore-academy.html",
+            "url": "https://studiomoi.github.io/tricore-academy.html",
+            "title": "TriCore Academy",
+            "image": "https://studiomoi.github.io/media/posts/3/tricore.jpg",
+            "author": {
+                "name": "uk"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-09-17T11:16:44+03:00",
+            "date_modified": "2018-09-17T11:16:44+03:00"
+        },
+        {
             "id": "https://studiomoi.github.io/watt-coffee-co.html",
             "url": "https://studiomoi.github.io/watt-coffee-co.html",
             "title": "WATT COFFEE CO",

@@ -14,40 +14,40 @@
             "id": "https://studiomoi.github.io/bomdia.html",
             "url": "https://studiomoi.github.io/bomdia.html",
             "title": "BOMDIA",
-            "image": "https://studiomoi.github.io/media/posts/9/13244870_567113076793537_7697318873297583785_n.jpg",
+            "image": "https://studiomoi.github.io/media/posts/9/giphy.gif",
             "author": {
                 "name": "uk"
             },
             "tags": [
             ],
             "date_published": "2018-09-17T17:01:41+03:00",
-            "date_modified": "2018-09-17T18:36:56+03:00"
+            "date_modified": "2018-09-18T16:12:47+03:00"
         },
         {
             "id": "https://studiomoi.github.io/imza-bir.html",
             "url": "https://studiomoi.github.io/imza-bir.html",
-            "title": "İmza Bir Tost",
-            "image": "https://studiomoi.github.io/media/posts/6/27894457_176886309593734_2540921438500552704_n.jpg",
+            "title": "İMZA BİR TOST",
+            "image": "https://studiomoi.github.io/media/posts/6/maxresdefault.jpg",
             "author": {
                 "name": "uk"
             },
             "tags": [
             ],
             "date_published": "2018-09-17T16:53:46+03:00",
-            "date_modified": "2018-09-17T18:37:47+03:00"
+            "date_modified": "2018-09-18T18:57:20+03:00"
         },
         {
             "id": "https://studiomoi.github.io/a-reasonable.html",
             "url": "https://studiomoi.github.io/a-reasonable.html",
             "title": "A Reasonable Man",
-            "image": "https://studiomoi.github.io/media/posts/7/3.jpg",
+            "image": "https://studiomoi.github.io/media/posts/7/intro_rev2.2018-09-18-19_00_072.gif",
             "author": {
                 "name": "uk"
             },
             "tags": [
             ],
             "date_published": "2018-07-08T16:53:00+03:00",
-            "date_modified": "2018-09-17T18:37:36+03:00"
+            "date_modified": "2018-09-18T19:02:16+03:00"
         },
         {
             "id": "https://studiomoi.github.io/watt.html",
@@ -66,27 +66,29 @@
             "id": "https://studiomoi.github.io/tricore.html",
             "url": "https://studiomoi.github.io/tricore.html",
             "title": "TRICORE ACADEMY",
-            "image": "https://studiomoi.github.io/media/posts/8/37737363_2144549445826644_9036604280181620736_n.jpg",
+            "summary": " ",
+            "content_html": "<p><img class=\"post__image--wide\" src=\"https://studiomoi.github.io/media/posts/8/Tricore-6.jpg\" alt=\"\" width=\"8000\" height=\"2280\"></p>\n<p><img src=\"https://studiomoi.github.io/media/posts/8/Tricore-7.jpg\" alt=\"\" width=\"8000\" height=\"4500\"></p>\n<p><img src=\"https://studiomoi.github.io/media/posts/8/Tricore-5.jpg\" alt=\"\" width=\"8000\" height=\"2486\"></p>",
+            "image": "https://studiomoi.github.io/media/posts/8/Tricore-7.jpg",
             "author": {
                 "name": "uk"
             },
             "tags": [
             ],
             "date_published": "2018-05-15T16:58:00+03:00",
-            "date_modified": "2018-09-17T18:37:14+03:00"
+            "date_modified": "2018-09-18T16:20:38+03:00"
         },
         {
             "id": "https://studiomoi.github.io/digilogue.html",
             "url": "https://studiomoi.github.io/digilogue.html",
             "title": "Digilogue",
-            "image": "https://studiomoi.github.io/media/posts/10/2.jpg",
+            "image": "https://studiomoi.github.io/media/posts/10/digilogue2.2018-09-18-22_52_26.gif",
             "author": {
                 "name": "uk"
             },
             "tags": [
             ],
             "date_published": "2018-04-17T17:05:00+03:00",
-            "date_modified": "2018-09-17T18:36:37+03:00"
+            "date_modified": "2018-09-18T22:53:03+03:00"
         },
         {
             "id": "https://studiomoi.github.io/mkb-dom.html",
@@ -105,6 +107,8 @@
             "id": "https://studiomoi.github.io/soking.html",
             "url": "https://studiomoi.github.io/soking.html",
             "title": "Socking Good",
+            "summary": " ",
+            "content_html": "<p><img class=\"post__image--wide\" src=\"https://studiomoi.github.io/media/posts/4/socking-good-8.jpg\" alt=\"\" width=\"8000\" height=\"2388\"></p>\n<p><img src=\"https://studiomoi.github.io/media/posts/4/socking-good-9.jpg\" alt=\"\" width=\"8000\" height=\"4500\"></p>\n<p><img class=\"post__image--wide\" src=\"https://studiomoi.github.io/media/posts/4/socking-good-20.jpg\" width=\"8000\" height=\"4500\"></p>",
             "image": "https://studiomoi.github.io/media/posts/4/sock.jpg",
             "author": {
                 "name": "uk"
@@ -112,7 +116,7 @@
             "tags": [
             ],
             "date_published": "2018-01-17T16:53:00+03:00",
-            "date_modified": "2018-09-17T18:49:31+03:00"
+            "date_modified": "2018-09-18T16:10:30+03:00"
         },
         {
             "id": "https://studiomoi.github.io/coralia.html",

@@ -41,7 +41,7 @@
             "url": "https://studiomoi.github.io/tricore.html",
             "title": "TRICORE ACADEMY",
             "summary": " ",
-            "content_html": "<p><img class=\"post__image--wide\" src=\"https://studiomoi.github.io/media/posts/8/Tricore-6.jpg\" alt=\"\" width=\"8000\" height=\"2280\"></p>\n<p><img src=\"https://studiomoi.github.io/media/posts/8/Tricore-7.jpg\" alt=\"\" width=\"8000\" height=\"4500\"></p>\n<p><img src=\"https://studiomoi.github.io/media/posts/8/Tricore-5.jpg\" alt=\"\" width=\"8000\" height=\"2486\"></p>",
+            "content_html": "<p><img class=\"post__image--full\" src=\"https://studiomoi.github.io/media/posts/8/Tricore-6.jpg\" alt=\"\" width=\"8000\" height=\"2280\"></p>\n<p><img src=\"https://studiomoi.github.io/media/posts/8/Tricore-7.jpg\" alt=\"\" width=\"8000\" height=\"4500\"></p>\n<p><img src=\"https://studiomoi.github.io/media/posts/8/Tricore-5.jpg\" alt=\"\" width=\"8000\" height=\"2486\"></p>",
             "image": "https://studiomoi.github.io/media/posts/8/Tricore-7.jpg",
             "author": {
                 "name": "uk"
@@ -49,7 +49,7 @@
             "tags": [
             ],
             "date_published": "2018-05-15T16:58:00+03:00",
-            "date_modified": "2018-09-18T16:20:38+03:00"
+            "date_modified": "2018-09-19T18:24:31+03:00"
         },
         {
             "id": "https://studiomoi.github.io/digilogue.html",
@@ -124,6 +124,8 @@
             "id": "https://studiomoi.github.io/bomdia.html",
             "url": "https://studiomoi.github.io/bomdia.html",
             "title": "BOMDIA",
+            "summary": " ",
+            "content_html": "<p><img class=\"post__image--full\" src=\"https://studiomoi.github.io/media/posts/9/3.jpg\" alt=\"\" width=\"2252\" height=\"464\"></p>\n<p><img src=\"https://studiomoi.github.io/media/posts/9/1o6.jpg\" alt=\"\" width=\"1014\" height=\"1014\"></p>",
             "image": "https://studiomoi.github.io/media/posts/9/2.jpg",
             "author": {
                 "name": "uk"
@@ -131,7 +133,7 @@
             "tags": [
             ],
             "date_published": "2017-05-17T17:01:00+03:00",
-            "date_modified": "2018-09-19T15:03:31+03:00"
+            "date_modified": "2018-09-19T18:39:18+03:00"
         }
     ]
 }

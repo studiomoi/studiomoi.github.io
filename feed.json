@@ -27,14 +27,14 @@
             "id": "https://studiomoi.github.io/watt.html",
             "url": "https://studiomoi.github.io/watt.html",
             "title": "Watt Coffee CO",
-            "image": "https://studiomoi.github.io/media/posts/1/Untitled-2.jpg",
+            "image": "https://studiomoi.github.io/media/posts/1/thumb.jpg",
             "author": {
                 "name": "uk"
             },
             "tags": [
             ],
             "date_published": "2018-06-07T14:22:00+03:00",
-            "date_modified": "2018-09-17T18:38:30+03:00"
+            "date_modified": "2018-09-19T17:15:11+03:00"
         },
         {
             "id": "https://studiomoi.github.io/tricore.html",
@@ -68,14 +68,16 @@
             "id": "https://studiomoi.github.io/mkb-dom.html",
             "url": "https://studiomoi.github.io/mkb-dom.html",
             "title": "MKB Tarım &amp; DOM Domates",
-            "image": "https://studiomoi.github.io/media/posts/11/domhepsi.jpg",
+            "summary": " ",
+            "content_html": "<p><img class=\"post__image--wide\" src=\"https://studiomoi.github.io/media/posts/11/sunum-01.jpg\" width=\"3200\" height=\"1800\"></p>\n<p><img src=\"https://studiomoi.github.io/media/posts/11/sunum-05.jpg\" alt=\"\" width=\"3201\" height=\"1800\"></p>\n<p><img src=\"https://studiomoi.github.io/media/posts/11/sunum-07.jpg\" alt=\"\" width=\"3200\" height=\"1800\"></p>\n<p><img src=\"https://studiomoi.github.io/media/posts/11/sunum-01-2.jpg\" alt=\"\" width=\"3200\" height=\"1800\"></p>\n<p><img src=\"https://studiomoi.github.io/media/posts/11/domhepsi.jpg\" alt=\"\" width=\"2000\" height=\"1125\"></p>\n<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://studiomoi.github.io/media/posts/11/gallery/dom1.jpg\" ><img src=\"https://studiomoi.github.io/media/posts/11/gallery/dom1-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://studiomoi.github.io/media/posts/11/gallery/dom2.jpg\" ><img src=\"https://studiomoi.github.io/media/posts/11/gallery/dom2-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://studiomoi.github.io/media/posts/11/gallery/dom3.jpg\" ><img src=\"https://studiomoi.github.io/media/posts/11/gallery/dom3-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://studiomoi.github.io/media/posts/11/gallery/dom4.jpg\" ><img src=\"https://studiomoi.github.io/media/posts/11/gallery/dom4-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://studiomoi.github.io/media/posts/11/gallery/dom5.jpg\" ><img src=\"https://studiomoi.github.io/media/posts/11/gallery/dom5-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n</div>\n<p> </p>",
+            "image": "https://studiomoi.github.io/media/posts/11/thumb.jpg",
             "author": {
                 "name": "uk"
             },
             "tags": [
             ],
             "date_published": "2018-02-17T17:06:00+03:00",
-            "date_modified": "2018-09-17T19:00:54+03:00"
+            "date_modified": "2018-09-19T17:19:45+03:00"
         },
         {
             "id": "https://studiomoi.github.io/soking.html",

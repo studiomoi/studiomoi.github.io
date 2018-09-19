@@ -3,36 +3,12 @@
     <title>moi</title>
     <link href="https://studiomoi.github.io/feed.xml" rel="self" />
     <link href="https://studiomoi.github.io" />
-    <updated>2018-09-19T14:57:41+03:00</updated>
+    <updated>2018-09-19T15:05:49+03:00</updated>
     <author>
         <name>uk</name>
     </author>
     <id>https://studiomoi.github.io</id>
 
-    <entry>
-        <title>BOMDIA</title>
-        <author>
-            <name>uk</name>
-        </author>
-        <link href="https://studiomoi.github.io/bomdia.html"/>
-        <id>https://studiomoi.github.io/bomdia.html</id>
-
-        <updated>2018-09-19T14:57:24+03:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>İMZA BİR TOST</title>
-        <author>
-            <name>uk</name>
-        </author>
-        <link href="https://studiomoi.github.io/imza-bir.html"/>
-        <id>https://studiomoi.github.io/imza-bir.html</id>
-
-        <updated>2018-09-18T18:57:20+03:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
     <entry>
         <title>A Reasonable Man</title>
         <author>
@@ -138,6 +114,30 @@
         <id>https://studiomoi.github.io/coralia.html</id>
 
         <updated>2018-09-17T18:37:55+03:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>İMZA BİR TOST</title>
+        <author>
+            <name>uk</name>
+        </author>
+        <link href="https://studiomoi.github.io/imza-bir.html"/>
+        <id>https://studiomoi.github.io/imza-bir.html</id>
+
+        <updated>2018-09-19T15:05:41+03:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>BOMDIA</title>
+        <author>
+            <name>uk</name>
+        </author>
+        <link href="https://studiomoi.github.io/bomdia.html"/>
+        <id>https://studiomoi.github.io/bomdia.html</id>
+
+        <updated>2018-09-19T15:03:31+03:00</updated>
             <summary></summary>
         <content></content>
     </entry>

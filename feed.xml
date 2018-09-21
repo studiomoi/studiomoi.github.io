@@ -3,7 +3,7 @@
     <title>moi</title>
     <link href="https://studiomoi.github.io/feed.xml" rel="self" />
     <link href="https://studiomoi.github.io" />
-    <updated>2018-09-21T13:59:11+03:00</updated>
+    <updated>2018-09-21T14:12:20+03:00</updated>
     <author>
         <name>uk</name>
     </author>
@@ -17,23 +17,20 @@
         <link href="https://studiomoi.github.io/a-reasonable.html"/>
         <id>https://studiomoi.github.io/a-reasonable.html</id>
 
-        <updated>2018-09-21T13:57:37+03:00</updated>
+        <updated>2018-09-21T14:11:39+03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://studiomoi.github.io/media/posts/7/intro_rev2.2018-09-18-19_00_072.gif" alt="" />
-                     intro &amp; outro of "A Reasonable Man" film 
+                     intro &amp; outro for "A Reasonable Man" film 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://studiomoi.github.io/media/posts/7/intro_rev2.2018-09-18-19_00_072.gif" alt="" />
-                <p><img class="post__image--wide" src="https://studiomoi.github.io/media/posts/7/ev.jpg" width="2048" height="725"></p>
-<p class="align-center">intro &amp; outro of "A Reasonable Man" film</p>
-<h4 class="align-center">INTRO</h4>
-<p><iframe width="640" height="346" src="https://player.vimeo.com/video/291071998?loop=1&amp;color=ffffff&amp;title=0&amp;byline=0&amp;portrait=0" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen"></iframe></p>
-<h4 class="align-center">OUTRO</h4>
-<p><iframe width="640" height="346" src="https://player.vimeo.com/video/291076099?loop=1&amp;color=ffffff&amp;title=0&amp;byline=0&amp;portrait=0" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen"></iframe></p>
-<figure class="post__video"></figure>
+                <p><img class="post__image--wide" src="https://studiomoi.github.io/media/posts/7/ev.jpg" alt="" width="2048" height="725"></p>
+<p class="align-center">intro &amp; outro for "A Reasonable Man" film</p>
+<p><iframe width="640" height="346" src="https://player.vimeo.com/video/291071998?color=ffffff&amp;title=0&amp;byline=0&amp;portrait=0" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen"></iframe></p>
+<p><iframe width="640" height="346" src="https://player.vimeo.com/video/291076099?color=ffffff&amp;title=0&amp;byline=0&amp;portrait=0" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen"></iframe></p>
             ]]>
         </content>
     </entry>

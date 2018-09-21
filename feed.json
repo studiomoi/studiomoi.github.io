@@ -128,7 +128,7 @@
             "url": "https://studiomoi.github.io/bomdia.html",
             "title": "BOMDIA",
             "summary": " ",
-            "content_html": "<p><img class=\"post__image--full\" src=\"https://studiomoi.github.io/media/posts/9/3.jpg\" alt=\"\" width=\"2252\" height=\"464\"></p>\n<p><img src=\"https://studiomoi.github.io/media/posts/9/1o6.jpg\" alt=\"\" width=\"1014\" height=\"1014\"></p>",
+            "content_html": "<p><img class=\"post__image--wide\" src=\"https://studiomoi.github.io/media/posts/9/3-copy.jpg\" alt=\"\" width=\"1532\" height=\"464\"></p>\n<p><img class=\"post__image--wide\" src=\"https://studiomoi.github.io/media/posts/9/1o6.jpg\" width=\"1014\" height=\"1014\"></p>",
             "image": "https://studiomoi.github.io/media/posts/9/2.jpg",
             "author": {
                 "name": "uk"
@@ -136,7 +136,7 @@
             "tags": [
             ],
             "date_published": "2017-05-17T17:01:00+03:00",
-            "date_modified": "2018-09-19T18:39:18+03:00"
+            "date_modified": "2018-09-21T14:42:22+03:00"
         }
     ]
 }

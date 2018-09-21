@@ -41,9 +41,9 @@
         {
             "id": "https://studiomoi.github.io/tricore.html",
             "url": "https://studiomoi.github.io/tricore.html",
-            "title": "TRICORE ACADEMY",
+            "title": "Tricore Academy",
             "summary": " ",
-            "content_html": "<p><img src=\"https://studiomoi.github.io/media/posts/8/gif.gif\" alt=\"\" width=\"800\" height=\"800\"></p>\n<p><img class=\"post__image--wide\" src=\"https://studiomoi.github.io/media/posts/8/4.jpg\" alt=\"\" width=\"1920\" height=\"1080\"></p>\n<p><img class=\"post__image--wide\" src=\"https://studiomoi.github.io/media/posts/8/logoyatay.jpg\" width=\"2180\" height=\"450\"></p>\n<p><img class=\"post__image--wide\" src=\"https://studiomoi.github.io/media/posts/8/1.jpg\" alt=\"\" width=\"2180\" height=\"1226\"></p>\n<p><img class=\"post__image--wide\" src=\"https://studiomoi.github.io/media/posts/8/Scene1.jpg\" alt=\"\" width=\"2048\" height=\"1188\"></p>\n<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://studiomoi.github.io/media/posts/8/gallery/38507947_1102598496567324_2942527969035288576_n.jpg\" ><img src=\"https://studiomoi.github.io/media/posts/8/gallery/38507947_1102598496567324_2942527969035288576_n-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://studiomoi.github.io/media/posts/8/gallery/37737363_2144549445826644_9036604280181620736_n.jpg\" ><img src=\"https://studiomoi.github.io/media/posts/8/gallery/37737363_2144549445826644_9036604280181620736_n-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n</div>",
+            "content_html": "<p><img src=\"https://studiomoi.github.io/media/posts/8/gif.gif\" alt=\"\" width=\"800\" height=\"800\"></p>\n<p><img class=\"post__image--wide\" src=\"https://studiomoi.github.io/media/posts/8/4.jpg\" alt=\"\" width=\"1920\" height=\"1080\"></p>\n<p><img class=\"post__image--wide\" src=\"https://studiomoi.github.io/media/posts/8/logoyatay.jpg\" width=\"2180\" height=\"450\"></p>\n<p><img class=\"post__image--wide\" src=\"https://studiomoi.github.io/media/posts/8/1.jpg\" alt=\"\" width=\"2180\" height=\"1226\"></p>\n<p><img class=\"post__image--wide\" src=\"https://studiomoi.github.io/media/posts/8/Scene1.jpg\" alt=\"\" width=\"2048\" height=\"1188\"></p>\n<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://studiomoi.github.io/media/posts/8/gallery/38507947_1102598496567324_2942527969035288576_n.jpg\" ><img src=\"https://studiomoi.github.io/media/posts/8/gallery/38507947_1102598496567324_2942527969035288576_n-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://studiomoi.github.io/media/posts/8/gallery/37737363_2144549445826644_9036604280181620736_n.jpg\" ><img src=\"https://studiomoi.github.io/media/posts/8/gallery/37737363_2144549445826644_9036604280181620736_n-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://studiomoi.github.io/media/posts/8/gallery/40199814_351934188707864_1320916010951593830_n.jpg\" ><img src=\"https://studiomoi.github.io/media/posts/8/gallery/40199814_351934188707864_1320916010951593830_n-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n</div>",
             "image": "https://studiomoi.github.io/media/posts/8/thumb.jpg",
             "author": {
                 "name": "uk"
@@ -51,7 +51,7 @@
             "tags": [
             ],
             "date_published": "2018-05-15T16:58:00+03:00",
-            "date_modified": "2018-09-21T12:16:48+03:00"
+            "date_modified": "2018-09-21T14:53:50+03:00"
         },
         {
             "id": "https://studiomoi.github.io/digilogue.html",
@@ -126,7 +126,7 @@
         {
             "id": "https://studiomoi.github.io/bomdia.html",
             "url": "https://studiomoi.github.io/bomdia.html",
-            "title": "BOMDIA",
+            "title": "Bomdia Alaçatı",
             "summary": " ",
             "content_html": "<p><img class=\"post__image--wide\" src=\"https://studiomoi.github.io/media/posts/9/3-copy.jpg\" alt=\"\" width=\"1532\" height=\"464\"></p>\n<p><img class=\"post__image--wide\" src=\"https://studiomoi.github.io/media/posts/9/1o6.jpg\" width=\"1014\" height=\"1014\"></p>",
             "image": "https://studiomoi.github.io/media/posts/9/2.jpg",
@@ -136,7 +136,7 @@
             "tags": [
             ],
             "date_published": "2017-05-17T17:01:00+03:00",
-            "date_modified": "2018-09-21T14:42:22+03:00"
+            "date_modified": "2018-09-21T14:52:05+03:00"
         }
     ]
 }

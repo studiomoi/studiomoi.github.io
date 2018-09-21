@@ -14,8 +14,8 @@
             "id": "https://studiomoi.github.io/a-reasonable.html",
             "url": "https://studiomoi.github.io/a-reasonable.html",
             "title": "A Reasonable Man",
-            "summary": " intro &amp; outro for \"A Reasonable Man\" film ",
-            "content_html": "<p><img class=\"post__image--wide\" src=\"https://studiomoi.github.io/media/posts/7/ev.jpg\" alt=\"\" width=\"2048\" height=\"725\"></p>\n<p class=\"align-center\">intro &amp; outro for \"A Reasonable Man\" film</p>\n<p><iframe width=\"640\" height=\"346\" src=\"https://player.vimeo.com/video/291071998?color=ffffff&amp;title=0&amp;byline=0&amp;portrait=0\" frameborder=\"0\" webkitallowfullscreen=\"webkitallowfullscreen\" mozallowfullscreen=\"mozallowfullscreen\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p><iframe width=\"640\" height=\"346\" src=\"https://player.vimeo.com/video/291076099?color=ffffff&amp;title=0&amp;byline=0&amp;portrait=0\" frameborder=\"0\" webkitallowfullscreen=\"webkitallowfullscreen\" mozallowfullscreen=\"mozallowfullscreen\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+            "summary": " intro &amp; outro for \"A Reasonable Man\" film",
+            "content_html": "<p><img class=\"post__image--wide\" src=\"https://studiomoi.github.io/media/posts/7/full.jpg\" alt=\"\" width=\"2080\" height=\"780\"></p>\n<p class=\"align-center\">intro &amp; outro for \"A Reasonable Man\" film</p>\n<figure class=\"post__video\"><iframe width=\"425\" height=\"350\" src=\"https://player.vimeo.com/video/291071998?title=0&amp;amp;byline=0\" allowfullscreen=\"allowfullscreen\" ></iframe></figure>\n<figure class=\"post__video\"><iframe width=\"425\" height=\"350\" src=\"https://player.vimeo.com/video/291076099?title=0&amp;amp;byline=0\" allowfullscreen=\"allowfullscreen\" ></iframe></figure>\n<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://studiomoi.github.io/media/posts/7/gallery/33.jpg\" ><img src=\"https://studiomoi.github.io/media/posts/7/gallery/33-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://studiomoi.github.io/media/posts/7/gallery/22.jpg\" ><img src=\"https://studiomoi.github.io/media/posts/7/gallery/22-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://studiomoi.github.io/media/posts/7/gallery/11.jpg\" ><img src=\"https://studiomoi.github.io/media/posts/7/gallery/11-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n</div>",
             "image": "https://studiomoi.github.io/media/posts/7/intro_rev2.2018-09-18-19_00_072.gif",
             "author": {
                 "name": "uk"
@@ -23,7 +23,7 @@
             "tags": [
             ],
             "date_published": "2018-07-08T16:53:00+03:00",
-            "date_modified": "2018-09-21T14:11:39+03:00"
+            "date_modified": "2018-09-21T14:31:56+03:00"
         },
         {
             "id": "https://studiomoi.github.io/watt.html",

@@ -55,6 +55,7 @@
             "id": "https://studiomoi.github.io/digilogue.html",
             "url": "https://studiomoi.github.io/digilogue.html",
             "title": "Digilogue",
+            "content_html": "<figure class=\"post__video\"><iframe width=\"640\" height=\"320\" src=\"https://player.vimeo.com/video/236358264?title=0&amp;amp;byline=0\" allowfullscreen=\"allowfullscreen\"></iframe></figure>",
             "image": "https://studiomoi.github.io/media/posts/10/l.2018-09-19-07_22_52.gif",
             "author": {
                 "name": "uk"
@@ -62,7 +63,7 @@
             "tags": [
             ],
             "date_published": "2018-04-17T17:05:00+03:00",
-            "date_modified": "2018-09-19T07:23:30+03:00"
+            "date_modified": "2018-09-21T11:28:15+03:00"
         },
         {
             "id": "https://studiomoi.github.io/mkb-dom.html",

@@ -3,7 +3,7 @@
     <title>moi</title>
     <link href="https://studiomoi.github.io/feed.xml" rel="self" />
     <link href="https://studiomoi.github.io" />
-    <updated>2018-09-21T11:15:52+03:00</updated>
+    <updated>2018-09-21T11:30:32+03:00</updated>
     <author>
         <name>uk</name>
     </author>
@@ -65,9 +65,14 @@
         <link href="https://studiomoi.github.io/digilogue.html"/>
         <id>https://studiomoi.github.io/digilogue.html</id>
 
-        <updated>2018-09-19T07:23:30+03:00</updated>
+        <updated>2018-09-21T11:28:15+03:00</updated>
             <summary></summary>
-        <content></content>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://studiomoi.github.io/media/posts/10/l.2018-09-19-07_22_52.gif" alt="" />
+                <figure class="post__video"><iframe width="640" height="320" src="https://player.vimeo.com/video/236358264?title=0&amp;amp;byline=0" allowfullscreen="allowfullscreen"></iframe></figure>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>MKB Tarım &amp; DOM Domates</title>

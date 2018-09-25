@@ -3,7 +3,7 @@
     <title>moi</title>
     <link href="https://studiomoi.github.io/feed.xml" rel="self" />
     <link href="https://studiomoi.github.io" />
-    <updated>2018-09-23T10:29:40+03:00</updated>
+    <updated>2018-09-25T14:47:51+03:00</updated>
     <author>
         <name>uk</name>
     </author>
@@ -47,7 +47,7 @@
         <link href="https://studiomoi.github.io/watt.html"/>
         <id>https://studiomoi.github.io/watt.html</id>
 
-        <updated>2018-09-23T10:23:34+03:00</updated>
+        <updated>2018-09-23T10:34:27+03:00</updated>
             <summary></summary>
         <content></content>
     </entry>
@@ -90,12 +90,19 @@
         <link href="https://studiomoi.github.io/digilogue.html"/>
         <id>https://studiomoi.github.io/digilogue.html</id>
 
-        <updated>2018-09-21T11:28:15+03:00</updated>
-            <summary></summary>
+        <updated>2018-09-25T14:45:35+03:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://studiomoi.github.io/media/posts/10/l.2018-09-19-07_22_52.gif" alt="" />
+                     
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://studiomoi.github.io/media/posts/10/l.2018-09-19-07_22_52.gif" alt="" />
-                <figure class="post__video"><iframe width="640" height="320" src="https://player.vimeo.com/video/236358264?title=0&amp;amp;byline=0" allowfullscreen="allowfullscreen"></iframe></figure>
+                <p><img class="post__image--wide" src="https://studiomoi.github.io/media/posts/10/2digilo.jpg" alt="" width="2000" height="1026"></p>
+<figure class="post__video"><iframe width="425" height="350" src="https://player.vimeo.com/video/291680815?title=0&amp;amp;byline=0" allowfullscreen="allowfullscreen" ></iframe> </figure>
+<figure class="post__video"><iframe width="425" height="350" src="https://player.vimeo.com/video/291351550?title=0&amp;amp;byline=0" allowfullscreen="allowfullscreen" ></iframe></figure>
             ]]>
         </content>
     </entry>

@@ -36,7 +36,7 @@
             "tags": [
             ],
             "date_published": "2018-06-07T14:22:00+03:00",
-            "date_modified": "2018-09-23T10:23:34+03:00"
+            "date_modified": "2018-09-23T10:34:27+03:00"
         },
         {
             "id": "https://studiomoi.github.io/tricore.html",
@@ -57,7 +57,8 @@
             "id": "https://studiomoi.github.io/digilogue.html",
             "url": "https://studiomoi.github.io/digilogue.html",
             "title": "Digilogue",
-            "content_html": "<figure class=\"post__video\"><iframe width=\"640\" height=\"320\" src=\"https://player.vimeo.com/video/236358264?title=0&amp;amp;byline=0\" allowfullscreen=\"allowfullscreen\"></iframe></figure>",
+            "summary": " ",
+            "content_html": "<p><img class=\"post__image--wide\" src=\"https://studiomoi.github.io/media/posts/10/2digilo.jpg\" alt=\"\" width=\"2000\" height=\"1026\"></p>\n<figure class=\"post__video\"><iframe width=\"425\" height=\"350\" src=\"https://player.vimeo.com/video/291680815?title=0&amp;amp;byline=0\" allowfullscreen=\"allowfullscreen\" ></iframe> </figure>\n<figure class=\"post__video\"><iframe width=\"425\" height=\"350\" src=\"https://player.vimeo.com/video/291351550?title=0&amp;amp;byline=0\" allowfullscreen=\"allowfullscreen\" ></iframe></figure>",
             "image": "https://studiomoi.github.io/media/posts/10/l.2018-09-19-07_22_52.gif",
             "author": {
                 "name": "uk"
@@ -65,7 +66,7 @@
             "tags": [
             ],
             "date_published": "2018-04-17T17:05:00+03:00",
-            "date_modified": "2018-09-21T11:28:15+03:00"
+            "date_modified": "2018-09-25T14:45:35+03:00"
         },
         {
             "id": "https://studiomoi.github.io/mkb-dom.html",

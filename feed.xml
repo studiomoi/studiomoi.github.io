@@ -3,12 +3,24 @@
     <title>moi</title>
     <link href="https://studiomoi.github.io/feed.xml" rel="self" />
     <link href="https://studiomoi.github.io" />
-    <updated>2018-09-25T14:47:51+03:00</updated>
+    <updated>2018-09-26T13:00:18+03:00</updated>
     <author>
         <name>uk</name>
     </author>
     <id>https://studiomoi.github.io</id>
 
+    <entry>
+        <title>Dolce By Cemile</title>
+        <author>
+            <name>uk</name>
+        </author>
+        <link href="https://studiomoi.github.io/dolce-by-cemile.html"/>
+        <id>https://studiomoi.github.io/dolce-by-cemile.html</id>
+
+        <updated>2018-09-26T12:31:13+03:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>A Reasonable Man</title>
         <author>
@@ -47,7 +59,7 @@
         <link href="https://studiomoi.github.io/watt.html"/>
         <id>https://studiomoi.github.io/watt.html</id>
 
-        <updated>2018-09-23T10:34:27+03:00</updated>
+        <updated>2018-09-26T12:57:30+03:00</updated>
             <summary></summary>
         <content></content>
     </entry>

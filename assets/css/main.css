@@ -870,7 +870,7 @@ main {
   text-align: center;
   top: 0; }
   .hero:after {
-    border-bottom: 1px solid #dedede;
+  
     content: "";
     display: block;
     margin: 2rem auto 0;

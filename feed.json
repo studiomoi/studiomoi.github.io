@@ -42,6 +42,8 @@
             "id": "https://studiomoi.github.io/watt.html",
             "url": "https://studiomoi.github.io/watt.html",
             "title": "Watt Coffee CO",
+            "summary": " ",
+            "content_html": "<p><img src=\"https://studiomoi.github.io/media/posts/1/ust.gif\" alt=\"\" width=\"800\" height=\"800\"></p>\n<p><img class=\"post__image--wide\" src=\"https://studiomoi.github.io/media/posts/1/14.jpg\" alt=\"\" width=\"1920\" height=\"1080\"></p>\n<p><img class=\"post__image--wide\" src=\"https://studiomoi.github.io/media/posts/1/05_Coffee_Stationery_Mockup.jpg\" alt=\"\" width=\"1920\" height=\"1080\"></p>\n<p><img class=\"post__image--wide\" src=\"https://studiomoi.github.io/media/posts/1/ellee.jpg\" alt=\"\" width=\"2000\" height=\"334\"></p>\n<p><img class=\"post__image--wide\" src=\"https://studiomoi.github.io/media/posts/1/12.jpg\" alt=\"\" width=\"1920\" height=\"1080\"></p>\n<p> </p>\n<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://studiomoi.github.io/media/posts/1/gallery/40317119_2170563206526591_2112279698418074369_n.jpg\" ><img src=\"https://studiomoi.github.io/media/posts/1/gallery/40317119_2170563206526591_2112279698418074369_n-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://studiomoi.github.io/media/posts/1/gallery/39507590_1612313285544753_6515143402923753472_n.jpg\" ><img src=\"https://studiomoi.github.io/media/posts/1/gallery/39507590_1612313285544753_6515143402923753472_n-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://studiomoi.github.io/media/posts/1/gallery/39331420_299143724225873_8280586604683198464_n.jpg\" ><img src=\"https://studiomoi.github.io/media/posts/1/gallery/39331420_299143724225873_8280586604683198464_n-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://studiomoi.github.io/media/posts/1/gallery/39878368_2622380141320764_6354055109684494336_n.jpg\" ><img src=\"https://studiomoi.github.io/media/posts/1/gallery/39878368_2622380141320764_6354055109684494336_n-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://studiomoi.github.io/media/posts/1/gallery/38871490_451400525344453_9166359854988656640_n.jpg\" ><img src=\"https://studiomoi.github.io/media/posts/1/gallery/38871490_451400525344453_9166359854988656640_n-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n</div>",
             "image": "https://studiomoi.github.io/media/posts/1/4.jpg",
             "author": {
                 "name": "uk"
@@ -49,7 +51,7 @@
             "tags": [
             ],
             "date_published": "2018-06-07T14:22:00+03:00",
-            "date_modified": "2018-09-26T12:57:30+03:00"
+            "date_modified": "2018-09-26T15:13:41+03:00"
         },
         {
             "id": "https://studiomoi.github.io/tricore.html",
@@ -100,16 +102,14 @@
             "id": "https://studiomoi.github.io/soking.html",
             "url": "https://studiomoi.github.io/soking.html",
             "title": "Socking Good",
-            "summary": " ",
-            "content_html": "<p><img class=\"post__image--wide\" src=\"https://studiomoi.github.io/media/posts/4/socking-good-8.jpg\" alt=\"\" width=\"8000\" height=\"2388\"></p>\n<p><img src=\"https://studiomoi.github.io/media/posts/4/socking-good-9.jpg\" alt=\"\" width=\"8000\" height=\"4500\"></p>\n<p><img class=\"post__image--wide\" src=\"https://studiomoi.github.io/media/posts/4/socking-good-20.jpg\" width=\"8000\" height=\"4500\"></p>",
-            "image": "https://studiomoi.github.io/media/posts/4/sock.jpg",
+            "image": "https://studiomoi.github.io/media/posts/4/sg-1.jpg",
             "author": {
                 "name": "uk"
             },
             "tags": [
             ],
             "date_published": "2018-01-17T16:53:00+03:00",
-            "date_modified": "2018-09-18T16:10:30+03:00"
+            "date_modified": "2018-09-26T13:17:38+03:00"
         },
         {
             "id": "https://studiomoi.github.io/coralia.html",

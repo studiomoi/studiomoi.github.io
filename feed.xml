@@ -3,7 +3,7 @@
     <title>moi</title>
     <link href="https://studiomoi.github.io/feed.xml" rel="self" />
     <link href="https://studiomoi.github.io" />
-    <updated>2018-09-27T15:17:08+03:00</updated>
+    <updated>2018-09-27T20:20:25+03:00</updated>
     <author>
         <name>uk</name>
     </author>
@@ -226,16 +226,45 @@
         </content>
     </entry>
     <entry>
-        <title>CORALIA</title>
+        <title>Coralia Liveaboard</title>
         <author>
             <name>uk</name>
         </author>
         <link href="https://studiomoi.github.io/coralia.html"/>
         <id>https://studiomoi.github.io/coralia.html</id>
 
-        <updated>2018-09-17T18:37:55+03:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2018-09-27T20:19:39+03:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://studiomoi.github.io/media/posts/5/logO-main.jpg" alt="" />
+                     Coralia is a classic Phinisi that’s built in Bira, Sulawesi by&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://studiomoi.github.io/media/posts/5/logO-main.jpg" alt="" />
+                <p class="align-center"><img class="post__image--wide" src="https://studiomoi.github.io/media/posts/5/logO.jpg" alt="" width="2000" height="1125"></p>
+<hr>
+<p class="align-center">Coralia is a classic Phinisi that’s built in Bira, Sulawesi by the Konjo tribe that has been building cargo ships for centuries.</p>
+<p class="align-center">Coralia is a project by Papua Explorers that have been renown for exceptional service quality and commitment to protecting the nature while developing local communities in Raja Ampat.</p>
+<div class="gallery"   >
+<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/5/gallery/1.jpg" ><img src="https://studiomoi.github.io/media/posts/5/gallery/1-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/5/gallery/2.jpg" ><img src="https://studiomoi.github.io/media/posts/5/gallery/2-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/5/gallery/3.jpg" ><img src="https://studiomoi.github.io/media/posts/5/gallery/3-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/5/gallery/4.jpg" ><img src="https://studiomoi.github.io/media/posts/5/gallery/4-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/5/gallery/5.jpg" ><img src="https://studiomoi.github.io/media/posts/5/gallery/5-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/5/gallery/6.jpg" ><img src="https://studiomoi.github.io/media/posts/5/gallery/6-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/5/gallery/7.jpg" ><img src="https://studiomoi.github.io/media/posts/5/gallery/7-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/5/gallery/9.jpg" ><img src="https://studiomoi.github.io/media/posts/5/gallery/9-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+</div>
+<hr>
+<p><img class="post__image--wide" src="https://studiomoi.github.io/media/posts/5/branding.jpg" alt="" width="2000" height="1364"></p>
+<p><img class="post__image--wide" src="https://studiomoi.github.io/media/posts/5/bro1.jpg" alt="" width="2000" height="1125"><img class="post__image--wide" src="https://studiomoi.github.io/media/posts/5/bro2.jpg" alt="" width="2000" height="1273"></p>
+<p><img class="post__image--wide" src="https://studiomoi.github.io/media/posts/5/kart.jpg" alt="" width="1920" height="1080"></p>
+<p><img class="post__image--wide" src="https://studiomoi.github.io/media/posts/5/kart2.jpg" alt="" width="1920" height="1080"><img class="post__image--wide" src="https://studiomoi.github.io/media/posts/5/web.jpg" alt="" width="1672" height="1399"></p>
+<p class="align-center"><a href="https://www.coralia-liveaboard.com/" target="_blank" rel="noopener noreferrer">www.coralia-liveaboard.com</a></p>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>İmza: Bir Tost </title>

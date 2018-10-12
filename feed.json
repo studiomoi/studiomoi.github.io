@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://studiomoi.github.io/shine-album-art.html",
+            "url": "https://studiomoi.github.io/shine-album-art.html",
+            "title": "Shine Album Art",
+            "summary": " ",
+            "content_html": "<div align=\"center\"> </div>\n<div align=\"center\"> <img class=\"post__image--center\" src=\"https://studiomoi.github.io/media/posts/13/instful.gif\" alt=\"\" width=\"500\" height=\"500\"></div>\n<div align=\"center\"> </div>\n<div align=\"center\"> </div>\n<div align=\"center\"> </div>\n<div align=\"center\"><iframe width=\"300\" height=\"380\" src=\"https://open.spotify.com/embed/track/4l5rxePszAOG4KSzCWh1M0\" frameborder=\"0\" allowtransparency=\"true\" allow=\"encrypted-media\" ></iframe></div>",
+            "image": "https://studiomoi.github.io/media/posts/13/ezgif.com-optimize1.gif",
+            "author": {
+                "name": "uk"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-10-12T18:53:55+03:00",
+            "date_modified": "2018-10-12T19:30:29+03:00"
+        },
+        {
             "id": "https://studiomoi.github.io/dolce-by-cemile.html",
             "url": "https://studiomoi.github.io/dolce-by-cemile.html",
             "title": "Dolce By Cemile",
@@ -144,21 +159,6 @@
             ],
             "date_published": "2017-07-26T16:53:00+03:00",
             "date_modified": "2018-09-28T10:57:32+03:00"
-        },
-        {
-            "id": "https://studiomoi.github.io/bomdia.html",
-            "url": "https://studiomoi.github.io/bomdia.html",
-            "title": "Bomdia Alaçatı",
-            "summary": " ",
-            "content_html": "<p><img class=\"post__image--wide\" src=\"https://studiomoi.github.io/media/posts/9/3-copy.jpg\" alt=\"\" width=\"1532\" height=\"464\"></p>\n<p><img class=\"post__image--wide\" src=\"https://studiomoi.github.io/media/posts/9/1o6.jpg\" width=\"1014\" height=\"1014\"></p>",
-            "image": "https://studiomoi.github.io/media/posts/9/2.jpg",
-            "author": {
-                "name": "uk"
-            },
-            "tags": [
-            ],
-            "date_published": "2017-05-17T17:01:00+03:00",
-            "date_modified": "2018-09-21T14:52:05+03:00"
         }
     ]
 }

@@ -3,7 +3,7 @@
     <title>moi</title>
     <link href="https://studiomoi.github.io/feed.xml" rel="self" />
     <link href="https://studiomoi.github.io" />
-    <updated>2020-07-11T18:00:40+03:00</updated>
+    <updated>2020-07-11T18:00:20+03:00</updated>
     <author>
         <name>uk</name>
     </author>
@@ -21,13 +21,44 @@
             <summary>
                 <![CDATA[
                         <img src="https://studiomoi.github.io/media/posts/16/Frambuaz0001.jpg" alt="" />
-                    [{"id":1594472575983,"type":"publii-image","content":{"image":"https://studiomoi.github.io/media/posts/16/Frambuaz0001post.jpg","imageHeight":1199,"imageWidth":1500,"alt":"","caption":""},"config":{"imageAlign":"center","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","id":""}}},{"id":1594472616638,"type":"publii-paragraph","content":"3D bottle and box visualization for Vocalzone Kids&nbsp;","config":{"textAlign":"center","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1594473465288,"type":"publii-image","content":{"image":"https://studiomoi.github.io/media/posts/16/fram.gif","imageHeight":350,"imageWidth":350,"alt":"","caption":""},"config":{"imageAlign":"center","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","id":""}}},{"id":1594479583636,"type":"publii-paragraph","content":"We modeled and rendered the&hellip;
+                     3D bottle and box visualization for Vocalzone Kids&nbsp; We modeled and&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://studiomoi.github.io/media/posts/16/Frambuaz0001.jpg" alt="" />
-                [{"id":1594472575983,"type":"publii-image","content":{"image":"https://studiomoi.github.io/media/posts/16/Frambuaz0001post.jpg","imageHeight":1199,"imageWidth":1500,"alt":"","caption":""},"config":{"imageAlign":"center","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","id":""}}},{"id":1594472616638,"type":"publii-paragraph","content":"3D bottle and box visualization for Vocalzone Kids&nbsp;","config":{"textAlign":"center","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1594473465288,"type":"publii-image","content":{"image":"https://studiomoi.github.io/media/posts/16/fram.gif","imageHeight":350,"imageWidth":350,"alt":"","caption":""},"config":{"imageAlign":"center","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","id":""}}},{"id":1594479583636,"type":"publii-paragraph","content":"We modeled and rendered the products shots for vocalzone kids.&nbsp;","config":{"textAlign":"center","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1594472705306,"type":"publii-image","content":{"image":"https://studiomoi.github.io/media/posts/16/Frambuaz0002.jpg","imageHeight":1200,"imageWidth":1200,"alt":"","caption":""},"config":{"imageAlign":"center","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","id":""}}},{"id":1594473063930,"type":"publii-image","content":{"image":"https://studiomoi.github.io/media/posts/16/Frambuaz0003.jpg","imageHeight":1200,"imageWidth":1200,"alt":"","caption":""},"config":{"imageAlign":"center","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","id":""}}},{"id":1594473075314,"type":"publii-paragraph","content":"Elements on sticker and box are not designed by us.","config":{"textAlign":"center","advanced":{"style":"","cssClasses":"","id":""}}}]
+                
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://studiomoi.github.io/media/posts/16/Frambuaz0001post.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/16/responsive/Frambuaz0001post-xs.jpg 300w ,https://studiomoi.github.io/media/posts/16/responsive/Frambuaz0001post-sm.jpg 480w ,https://studiomoi.github.io/media/posts/16/responsive/Frambuaz0001post-md.jpg 768w ,https://studiomoi.github.io/media/posts/16/responsive/Frambuaz0001post-lg.jpg 1024w"  height="1199" width="1500" alt="" />
+      
+    </figure>
+
+  <p class="align-center">
+    3D bottle and box visualization for Vocalzone Kids&nbsp;
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://studiomoi.github.io/media/posts/16/fram.gif" height="350" width="350" alt="" />
+      
+    </figure>
+
+  <p class="align-center">
+    We modeled and rendered the products shots for vocalzone kids.&nbsp;
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://studiomoi.github.io/media/posts/16/Frambuaz0002.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/16/responsive/Frambuaz0002-xs.jpg 300w ,https://studiomoi.github.io/media/posts/16/responsive/Frambuaz0002-sm.jpg 480w ,https://studiomoi.github.io/media/posts/16/responsive/Frambuaz0002-md.jpg 768w ,https://studiomoi.github.io/media/posts/16/responsive/Frambuaz0002-lg.jpg 1024w"  height="1200" width="1200" alt="" />
+      
+    </figure>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://studiomoi.github.io/media/posts/16/Frambuaz0003.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/16/responsive/Frambuaz0003-xs.jpg 300w ,https://studiomoi.github.io/media/posts/16/responsive/Frambuaz0003-sm.jpg 480w ,https://studiomoi.github.io/media/posts/16/responsive/Frambuaz0003-md.jpg 768w ,https://studiomoi.github.io/media/posts/16/responsive/Frambuaz0003-lg.jpg 1024w"  height="1200" width="1200" alt="" />
+      
+    </figure>
+
+  <p class="align-center">
+    Elements on sticker and box are not designed by us.
+  </p>
             ]]>
         </content>
     </entry>
@@ -43,35 +74,35 @@
             <summary>
                 <![CDATA[
                         <img src="https://studiomoi.github.io/media/posts/6/main.jpg" alt="" />
-                     İmza Bir Tost on instagram 
+                    İmza Bir Tost on instagram 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://studiomoi.github.io/media/posts/6/main.jpg" alt="" />
-                <p><img class="post__image--wide" src="https://studiomoi.github.io/media/posts/6/ibt-1-1.jpg" alt="" width="2000" height="1120"></p>
-<p><img class="post__image--wide" src="https://studiomoi.github.io/media/posts/6/ibt-2-1.jpg" alt="" width="2000" height="1120"></p>
-<p><img class="post__image--wide" src="https://studiomoi.github.io/media/posts/6/ibt-2-2.jpg" alt="" width="2000" height="1120"></p>
-<p><img class="post__image--wide" src="https://studiomoi.github.io/media/posts/6/ibt-2-4.jpg" alt="" width="2000" height="1120"><img class="post__image--wide" src="https://studiomoi.github.io/media/posts/6/ibt-2-3.jpg" alt="" width="2000" height="1120"></p>
-<div class="gallery"   >
-<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/6/gallery/ibt-msj-01.jpg" ><img src="https://studiomoi.github.io/media/posts/6/gallery/ibt-msj-01-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
-<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/6/gallery/ibt-msj-02.jpg" ><img src="https://studiomoi.github.io/media/posts/6/gallery/ibt-msj-02-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
-<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/6/gallery/ibt-msj-03.jpg" ><img src="https://studiomoi.github.io/media/posts/6/gallery/ibt-msj-03-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
-<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/6/gallery/ibt-msj-04.jpg" ><img src="https://studiomoi.github.io/media/posts/6/gallery/ibt-msj-04-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
-</div>
-<p><img class="post__image--wide" src="https://studiomoi.github.io/media/posts/6/ibt-2.jpg" alt="" width="1396" height="1080"></p>
-<p><img class="post__image--wide" src="https://studiomoi.github.io/media/posts/6/ibt-3.jpg" alt="" width="2000" height="1125"></p>
-<p><img class="post__image--wide" src="https://studiomoi.github.io/media/posts/6/ibt-4.jpg" alt="" width="2000" height="1148"></p>
-<div class="gallery"   >
-<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/6/gallery/ttttttt.png" ><img src="https://studiomoi.github.io/media/posts/6/gallery/ttttttt-thumbnail.png" alt="" width="240" height="240"></a></figure>
-<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/6/gallery/tttt.png" ><img src="https://studiomoi.github.io/media/posts/6/gallery/tttt-thumbnail.png" alt="" width="240" height="240"></a></figure>
-<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/6/gallery/ttt.png" ><img src="https://studiomoi.github.io/media/posts/6/gallery/ttt-thumbnail.png" alt="" width="240" height="240"></a></figure>
-<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/6/gallery/tt.png" ><img src="https://studiomoi.github.io/media/posts/6/gallery/tt-thumbnail.png" alt="" width="240" height="240"></a></figure>
-<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/6/gallery/t.png" ><img src="https://studiomoi.github.io/media/posts/6/gallery/t-thumbnail.png" alt="" width="240" height="240"></a></figure>
-<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/6/gallery/Screen-Shot-2018-09-26-at-7.27.37-PM.png" ><img src="https://studiomoi.github.io/media/posts/6/gallery/Screen-Shot-2018-09-26-at-7.27.37-PM-thumbnail.png" alt="" width="240" height="240"></a></figure>
-<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/6/gallery/Screen-Shot-2018-09-26-at-5.48.16-PM.png" ><img src="https://studiomoi.github.io/media/posts/6/gallery/Screen-Shot-2018-09-26-at-5.48.16-PM-thumbnail.png" alt="" width="240" height="240"></a></figure>
-<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/6/gallery/Screen-Shot-2018-09-26-at-5.47.29-PM.png" ><img src="https://studiomoi.github.io/media/posts/6/gallery/Screen-Shot-2018-09-26-at-5.47.29-PM-thumbnail.png" alt="" width="240" height="240"></a></figure>
-</div>
+                <figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/6/ibt-1-1.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/6/responsive/ibt-1-1-xs.jpg 300w ,https://studiomoi.github.io/media/posts/6/responsive/ibt-1-1-sm.jpg 480w ,https://studiomoi.github.io/media/posts/6/responsive/ibt-1-1-md.jpg 768w ,https://studiomoi.github.io/media/posts/6/responsive/ibt-1-1-lg.jpg 1024w"  alt="" width="2000" height="1120"></figure>
+<figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/6/ibt-2-1.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/6/responsive/ibt-2-1-xs.jpg 300w ,https://studiomoi.github.io/media/posts/6/responsive/ibt-2-1-sm.jpg 480w ,https://studiomoi.github.io/media/posts/6/responsive/ibt-2-1-md.jpg 768w ,https://studiomoi.github.io/media/posts/6/responsive/ibt-2-1-lg.jpg 1024w"  alt="" width="2000" height="1120"></figure>
+<figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/6/ibt-2-2.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/6/responsive/ibt-2-2-xs.jpg 300w ,https://studiomoi.github.io/media/posts/6/responsive/ibt-2-2-sm.jpg 480w ,https://studiomoi.github.io/media/posts/6/responsive/ibt-2-2-md.jpg 768w ,https://studiomoi.github.io/media/posts/6/responsive/ibt-2-2-lg.jpg 1024w"  alt="" width="2000" height="1120"></figure>
+<figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/6/ibt-2-4.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/6/responsive/ibt-2-4-xs.jpg 300w ,https://studiomoi.github.io/media/posts/6/responsive/ibt-2-4-sm.jpg 480w ,https://studiomoi.github.io/media/posts/6/responsive/ibt-2-4-md.jpg 768w ,https://studiomoi.github.io/media/posts/6/responsive/ibt-2-4-lg.jpg 1024w"  alt="" width="2000" height="1120"></figure><figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/6/ibt-2-3.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/6/responsive/ibt-2-3-xs.jpg 300w ,https://studiomoi.github.io/media/posts/6/responsive/ibt-2-3-sm.jpg 480w ,https://studiomoi.github.io/media/posts/6/responsive/ibt-2-3-md.jpg 768w ,https://studiomoi.github.io/media/posts/6/responsive/ibt-2-3-lg.jpg 1024w"  alt="" width="2000" height="1120"></figure>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="4">
+<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/6/gallery/ibt-msj-01.jpg" data-size="900x900"><img loading="lazy" src="https://studiomoi.github.io/media/posts/6/gallery/ibt-msj-01-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/6/gallery/ibt-msj-02.jpg" data-size="900x900"><img loading="lazy" src="https://studiomoi.github.io/media/posts/6/gallery/ibt-msj-02-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/6/gallery/ibt-msj-03.jpg" data-size="900x900"><img loading="lazy" src="https://studiomoi.github.io/media/posts/6/gallery/ibt-msj-03-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/6/gallery/ibt-msj-04.jpg" data-size="900x900"><img loading="lazy" src="https://studiomoi.github.io/media/posts/6/gallery/ibt-msj-04-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+</div></div>
+<figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/6/ibt-2.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/6/responsive/ibt-2-xs.jpg 300w ,https://studiomoi.github.io/media/posts/6/responsive/ibt-2-sm.jpg 480w ,https://studiomoi.github.io/media/posts/6/responsive/ibt-2-md.jpg 768w ,https://studiomoi.github.io/media/posts/6/responsive/ibt-2-lg.jpg 1024w"  alt="" width="1396" height="1080"></figure>
+<figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/6/ibt-3.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/6/responsive/ibt-3-xs.jpg 300w ,https://studiomoi.github.io/media/posts/6/responsive/ibt-3-sm.jpg 480w ,https://studiomoi.github.io/media/posts/6/responsive/ibt-3-md.jpg 768w ,https://studiomoi.github.io/media/posts/6/responsive/ibt-3-lg.jpg 1024w"  alt="" width="2000" height="1125"></figure>
+<figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/6/ibt-4.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/6/responsive/ibt-4-xs.jpg 300w ,https://studiomoi.github.io/media/posts/6/responsive/ibt-4-sm.jpg 480w ,https://studiomoi.github.io/media/posts/6/responsive/ibt-4-md.jpg 768w ,https://studiomoi.github.io/media/posts/6/responsive/ibt-4-lg.jpg 1024w"  alt="" width="2000" height="1148"></figure>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="4">
+<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/6/gallery/ttttttt.png" data-size="478x599"><img loading="lazy" src="https://studiomoi.github.io/media/posts/6/gallery/ttttttt-thumbnail.png" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/6/gallery/tttt.png" data-size="599x477"><img loading="lazy" src="https://studiomoi.github.io/media/posts/6/gallery/tttt-thumbnail.png" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/6/gallery/ttt.png" data-size="475x597"><img loading="lazy" src="https://studiomoi.github.io/media/posts/6/gallery/ttt-thumbnail.png" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/6/gallery/tt.png" data-size="520x598"><img loading="lazy" src="https://studiomoi.github.io/media/posts/6/gallery/tt-thumbnail.png" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/6/gallery/t.png" data-size="478x597"><img loading="lazy" src="https://studiomoi.github.io/media/posts/6/gallery/t-thumbnail.png" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/6/gallery/Screen-Shot-2018-09-26-at-7.27.37-PM.png" data-size="598x451"><img loading="lazy" src="https://studiomoi.github.io/media/posts/6/gallery/Screen-Shot-2018-09-26-at-7.27.37-PM-thumbnail.png" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/6/gallery/Screen-Shot-2018-09-26-at-5.48.16-PM.png" data-size="599x599"><img loading="lazy" src="https://studiomoi.github.io/media/posts/6/gallery/Screen-Shot-2018-09-26-at-5.48.16-PM-thumbnail.png" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/6/gallery/Screen-Shot-2018-09-26-at-5.47.29-PM.png" data-size="476x597"><img loading="lazy" src="https://studiomoi.github.io/media/posts/6/gallery/Screen-Shot-2018-09-26-at-5.47.29-PM-thumbnail.png" alt="" width="240" height="240"></a></figure>
+</div></div>
 <p class="align-center"><a href="https://www.instagram.com/imzabirtost/" target="_blank" rel="noopener noreferrer">İmza Bir Tost on instagram</a></p>
 <p> </p>
             ]]>
@@ -96,26 +127,26 @@
             <![CDATA[
                     <img src="https://studiomoi.github.io/media/posts/15/Screen-Shot-2019-06-14-at-22.01.40.png" alt="" />
                 <div>
-<div><img class="post__image--full" src="https://studiomoi.github.io/media/posts/15/9101e577974083.5cd93e0631027.gif" width="1400" height="788"></div>
+<div><figure class="post__image--full"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/15/9101e577974083.5cd93e0631027.gif" width="1400" height="788"></figure></div>
 <div><span class="texteditor-inline-fontsize"><span class="texteditor-inline-fontfamily">Mukto found by Meriç Altın in 2012, designing free and coincidental jewelry forged with metal, fire and the soul. </span></span><span class="texteditor-inline-fontsize"><span class="texteditor-inline-fontfamily">The logo involves ''the man blowing his own fortress'', a story about the man who reconstruct himself over time and experience. </span></span><span class="texteditor-inline-fontsize"><span class="texteditor-inline-fontfamily">He made two rings on this story and had a logo he wanted to change. </span></span></div>
-<div class="gallery"   >
-<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/15/gallery/09c34f77974083.5cd94ad50c52d.png" ><img src="https://studiomoi.github.io/media/posts/15/gallery/09c34f77974083.5cd94ad50c52d-thumbnail.png" alt="" width="240" height="240"></a></figure>
-<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/15/gallery/b2aa1777974083.5cd94ad50cdae.png" ><img src="https://studiomoi.github.io/media/posts/15/gallery/b2aa1777974083.5cd94ad50cdae-thumbnail.png" alt="" width="240" height="240"></a></figure>
-<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/15/gallery/bf6f4b77974083.5cd94ad50c893.png" ><img src="https://studiomoi.github.io/media/posts/15/gallery/bf6f4b77974083.5cd94ad50c893-thumbnail.png" alt="" width="240" height="240"></a></figure>
-</div>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
+<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/15/gallery/09c34f77974083.5cd94ad50c52d.png" data-size="597x596"><img loading="lazy" src="https://studiomoi.github.io/media/posts/15/gallery/09c34f77974083.5cd94ad50c52d-thumbnail.png" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/15/gallery/b2aa1777974083.5cd94ad50cdae.png" data-size="600x600"><img loading="lazy" src="https://studiomoi.github.io/media/posts/15/gallery/b2aa1777974083.5cd94ad50cdae-thumbnail.png" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/15/gallery/bf6f4b77974083.5cd94ad50c893.png" data-size="565x562"><img loading="lazy" src="https://studiomoi.github.io/media/posts/15/gallery/bf6f4b77974083.5cd94ad50c893-thumbnail.png" alt="" width="240" height="240"></a></figure>
+</div></div>
 </div>
 <div>  </div>
 <div>
 <div><span class="texteditor-inline-fontsize"><span class="texteditor-inline-fontfamily">While designing new projects Meriç starts with the material.  </span></span><span class="texteditor-inline-fontsize"><span class="texteditor-inline-fontfamily">Taking it in hand and looking at it trying to figure out what it needs to be in it's new life.  </span></span><span class="texteditor-inline-fontsize"><span class="texteditor-inline-fontfamily">We recreated this figure as if it's a single line of metal in Meriç's hands. Bended and twisted into a new story from it's existing form. And used it in our new branding and packaging design.</span></span></div>
 <div> </div>
-<div><img class="post__image--full" src="https://studiomoi.github.io/media/posts/15/ec13bd77974083.5c97c87b893ec.jpg" width="1920" height="1080"></div>
-<div><img class="post__image--full" src="https://studiomoi.github.io/media/posts/15/d3296677974083.5c97c87b8753e.jpg" width="1920" height="1080"></div>
-<div><img class="post__image--full" src="https://studiomoi.github.io/media/posts/15/31d77577974083.5c97c87b87d27.jpg" width="1920" height="1080"></div>
-<div><img class="post__image--full" src="https://studiomoi.github.io/media/posts/15/b7a5c477974083.5c97c87b886e1.jpg" width="1920" height="1080"></div>
-<div><img class="post__image--full" src="https://studiomoi.github.io/media/posts/15/7c19af77974083.5c97c87b8778a.jpg" width="1920" height="1080"></div>
-<div><img class="post__image--full" src="https://studiomoi.github.io/media/posts/15/f2562477974083.5c97c87b87277.jpg" width="1920" height="1080"></div>
-<div><img class="post__image--full" src="https://studiomoi.github.io/media/posts/15/34600577974083.5c97c87b88c6d.jpg" width="1920" height="1080"><img class="post__image--full" src="https://studiomoi.github.io/media/posts/15/c224de77974083.5c97c87b882a9.jpg" width="1920" height="1080"></div>
-<div class="align-center"><img class="post__image--full" src="https://studiomoi.github.io/media/posts/15/52a50477974083.5c97c87b891cc.jpg" width="1920" height="1080"></div>
+<div><figure class="post__image--full"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/15/ec13bd77974083.5c97c87b893ec.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/15/responsive/ec13bd77974083.5c97c87b893ec-xs.jpg 300w ,https://studiomoi.github.io/media/posts/15/responsive/ec13bd77974083.5c97c87b893ec-sm.jpg 480w ,https://studiomoi.github.io/media/posts/15/responsive/ec13bd77974083.5c97c87b893ec-md.jpg 768w ,https://studiomoi.github.io/media/posts/15/responsive/ec13bd77974083.5c97c87b893ec-lg.jpg 1024w"  width="1920" height="1080"></figure></div>
+<div><figure class="post__image--full"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/15/d3296677974083.5c97c87b8753e.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/15/responsive/d3296677974083.5c97c87b8753e-xs.jpg 300w ,https://studiomoi.github.io/media/posts/15/responsive/d3296677974083.5c97c87b8753e-sm.jpg 480w ,https://studiomoi.github.io/media/posts/15/responsive/d3296677974083.5c97c87b8753e-md.jpg 768w ,https://studiomoi.github.io/media/posts/15/responsive/d3296677974083.5c97c87b8753e-lg.jpg 1024w"  width="1920" height="1080"></figure></div>
+<div><figure class="post__image--full"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/15/31d77577974083.5c97c87b87d27.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/15/responsive/31d77577974083.5c97c87b87d27-xs.jpg 300w ,https://studiomoi.github.io/media/posts/15/responsive/31d77577974083.5c97c87b87d27-sm.jpg 480w ,https://studiomoi.github.io/media/posts/15/responsive/31d77577974083.5c97c87b87d27-md.jpg 768w ,https://studiomoi.github.io/media/posts/15/responsive/31d77577974083.5c97c87b87d27-lg.jpg 1024w"  width="1920" height="1080"></figure></div>
+<div><figure class="post__image--full"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/15/b7a5c477974083.5c97c87b886e1.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/15/responsive/b7a5c477974083.5c97c87b886e1-xs.jpg 300w ,https://studiomoi.github.io/media/posts/15/responsive/b7a5c477974083.5c97c87b886e1-sm.jpg 480w ,https://studiomoi.github.io/media/posts/15/responsive/b7a5c477974083.5c97c87b886e1-md.jpg 768w ,https://studiomoi.github.io/media/posts/15/responsive/b7a5c477974083.5c97c87b886e1-lg.jpg 1024w"  width="1920" height="1080"></figure></div>
+<div><figure class="post__image--full"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/15/7c19af77974083.5c97c87b8778a.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/15/responsive/7c19af77974083.5c97c87b8778a-xs.jpg 300w ,https://studiomoi.github.io/media/posts/15/responsive/7c19af77974083.5c97c87b8778a-sm.jpg 480w ,https://studiomoi.github.io/media/posts/15/responsive/7c19af77974083.5c97c87b8778a-md.jpg 768w ,https://studiomoi.github.io/media/posts/15/responsive/7c19af77974083.5c97c87b8778a-lg.jpg 1024w"  width="1920" height="1080"></figure></div>
+<div><figure class="post__image--full"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/15/f2562477974083.5c97c87b87277.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/15/responsive/f2562477974083.5c97c87b87277-xs.jpg 300w ,https://studiomoi.github.io/media/posts/15/responsive/f2562477974083.5c97c87b87277-sm.jpg 480w ,https://studiomoi.github.io/media/posts/15/responsive/f2562477974083.5c97c87b87277-md.jpg 768w ,https://studiomoi.github.io/media/posts/15/responsive/f2562477974083.5c97c87b87277-lg.jpg 1024w"  width="1920" height="1080"></figure></div>
+<div><figure class="post__image--full"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/15/34600577974083.5c97c87b88c6d.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/15/responsive/34600577974083.5c97c87b88c6d-xs.jpg 300w ,https://studiomoi.github.io/media/posts/15/responsive/34600577974083.5c97c87b88c6d-sm.jpg 480w ,https://studiomoi.github.io/media/posts/15/responsive/34600577974083.5c97c87b88c6d-md.jpg 768w ,https://studiomoi.github.io/media/posts/15/responsive/34600577974083.5c97c87b88c6d-lg.jpg 1024w"  width="1920" height="1080"></figure><figure class="post__image--full"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/15/c224de77974083.5c97c87b882a9.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/15/responsive/c224de77974083.5c97c87b882a9-xs.jpg 300w ,https://studiomoi.github.io/media/posts/15/responsive/c224de77974083.5c97c87b882a9-sm.jpg 480w ,https://studiomoi.github.io/media/posts/15/responsive/c224de77974083.5c97c87b882a9-md.jpg 768w ,https://studiomoi.github.io/media/posts/15/responsive/c224de77974083.5c97c87b882a9-lg.jpg 1024w"  width="1920" height="1080"></figure></div>
+<div class="align-center"><figure class="post__image--full"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/15/52a50477974083.5c97c87b891cc.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/15/responsive/52a50477974083.5c97c87b891cc-xs.jpg 300w ,https://studiomoi.github.io/media/posts/15/responsive/52a50477974083.5c97c87b891cc-sm.jpg 480w ,https://studiomoi.github.io/media/posts/15/responsive/52a50477974083.5c97c87b891cc-md.jpg 768w ,https://studiomoi.github.io/media/posts/15/responsive/52a50477974083.5c97c87b891cc-lg.jpg 1024w"  width="1920" height="1080"></figure></div>
 </div>
             ]]>
         </content>
@@ -139,11 +170,11 @@
             <![CDATA[
                     <img src="https://studiomoi.github.io/media/posts/13/ezgif.com-optimize3.gif" alt="" />
                 <div align="center"> </div>
-<div align="center"><img src="https://studiomoi.github.io/media/posts/13/ezgif.com-optimize4.gif" alt="" width="500" height="500"></div>
+<div align="center"><img loading="lazy" src="https://studiomoi.github.io/media/posts/13/ezgif.com-optimize4.gif" alt="" width="500" height="500"></div>
 <div align="center"> </div>
 <div align="center"> </div>
 <div align="center"> </div>
-<div align="center"><iframe width="300" height="380" src="https://open.spotify.com/embed/track/4l5rxePszAOG4KSzCWh1M0" frameborder="0" allowtransparency="true" allow="encrypted-media" ></iframe></div>
+<div align="center"><div class="post__iframe"><iframe loading="lazy" width="300" height="380" src="https://open.spotify.com/embed/track/4l5rxePszAOG4KSzCWh1M0" frameborder="0" allowtransparency="true" allow="encrypted-media" data-mce-fragment="1"></iframe></div></div>
             ]]>
         </content>
     </entry>
@@ -159,26 +190,26 @@
             <summary>
                 <![CDATA[
                         <img src="https://studiomoi.github.io/media/posts/12/main.jpg" alt="" />
-                     Dolce By Cemile is a boutique catering company, making delicious finger&hellip;
+                    Dolce By Cemile is a boutique catering company, making delicious finger foods&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://studiomoi.github.io/media/posts/12/main.jpg" alt="" />
-                <p><img class="post__image--wide" src="https://studiomoi.github.io/media/posts/12/1.jpg" alt="" width="1920" height="1080"></p>
+                <figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/12/1.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/12/responsive/1-xs.jpg 300w ,https://studiomoi.github.io/media/posts/12/responsive/1-sm.jpg 480w ,https://studiomoi.github.io/media/posts/12/responsive/1-md.jpg 768w ,https://studiomoi.github.io/media/posts/12/responsive/1-lg.jpg 1024w"  alt="" width="1920" height="1080"></figure>
 <p class="align-center"><em>Dolce By Cemile is a boutique catering company, making delicious finger foods and tasty cocktails for your events, meetings, brunches and such. </em></p>
-<p><img class="post__image--wide" src="https://studiomoi.github.io/media/posts/12/3.jpg" alt="" width="1920" height="1080"></p>
-<p><img class="post__image--wide" src="https://studiomoi.github.io/media/posts/12/7.jpg" alt="" width="1920" height="1080"></p>
-<p><img class="post__image--wide" src="https://studiomoi.github.io/media/posts/12/14-copy.jpg" alt="" width="1920" height="639"></p>
-<p><img class="post__image--wide" src="https://studiomoi.github.io/media/posts/12/9.jpg" alt="" width="1920" height="1080"></p>
-<p><img class="post__image--wide" src="https://studiomoi.github.io/media/posts/12/Envelope-Brand-Present.jpg" alt="" width="2000" height="1125"></p>
-<p><img class="post__image--wide" src="https://studiomoi.github.io/media/posts/12/Essential-Stationery-Mockup.jpg" alt="" width="1920" height="1080"></p>
-<div class="gallery"   >
-<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/12/gallery/e23a08d7-ca78-4924-b777-81691f9cf08c.jpeg" ><img src="https://studiomoi.github.io/media/posts/12/gallery/e23a08d7-ca78-4924-b777-81691f9cf08c-thumbnail.jpeg" alt="" width="240" height="240"></a></figure>
-<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/12/gallery/4bb759ba-8092-488a-8dd6-6c84aac1cf3b.jpeg" ><img src="https://studiomoi.github.io/media/posts/12/gallery/4bb759ba-8092-488a-8dd6-6c84aac1cf3b-thumbnail.jpeg" alt="" width="240" height="240"></a></figure>
-<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/12/gallery/1dc75d6e-642d-4f70-b959-d8fe8b833989.jpeg" ><img src="https://studiomoi.github.io/media/posts/12/gallery/1dc75d6e-642d-4f70-b959-d8fe8b833989-thumbnail.jpeg" alt="" width="240" height="240"></a></figure>
-<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/12/gallery/4216946b-4c17-4e22-b1dc-f80675b04657.jpeg" ><img src="https://studiomoi.github.io/media/posts/12/gallery/4216946b-4c17-4e22-b1dc-f80675b04657-thumbnail.jpeg" alt="" width="240" height="240"></a></figure>
-</div>
+<figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/12/3.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/12/responsive/3-xs.jpg 300w ,https://studiomoi.github.io/media/posts/12/responsive/3-sm.jpg 480w ,https://studiomoi.github.io/media/posts/12/responsive/3-md.jpg 768w ,https://studiomoi.github.io/media/posts/12/responsive/3-lg.jpg 1024w"  alt="" width="1920" height="1080"></figure>
+<figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/12/7.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/12/responsive/7-xs.jpg 300w ,https://studiomoi.github.io/media/posts/12/responsive/7-sm.jpg 480w ,https://studiomoi.github.io/media/posts/12/responsive/7-md.jpg 768w ,https://studiomoi.github.io/media/posts/12/responsive/7-lg.jpg 1024w"  alt="" width="1920" height="1080"></figure>
+<figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/12/14-copy.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/12/responsive/14-copy-xs.jpg 300w ,https://studiomoi.github.io/media/posts/12/responsive/14-copy-sm.jpg 480w ,https://studiomoi.github.io/media/posts/12/responsive/14-copy-md.jpg 768w ,https://studiomoi.github.io/media/posts/12/responsive/14-copy-lg.jpg 1024w"  alt="" width="1920" height="639"></figure>
+<figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/12/9.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/12/responsive/9-xs.jpg 300w ,https://studiomoi.github.io/media/posts/12/responsive/9-sm.jpg 480w ,https://studiomoi.github.io/media/posts/12/responsive/9-md.jpg 768w ,https://studiomoi.github.io/media/posts/12/responsive/9-lg.jpg 1024w"  alt="" width="1920" height="1080"></figure>
+<figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/12/Envelope-Brand-Present.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/12/responsive/Envelope-Brand-Present-xs.jpg 300w ,https://studiomoi.github.io/media/posts/12/responsive/Envelope-Brand-Present-sm.jpg 480w ,https://studiomoi.github.io/media/posts/12/responsive/Envelope-Brand-Present-md.jpg 768w ,https://studiomoi.github.io/media/posts/12/responsive/Envelope-Brand-Present-lg.jpg 1024w"  alt="" width="2000" height="1125"></figure>
+<figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/12/Essential-Stationery-Mockup.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/12/responsive/Essential-Stationery-Mockup-xs.jpg 300w ,https://studiomoi.github.io/media/posts/12/responsive/Essential-Stationery-Mockup-sm.jpg 480w ,https://studiomoi.github.io/media/posts/12/responsive/Essential-Stationery-Mockup-md.jpg 768w ,https://studiomoi.github.io/media/posts/12/responsive/Essential-Stationery-Mockup-lg.jpg 1024w"  alt="" width="1920" height="1080"></figure>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="4">
+<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/12/gallery/e23a08d7-ca78-4924-b777-81691f9cf08c.jpeg" data-size="1200x1600"><img loading="lazy" src="https://studiomoi.github.io/media/posts/12/gallery/e23a08d7-ca78-4924-b777-81691f9cf08c-thumbnail.jpeg" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/12/gallery/4bb759ba-8092-488a-8dd6-6c84aac1cf3b.jpeg" data-size="1200x1600"><img loading="lazy" src="https://studiomoi.github.io/media/posts/12/gallery/4bb759ba-8092-488a-8dd6-6c84aac1cf3b-thumbnail.jpeg" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/12/gallery/1dc75d6e-642d-4f70-b959-d8fe8b833989.jpeg" data-size="1600x1200"><img loading="lazy" src="https://studiomoi.github.io/media/posts/12/gallery/1dc75d6e-642d-4f70-b959-d8fe8b833989-thumbnail.jpeg" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/12/gallery/4216946b-4c17-4e22-b1dc-f80675b04657.jpeg" data-size="1200x1600"><img loading="lazy" src="https://studiomoi.github.io/media/posts/12/gallery/4216946b-4c17-4e22-b1dc-f80675b04657-thumbnail.jpeg" alt="" width="240" height="240"></a></figure>
+</div></div>
             ]]>
         </content>
     </entry>
@@ -200,19 +231,19 @@
         <content type="html">
             <![CDATA[
                     <img src="https://studiomoi.github.io/media/posts/7/ezgif.com-optimize2.gif" alt="" />
-                <p><img class="post__image--wide" src="https://studiomoi.github.io/media/posts/7/full.jpg" alt="" width="2080" height="780"></p>
+                <figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/7/full.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/7/responsive/full-xs.jpg 300w ,https://studiomoi.github.io/media/posts/7/responsive/full-sm.jpg 480w ,https://studiomoi.github.io/media/posts/7/responsive/full-md.jpg 768w ,https://studiomoi.github.io/media/posts/7/responsive/full-lg.jpg 1024w"  alt="" width="2080" height="780"></figure>
 <p class="align-center"> </p>
 <p class="align-center"><em>A Reasonable Man is a film by Sydney Ribot.</em></p>
 <p class="align-center"><em>"When a European financier leaves a party in Beijing with a secret, he comes up with a foolproof way to ensure it is not compromised."</em></p>
 <p class="align-center"> </p>
-<p><img class="post__image--center" src="https://studiomoi.github.io/media/posts/7/ARM-01.jpg" width="1600" height="2239"></p>
-<figure class="post__video"><iframe width="425" height="350" src="https://player.vimeo.com/video/291071998?title=0&amp;amp;byline=0" allowfullscreen="allowfullscreen" ></iframe></figure>
-<figure class="post__video"><iframe width="425" height="350" src="https://player.vimeo.com/video/291076099?title=0&amp;amp;byline=0" allowfullscreen="allowfullscreen" ></iframe></figure>
-<div class="gallery"   >
-<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/7/gallery/33.jpg" ><img src="https://studiomoi.github.io/media/posts/7/gallery/33-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
-<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/7/gallery/22.jpg" ><img src="https://studiomoi.github.io/media/posts/7/gallery/22-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
-<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/7/gallery/11.jpg" ><img src="https://studiomoi.github.io/media/posts/7/gallery/11-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
-</div>
+<figure class="post__image--center"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/7/ARM-01.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/7/responsive/ARM-01-xs.jpg 300w ,https://studiomoi.github.io/media/posts/7/responsive/ARM-01-sm.jpg 480w ,https://studiomoi.github.io/media/posts/7/responsive/ARM-01-md.jpg 768w ,https://studiomoi.github.io/media/posts/7/responsive/ARM-01-lg.jpg 1024w"  width="1600" height="2239"></figure>
+<figure class="post__video"><iframe loading="lazy" width="425" height="350" src="https://player.vimeo.com/video/291071998?title=0&amp;amp;byline=0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+<figure class="post__video"><iframe loading="lazy" width="425" height="350" src="https://player.vimeo.com/video/291076099?title=0&amp;amp;byline=0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
+<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/7/gallery/33.jpg" data-size="800x800"><img loading="lazy" src="https://studiomoi.github.io/media/posts/7/gallery/33-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/7/gallery/22.jpg" data-size="800x800"><img loading="lazy" src="https://studiomoi.github.io/media/posts/7/gallery/22-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/7/gallery/11.jpg" data-size="800x800"><img loading="lazy" src="https://studiomoi.github.io/media/posts/7/gallery/11-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+</div></div>
             ]]>
         </content>
     </entry>
@@ -235,50 +266,50 @@
             <![CDATA[
                     <img src="https://studiomoi.github.io/media/posts/14/E3410_00tov.jpg" alt="" />
                 <p class="align-center">Selection of PSD fonts we design and sell through <a href="https://www.youworkforthem.com/designer/934/at-director">youworkforthem.com</a></p>
-<p><img class="post__image--wide" src="https://studiomoi.github.io/media/posts/14/E3410_00t.jpg" alt="" width="1184" height="792"></p>
-<div class="gallery"   >
-<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/14/gallery/E3410_01.jpg" ><img src="https://studiomoi.github.io/media/posts/14/gallery/E3410_01-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
-<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/14/gallery/E3410_02.jpg" ><img src="https://studiomoi.github.io/media/posts/14/gallery/E3410_02-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
-<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/14/gallery/E3410_03.jpg" ><img src="https://studiomoi.github.io/media/posts/14/gallery/E3410_03-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
-<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/14/gallery/E3410_07.jpg" ><img src="https://studiomoi.github.io/media/posts/14/gallery/E3410_07-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
-</div>
-<p><img class="post__image--wide" src="https://studiomoi.github.io/media/posts/14/1-copy.jpg" alt="" width="1184" height="792"></p>
-<div class="gallery"   >
-<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/14/gallery/E4006_02.jpg" ><img src="https://studiomoi.github.io/media/posts/14/gallery/E4006_02-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
-<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/14/gallery/E4006_03.jpg" ><img src="https://studiomoi.github.io/media/posts/14/gallery/E4006_03-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
-<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/14/gallery/E4006_05.jpg" ><img src="https://studiomoi.github.io/media/posts/14/gallery/E4006_05-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
-<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/14/gallery/E4006_06.jpg" ><img src="https://studiomoi.github.io/media/posts/14/gallery/E4006_06-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
-</div>
-<p><img class="post__image--wide" src="https://studiomoi.github.io/media/posts/14/1-copy-5.jpg" alt="" width="1184" height="792"></p>
-<div class="gallery"   >
-<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/14/gallery/E3401_03.jpg" ><img src="https://studiomoi.github.io/media/posts/14/gallery/E3401_03-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
-<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/14/gallery/E3401_04.jpg" ><img src="https://studiomoi.github.io/media/posts/14/gallery/E3401_04-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
-<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/14/gallery/E3401_05.jpg" ><img src="https://studiomoi.github.io/media/posts/14/gallery/E3401_05-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
-</div>
-<p><img class="post__image--wide" src="https://studiomoi.github.io/media/posts/14/E3434_00.jpg" alt="" width="1184" height="792"></p>
-<div class="gallery"   >
-<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/14/gallery/E3434_01.jpg" ><img src="https://studiomoi.github.io/media/posts/14/gallery/E3434_01-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
-<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/14/gallery/E3434_02.jpg" ><img src="https://studiomoi.github.io/media/posts/14/gallery/E3434_02-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
-<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/14/gallery/E3434_03.jpg" ><img src="https://studiomoi.github.io/media/posts/14/gallery/E3434_03-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
-<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/14/gallery/E3434_04.jpg" ><img src="https://studiomoi.github.io/media/posts/14/gallery/E3434_04-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
-</div>
-<p><img class="post__image--wide" src="https://studiomoi.github.io/media/posts/14/1-copy-2.jpg" alt="" width="1184" height="792"></p>
-<div class="gallery"   >
-<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/14/gallery/E3993_01.jpg" ><img src="https://studiomoi.github.io/media/posts/14/gallery/E3993_01-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
-<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/14/gallery/E3993_02.jpg" ><img src="https://studiomoi.github.io/media/posts/14/gallery/E3993_02-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
-</div>
-<p><img class="post__image--wide" src="https://studiomoi.github.io/media/posts/14/1-copy-6.jpg" alt="" width="1184" height="792"></p>
-<div class="gallery"   >
-<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/14/gallery/E3454_01.jpg" ><img src="https://studiomoi.github.io/media/posts/14/gallery/E3454_01-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
-<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/14/gallery/E3454_02.jpg" ><img src="https://studiomoi.github.io/media/posts/14/gallery/E3454_02-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
-<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/14/gallery/E3454_03.jpg" ><img src="https://studiomoi.github.io/media/posts/14/gallery/E3454_03-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
-</div>
-<p><img class="post__image--wide" src="https://studiomoi.github.io/media/posts/14/E4007_00.jpg" alt="" width="1184" height="792"></p>
-<div class="gallery"   >
-<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/14/gallery/E4007_01.jpg" ><img src="https://studiomoi.github.io/media/posts/14/gallery/E4007_01-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
-<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/14/gallery/E4007_02.jpg" ><img src="https://studiomoi.github.io/media/posts/14/gallery/E4007_02-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
-<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/14/gallery/E4007_05.jpg" ><img src="https://studiomoi.github.io/media/posts/14/gallery/E4007_05-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
-</div>
+<figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/14/E3410_00t.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/14/responsive/E3410_00t-xs.jpg 300w ,https://studiomoi.github.io/media/posts/14/responsive/E3410_00t-sm.jpg 480w ,https://studiomoi.github.io/media/posts/14/responsive/E3410_00t-md.jpg 768w ,https://studiomoi.github.io/media/posts/14/responsive/E3410_00t-lg.jpg 1024w"  alt="" width="1184" height="792"></figure>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="4">
+<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/14/gallery/E3410_01.jpg" data-size="800x535"><img loading="lazy" src="https://studiomoi.github.io/media/posts/14/gallery/E3410_01-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/14/gallery/E3410_02.jpg" data-size="800x535"><img loading="lazy" src="https://studiomoi.github.io/media/posts/14/gallery/E3410_02-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/14/gallery/E3410_03.jpg" data-size="800x535"><img loading="lazy" src="https://studiomoi.github.io/media/posts/14/gallery/E3410_03-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/14/gallery/E3410_07.jpg" data-size="800x535"><img loading="lazy" src="https://studiomoi.github.io/media/posts/14/gallery/E3410_07-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+</div></div>
+<figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/14/1-copy.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/14/responsive/1-copy-xs.jpg 300w ,https://studiomoi.github.io/media/posts/14/responsive/1-copy-sm.jpg 480w ,https://studiomoi.github.io/media/posts/14/responsive/1-copy-md.jpg 768w ,https://studiomoi.github.io/media/posts/14/responsive/1-copy-lg.jpg 1024w"  alt="" width="1184" height="792"></figure>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="4">
+<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/14/gallery/E4006_02.jpg" data-size="800x535"><img loading="lazy" src="https://studiomoi.github.io/media/posts/14/gallery/E4006_02-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/14/gallery/E4006_03.jpg" data-size="800x535"><img loading="lazy" src="https://studiomoi.github.io/media/posts/14/gallery/E4006_03-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/14/gallery/E4006_05.jpg" data-size="800x535"><img loading="lazy" src="https://studiomoi.github.io/media/posts/14/gallery/E4006_05-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/14/gallery/E4006_06.jpg" data-size="800x535"><img loading="lazy" src="https://studiomoi.github.io/media/posts/14/gallery/E4006_06-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+</div></div>
+<figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/14/1-copy-5.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/14/responsive/1-copy-5-xs.jpg 300w ,https://studiomoi.github.io/media/posts/14/responsive/1-copy-5-sm.jpg 480w ,https://studiomoi.github.io/media/posts/14/responsive/1-copy-5-md.jpg 768w ,https://studiomoi.github.io/media/posts/14/responsive/1-copy-5-lg.jpg 1024w"  alt="" width="1184" height="792"></figure>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
+<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/14/gallery/E3401_03.jpg" data-size="1184x792"><img loading="lazy" src="https://studiomoi.github.io/media/posts/14/gallery/E3401_03-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/14/gallery/E3401_04.jpg" data-size="1184x792"><img loading="lazy" src="https://studiomoi.github.io/media/posts/14/gallery/E3401_04-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/14/gallery/E3401_05.jpg" data-size="1184x792"><img loading="lazy" src="https://studiomoi.github.io/media/posts/14/gallery/E3401_05-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+</div></div>
+<figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/14/E3434_00.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/14/responsive/E3434_00-xs.jpg 300w ,https://studiomoi.github.io/media/posts/14/responsive/E3434_00-sm.jpg 480w ,https://studiomoi.github.io/media/posts/14/responsive/E3434_00-md.jpg 768w ,https://studiomoi.github.io/media/posts/14/responsive/E3434_00-lg.jpg 1024w"  alt="" width="1184" height="792"></figure>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="4">
+<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/14/gallery/E3434_01.jpg" data-size="1184x792"><img loading="lazy" src="https://studiomoi.github.io/media/posts/14/gallery/E3434_01-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/14/gallery/E3434_02.jpg" data-size="1184x792"><img loading="lazy" src="https://studiomoi.github.io/media/posts/14/gallery/E3434_02-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/14/gallery/E3434_03.jpg" data-size="1184x792"><img loading="lazy" src="https://studiomoi.github.io/media/posts/14/gallery/E3434_03-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/14/gallery/E3434_04.jpg" data-size="1184x792"><img loading="lazy" src="https://studiomoi.github.io/media/posts/14/gallery/E3434_04-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+</div></div>
+<figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/14/1-copy-2.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/14/responsive/1-copy-2-xs.jpg 300w ,https://studiomoi.github.io/media/posts/14/responsive/1-copy-2-sm.jpg 480w ,https://studiomoi.github.io/media/posts/14/responsive/1-copy-2-md.jpg 768w ,https://studiomoi.github.io/media/posts/14/responsive/1-copy-2-lg.jpg 1024w"  alt="" width="1184" height="792"></figure>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="2">
+<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/14/gallery/E3993_01.jpg" data-size="1184x792"><img loading="lazy" src="https://studiomoi.github.io/media/posts/14/gallery/E3993_01-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/14/gallery/E3993_02.jpg" data-size="1184x792"><img loading="lazy" src="https://studiomoi.github.io/media/posts/14/gallery/E3993_02-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+</div></div>
+<figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/14/1-copy-6.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/14/responsive/1-copy-6-xs.jpg 300w ,https://studiomoi.github.io/media/posts/14/responsive/1-copy-6-sm.jpg 480w ,https://studiomoi.github.io/media/posts/14/responsive/1-copy-6-md.jpg 768w ,https://studiomoi.github.io/media/posts/14/responsive/1-copy-6-lg.jpg 1024w"  alt="" width="1184" height="792"></figure>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
+<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/14/gallery/E3454_01.jpg" data-size="1184x792"><img loading="lazy" src="https://studiomoi.github.io/media/posts/14/gallery/E3454_01-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/14/gallery/E3454_02.jpg" data-size="1184x792"><img loading="lazy" src="https://studiomoi.github.io/media/posts/14/gallery/E3454_02-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/14/gallery/E3454_03.jpg" data-size="1184x792"><img loading="lazy" src="https://studiomoi.github.io/media/posts/14/gallery/E3454_03-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+</div></div>
+<figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/14/E4007_00.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/14/responsive/E4007_00-xs.jpg 300w ,https://studiomoi.github.io/media/posts/14/responsive/E4007_00-sm.jpg 480w ,https://studiomoi.github.io/media/posts/14/responsive/E4007_00-md.jpg 768w ,https://studiomoi.github.io/media/posts/14/responsive/E4007_00-lg.jpg 1024w"  alt="" width="1184" height="792"></figure>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
+<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/14/gallery/E4007_01.jpg" data-size="1184x792"><img loading="lazy" src="https://studiomoi.github.io/media/posts/14/gallery/E4007_01-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/14/gallery/E4007_02.jpg" data-size="1184x792"><img loading="lazy" src="https://studiomoi.github.io/media/posts/14/gallery/E4007_02-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/14/gallery/E4007_05.jpg" data-size="1184x792"><img loading="lazy" src="https://studiomoi.github.io/media/posts/14/gallery/E4007_05-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+</div></div>
 <p class="align-center"> </p>
             ]]>
         </content>
@@ -301,19 +332,19 @@
         <content type="html">
             <![CDATA[
                     <img src="https://studiomoi.github.io/media/posts/1/headmi.jpg" alt="" />
-                <p class="align-center"><img src="https://studiomoi.github.io/media/posts/1/ust.gif" alt="" width="800" height="800"></p>
-<p><img class="post__image--wide" src="https://studiomoi.github.io/media/posts/1/14.jpg" alt="" width="1920" height="1080"></p>
-<p><img class="post__image--wide" src="https://studiomoi.github.io/media/posts/1/05_Coffee_Stationery_Mockup.jpg" alt="" width="1920" height="1080"></p>
-<p><img class="post__image--wide" src="https://studiomoi.github.io/media/posts/1/ellee.jpg" alt="" width="2000" height="334"></p>
-<p><img class="post__image--wide" src="https://studiomoi.github.io/media/posts/1/12.jpg" alt="" width="1920" height="1080"></p>
-<p><img class="post__image--wide" src="https://studiomoi.github.io/media/posts/1/Drawstring-Bag-Mockup-vol-2.jpg" alt="" width="1920" height="1080"></p>
-<p><img class="post__image--wide" src="https://studiomoi.github.io/media/posts/1/PaperBag.jpg" alt="" width="1920" height="1080"> </p>
-<div class="gallery"   >
-<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/1/gallery/41512202_504350333324898_5685641673306443390_n.jpg" ><img src="https://studiomoi.github.io/media/posts/1/gallery/41512202_504350333324898_5685641673306443390_n-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
-<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/1/gallery/40317119_2170563206526591_2112279698418074369_n.jpg" ><img src="https://studiomoi.github.io/media/posts/1/gallery/40317119_2170563206526591_2112279698418074369_n-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
-<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/1/gallery/39507590_1612313285544753_6515143402923753472_n.jpg" ><img src="https://studiomoi.github.io/media/posts/1/gallery/39507590_1612313285544753_6515143402923753472_n-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
-<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/1/gallery/39331420_299143724225873_8280586604683198464_n.jpg" ><img src="https://studiomoi.github.io/media/posts/1/gallery/39331420_299143724225873_8280586604683198464_n-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
-</div>
+                <p class="align-center"><img loading="lazy" src="https://studiomoi.github.io/media/posts/1/ust.gif" alt="" width="800" height="800"></p>
+<figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/1/14.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/1/responsive/14-xs.jpg 300w ,https://studiomoi.github.io/media/posts/1/responsive/14-sm.jpg 480w ,https://studiomoi.github.io/media/posts/1/responsive/14-md.jpg 768w ,https://studiomoi.github.io/media/posts/1/responsive/14-lg.jpg 1024w"  alt="" width="1920" height="1080"></figure>
+<figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/1/05_Coffee_Stationery_Mockup.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/1/responsive/05_Coffee_Stationery_Mockup-xs.jpg 300w ,https://studiomoi.github.io/media/posts/1/responsive/05_Coffee_Stationery_Mockup-sm.jpg 480w ,https://studiomoi.github.io/media/posts/1/responsive/05_Coffee_Stationery_Mockup-md.jpg 768w ,https://studiomoi.github.io/media/posts/1/responsive/05_Coffee_Stationery_Mockup-lg.jpg 1024w"  alt="" width="1920" height="1080"></figure>
+<figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/1/ellee.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/1/responsive/ellee-xs.jpg 300w ,https://studiomoi.github.io/media/posts/1/responsive/ellee-sm.jpg 480w ,https://studiomoi.github.io/media/posts/1/responsive/ellee-md.jpg 768w ,https://studiomoi.github.io/media/posts/1/responsive/ellee-lg.jpg 1024w"  alt="" width="2000" height="334"></figure>
+<figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/1/12.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/1/responsive/12-xs.jpg 300w ,https://studiomoi.github.io/media/posts/1/responsive/12-sm.jpg 480w ,https://studiomoi.github.io/media/posts/1/responsive/12-md.jpg 768w ,https://studiomoi.github.io/media/posts/1/responsive/12-lg.jpg 1024w"  alt="" width="1920" height="1080"></figure>
+<figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/1/Drawstring-Bag-Mockup-vol-2.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/1/responsive/Drawstring-Bag-Mockup-vol-2-xs.jpg 300w ,https://studiomoi.github.io/media/posts/1/responsive/Drawstring-Bag-Mockup-vol-2-sm.jpg 480w ,https://studiomoi.github.io/media/posts/1/responsive/Drawstring-Bag-Mockup-vol-2-md.jpg 768w ,https://studiomoi.github.io/media/posts/1/responsive/Drawstring-Bag-Mockup-vol-2-lg.jpg 1024w"  alt="" width="1920" height="1080"></figure>
+<figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/1/PaperBag.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/1/responsive/PaperBag-xs.jpg 300w ,https://studiomoi.github.io/media/posts/1/responsive/PaperBag-sm.jpg 480w ,https://studiomoi.github.io/media/posts/1/responsive/PaperBag-md.jpg 768w ,https://studiomoi.github.io/media/posts/1/responsive/PaperBag-lg.jpg 1024w"  alt="" width="1920" height="1080"> </figure>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="4">
+<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/1/gallery/41512202_504350333324898_5685641673306443390_n.jpg" data-size="640x800"><img loading="lazy" src="https://studiomoi.github.io/media/posts/1/gallery/41512202_504350333324898_5685641673306443390_n-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/1/gallery/40317119_2170563206526591_2112279698418074369_n.jpg" data-size="640x800"><img loading="lazy" src="https://studiomoi.github.io/media/posts/1/gallery/40317119_2170563206526591_2112279698418074369_n-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/1/gallery/39507590_1612313285544753_6515143402923753472_n.jpg" data-size="640x799"><img loading="lazy" src="https://studiomoi.github.io/media/posts/1/gallery/39507590_1612313285544753_6515143402923753472_n-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/1/gallery/39331420_299143724225873_8280586604683198464_n.jpg" data-size="640x800"><img loading="lazy" src="https://studiomoi.github.io/media/posts/1/gallery/39331420_299143724225873_8280586604683198464_n-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+</div></div>
 <p class="align-center"><a href="https://www.instagram.com/wattcoffee.co/" target="_blank" rel="noopener noreferrer">Watt Coffee Co on Instagram</a></p>
             ]]>
         </content>
@@ -327,26 +358,21 @@
         <id>https://studiomoi.github.io/tricore.html</id>
 
         <updated>2018-09-27T21:27:00+03:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://studiomoi.github.io/media/posts/8/thumb.jpg" alt="" />
-                     
-                ]]>
-            </summary>
+            <summary></summary>
         <content type="html">
             <![CDATA[
                     <img src="https://studiomoi.github.io/media/posts/8/thumb.jpg" alt="" />
-                <p><img src="https://studiomoi.github.io/media/posts/8/gif.gif" alt="" width="800" height="800"></p>
-<p><img class="post__image--wide" src="https://studiomoi.github.io/media/posts/8/4.jpg" alt="" width="1920" height="1080"></p>
-<p><img class="post__image--wide" src="https://studiomoi.github.io/media/posts/8/logoyatay.jpg" width="2180" height="450"></p>
-<p><img class="post__image--wide" src="https://studiomoi.github.io/media/posts/8/1.jpg" alt="" width="2180" height="1226"></p>
-<p><img class="post__image--wide" src="https://studiomoi.github.io/media/posts/8/555.jpg" alt="" width="2000" height="455"></p>
-<p><img class="post__image--wide" src="https://studiomoi.github.io/media/posts/8/Scene1.jpg" alt="" width="2048" height="1188"></p>
-<div class="gallery"   >
-<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/8/gallery/38507947_1102598496567324_2942527969035288576_n.jpg" ><img src="https://studiomoi.github.io/media/posts/8/gallery/38507947_1102598496567324_2942527969035288576_n-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
-<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/8/gallery/37737363_2144549445826644_9036604280181620736_n.jpg" ><img src="https://studiomoi.github.io/media/posts/8/gallery/37737363_2144549445826644_9036604280181620736_n-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
-<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/8/gallery/40199814_351934188707864_1320916010951593830_n.jpg" ><img src="https://studiomoi.github.io/media/posts/8/gallery/40199814_351934188707864_1320916010951593830_n-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
-</div>
+                <p><img loading="lazy" src="https://studiomoi.github.io/media/posts/8/gif.gif" alt="" width="800" height="800"></p>
+<figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/8/4.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/8/responsive/4-xs.jpg 300w ,https://studiomoi.github.io/media/posts/8/responsive/4-sm.jpg 480w ,https://studiomoi.github.io/media/posts/8/responsive/4-md.jpg 768w ,https://studiomoi.github.io/media/posts/8/responsive/4-lg.jpg 1024w"  alt="" width="1920" height="1080"></figure>
+<figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/8/logoyatay.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/8/responsive/logoyatay-xs.jpg 300w ,https://studiomoi.github.io/media/posts/8/responsive/logoyatay-sm.jpg 480w ,https://studiomoi.github.io/media/posts/8/responsive/logoyatay-md.jpg 768w ,https://studiomoi.github.io/media/posts/8/responsive/logoyatay-lg.jpg 1024w"  width="2180" height="450"></figure>
+<figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/8/1.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/8/responsive/1-xs.jpg 300w ,https://studiomoi.github.io/media/posts/8/responsive/1-sm.jpg 480w ,https://studiomoi.github.io/media/posts/8/responsive/1-md.jpg 768w ,https://studiomoi.github.io/media/posts/8/responsive/1-lg.jpg 1024w"  alt="" width="2180" height="1226"></figure>
+<figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/8/555.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/8/responsive/555-xs.jpg 300w ,https://studiomoi.github.io/media/posts/8/responsive/555-sm.jpg 480w ,https://studiomoi.github.io/media/posts/8/responsive/555-md.jpg 768w ,https://studiomoi.github.io/media/posts/8/responsive/555-lg.jpg 1024w"  alt="" width="2000" height="455"></figure>
+<figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/8/Scene1.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/8/responsive/Scene1-xs.jpg 300w ,https://studiomoi.github.io/media/posts/8/responsive/Scene1-sm.jpg 480w ,https://studiomoi.github.io/media/posts/8/responsive/Scene1-md.jpg 768w ,https://studiomoi.github.io/media/posts/8/responsive/Scene1-lg.jpg 1024w"  alt="" width="2048" height="1188"></figure>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
+<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/8/gallery/38507947_1102598496567324_2942527969035288576_n.jpg" data-size="640x800"><img loading="lazy" src="https://studiomoi.github.io/media/posts/8/gallery/38507947_1102598496567324_2942527969035288576_n-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/8/gallery/37737363_2144549445826644_9036604280181620736_n.jpg" data-size="640x479"><img loading="lazy" src="https://studiomoi.github.io/media/posts/8/gallery/37737363_2144549445826644_9036604280181620736_n-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/8/gallery/40199814_351934188707864_1320916010951593830_n.jpg" data-size="640x799"><img loading="lazy" src="https://studiomoi.github.io/media/posts/8/gallery/40199814_351934188707864_1320916010951593830_n-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+</div></div>
             ]]>
         </content>
     </entry>
@@ -368,8 +394,8 @@
         <content type="html">
             <![CDATA[
                     <img src="https://studiomoi.github.io/media/posts/10/l.2018-09-19-07_22_52.gif" alt="" />
-                <p><img class="post__image--wide" src="https://studiomoi.github.io/media/posts/10/2digilo.jpg" alt="" width="2000" height="1026"></p>
-<figure class="post__video"><iframe width="425" height="350" src="https://player.vimeo.com/video/291680815?title=0&amp;amp;byline=0" allowfullscreen="allowfullscreen" ></iframe> </figure>
+                <figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/10/2digilo.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/10/responsive/2digilo-xs.jpg 300w ,https://studiomoi.github.io/media/posts/10/responsive/2digilo-sm.jpg 480w ,https://studiomoi.github.io/media/posts/10/responsive/2digilo-md.jpg 768w ,https://studiomoi.github.io/media/posts/10/responsive/2digilo-lg.jpg 1024w"  alt="" width="2000" height="1026"></figure>
+<figure class="post__video"><iframe loading="lazy" width="425" height="350" src="https://player.vimeo.com/video/291680815?title=0&amp;amp;byline=0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe> </figure>
             ]]>
         </content>
     </entry>

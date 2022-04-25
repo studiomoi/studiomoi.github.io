@@ -3,7 +3,7 @@
     <title>moi</title>
     <link href="https://studiomoi.github.io/feed.xml" rel="self" />
     <link href="https://studiomoi.github.io" />
-    <updated>2022-04-25T05:35:06+03:00</updated>
+    <updated>2022-04-25T06:41:07+03:00</updated>
     <author>
         <name>uk</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://studiomoi.github.io/taskimo.html"/>
         <id>https://studiomoi.github.io/taskimo.html</id>
 
-        <updated>2022-04-25T05:26:10+03:00</updated>
+        <updated>2022-04-25T05:45:06+03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://studiomoi.github.io/media/posts/22/Branding-Mockup-Freebie-2.jpg" alt="" />
@@ -33,7 +33,7 @@
       
     </figure>
 
-  <p>
+  <p class="align-center">
     Taskimo offers wearable digital solutions for augmented frontline workers. Enabling frontline workers to reach contextual data on-the-job while having hands-free using wearables and mobile computers.<br>
   </p>
 
@@ -42,7 +42,7 @@
       
     </figure>
 
-  <p>
+  <p class="align-center">
     We designed a modular brand identity system that changes shape, color and position in an analytical way to resemble Taskimo's revolutionary approach.&nbsp;
   </p>
 
@@ -78,12 +78,12 @@
     </figure>
 <hr class="separator separator--dots" />
 
-    <figure class="post__image post__image--wide">
+    <figure class="post__image post__image--center">
       <img loading="lazy" src="https://studiomoi.github.io/media/posts/22/Screen-Shot-2022-04-25-at-03.20.49.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/22/responsive/Screen-Shot-2022-04-25-at-03.20.49-xs.png 300w ,https://studiomoi.github.io/media/posts/22/responsive/Screen-Shot-2022-04-25-at-03.20.49-sm.png 480w ,https://studiomoi.github.io/media/posts/22/responsive/Screen-Shot-2022-04-25-at-03.20.49-md.png 768w ,https://studiomoi.github.io/media/posts/22/responsive/Screen-Shot-2022-04-25-at-03.20.49-lg.png 1024w"  height="313" width="1024" alt="" />
       
     </figure>
 
-  <p>
+  <p class="align-center">
     WORKS is a full-featured wearable workflow management platform to author, publish and follow-up digital instructions, SOPs, checklists, on-the-job training materials and user guides for the use of frontline workers.
   </p>
 
@@ -119,12 +119,12 @@
   </div>
 <hr class="separator separator--dots" />
 
-    <figure class="post__image post__image--wide">
+    <figure class="post__image post__image--center">
       <img loading="lazy" src="https://studiomoi.github.io/media/posts/22/TIPS-secondary-logo.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/22/responsive/TIPS-secondary-logo-xs.png 300w ,https://studiomoi.github.io/media/posts/22/responsive/TIPS-secondary-logo-sm.png 480w ,https://studiomoi.github.io/media/posts/22/responsive/TIPS-secondary-logo-md.png 768w ,https://studiomoi.github.io/media/posts/22/responsive/TIPS-secondary-logo-lg.png 1024w"  height="687" width="2379" alt="" />
       
     </figure>
 
-  <p>
+  <p class="align-center">
     TIPS is a mobile knowledge base that your staff or customers refer to when a quick tip or guidance is needed for a standard operating procedure (SOP), a product, equipment or, service.<br>
   </p>
 
@@ -148,33 +148,32 @@
     </figure>
     </div>
   </div>
-<hr class="separator separator--dots" />
-
-    <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://studiomoi.github.io/media/posts/22/console-2.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/22/responsive/console-2-xs.jpg 300w ,https://studiomoi.github.io/media/posts/22/responsive/console-2-sm.jpg 480w ,https://studiomoi.github.io/media/posts/22/responsive/console-2-md.jpg 768w ,https://studiomoi.github.io/media/posts/22/responsive/console-2-lg.jpg 1024w"  height="155" width="924" alt="" />
-      
-    </figure>
 
   <div  class="gallery-wrapper gallery-wrapper--center">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
-      <a href="https://studiomoi.github.io/media/posts/22/gallery/12-3.jpg" data-size="710x380">
-        <img loading="lazy" src="https://studiomoi.github.io/media/posts/22/gallery/12-3-thumbnail.jpg" height="240" width="240" alt="" />
+      <a href="https://studiomoi.github.io/media/posts/22/gallery/33333.jpg" data-size="574x574">
+        <img loading="lazy" src="https://studiomoi.github.io/media/posts/22/gallery/33333-thumbnail.jpg" height="240" width="240" alt="" />
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://studiomoi.github.io/media/posts/22/gallery/13-3.jpg" data-size="710x380">
-        <img loading="lazy" src="https://studiomoi.github.io/media/posts/22/gallery/13-3-thumbnail.jpg" height="240" width="240" alt="" />
+      <a href="https://studiomoi.github.io/media/posts/22/gallery/111111.jpg" data-size="574x574">
+        <img loading="lazy" src="https://studiomoi.github.io/media/posts/22/gallery/111111-thumbnail.jpg" height="240" width="240" alt="" />
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://studiomoi.github.io/media/posts/22/gallery/14-3.jpg" data-size="710x380">
-        <img loading="lazy" src="https://studiomoi.github.io/media/posts/22/gallery/14-3-thumbnail.jpg" height="240" width="240" alt="" />
+      <a href="https://studiomoi.github.io/media/posts/22/gallery/222222.jpg" data-size="574x574">
+        <img loading="lazy" src="https://studiomoi.github.io/media/posts/22/gallery/222222-thumbnail.jpg" height="240" width="240" alt="" />
       </a>
       
     </figure>
     </div>
   </div>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://studiomoi.github.io/media/posts/22/console-2.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/22/responsive/console-2-xs.jpg 300w ,https://studiomoi.github.io/media/posts/22/responsive/console-2-sm.jpg 480w ,https://studiomoi.github.io/media/posts/22/responsive/console-2-md.jpg 768w ,https://studiomoi.github.io/media/posts/22/responsive/console-2-lg.jpg 1024w"  height="155" width="924" alt="" />
+      
+    </figure>
 
   <p class="align-center">
     <a href="https://www.taskimo.com/" target="_blank">taskimo.com</a>
@@ -183,23 +182,23 @@
         </content>
     </entry>
     <entry>
-        <title>Cotto Gastro Italiano</title>
+        <title>Cotto Branding</title>
         <author>
             <name>uk</name>
         </author>
         <link href="https://studiomoi.github.io/cotto.html"/>
         <id>https://studiomoi.github.io/cotto.html</id>
 
-        <updated>2022-04-25T04:05:17+03:00</updated>
+        <updated>2022-04-25T06:20:31+03:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://studiomoi.github.io/media/posts/21/Screen-Shot-2022-04-25-at-03.27.43.png" alt="Cotto Gastro" />
+                        <img src="https://studiomoi.github.io/media/posts/21/sss.jpg" alt="Cotto Gastro" />
                      Cotto Gastro Italiano is the new artsy Italian restaurant in Suadiye&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://studiomoi.github.io/media/posts/21/Screen-Shot-2022-04-25-at-03.27.43.png" alt="Cotto Gastro" />
+                    <img src="https://studiomoi.github.io/media/posts/21/sss.jpg" alt="Cotto Gastro" />
                 
   <p>
     Cotto Gastro Italiano is the new artsy Italian restaurant in Suadiye / Istanbul. Located in the most lively and local part of the city, Cotto is somewhere to be in a special day, or make the day special.&nbsp;
@@ -431,6 +430,86 @@
         </content>
     </entry>
     <entry>
+        <title>Egella Group Branding</title>
+        <author>
+            <name>uk</name>
+        </author>
+        <link href="https://studiomoi.github.io/egella-group-branding.html"/>
+        <id>https://studiomoi.github.io/egella-group-branding.html</id>
+
+        <updated>2022-04-25T06:15:53+03:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://studiomoi.github.io/media/posts/23/Screen-Shot-2022-04-25-at-05.35.14.png" alt="" />
+                     EGELLA Group is Dubai, UAE based, specialized in sourcing and sale&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://studiomoi.github.io/media/posts/23/Screen-Shot-2022-04-25-at-05.35.14.png" alt="" />
+                
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://studiomoi.github.io/media/posts/23/Screen-Shot-2022-04-25-at-05.36.41.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/23/responsive/Screen-Shot-2022-04-25-at-05.36.41-xs.png 300w ,https://studiomoi.github.io/media/posts/23/responsive/Screen-Shot-2022-04-25-at-05.36.41-sm.png 480w ,https://studiomoi.github.io/media/posts/23/responsive/Screen-Shot-2022-04-25-at-05.36.41-md.png 768w ,https://studiomoi.github.io/media/posts/23/responsive/Screen-Shot-2022-04-25-at-05.36.41-lg.png 1024w"  height="1608" width="2858" alt="" />
+      
+    </figure>
+
+  <p class="align-center">
+    EGELLA Group is Dubai, UAE based, specialized in sourcing and sale of a diversified portfolio of products and represents an array of worldwide manufacturers of agricultural, dairy and other food products such as fresh fruits, vegetables, dried fruits, cheese, olives and oils, honey as well as non-food products like home cleaners, personal care and leather care.<br>
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://studiomoi.github.io/media/posts/23/Screen-Shot-2022-04-25-at-05.35.26.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/23/responsive/Screen-Shot-2022-04-25-at-05.35.26-xs.png 300w ,https://studiomoi.github.io/media/posts/23/responsive/Screen-Shot-2022-04-25-at-05.35.26-sm.png 480w ,https://studiomoi.github.io/media/posts/23/responsive/Screen-Shot-2022-04-25-at-05.35.26-md.png 768w ,https://studiomoi.github.io/media/posts/23/responsive/Screen-Shot-2022-04-25-at-05.35.26-lg.png 1024w"  height="1606" width="2858" alt="" />
+      
+    </figure>
+
+  <p class="align-center">
+    We've been asked to create a brand identity and a website for their business. They have  the expertise to source a wide range of products to and from anywhere. To symbolize this, we designed the logo in a circular motion completed with an e shape.&nbsp;<br>
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://studiomoi.github.io/media/posts/23/1-2.gif" height="1080" width="1920" alt="" />
+      
+    </figure>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://studiomoi.github.io/media/posts/23/Screen-Shot-2022-04-25-at-06.09.51-2.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/23/responsive/Screen-Shot-2022-04-25-at-06.09.51-2-xs.png 300w ,https://studiomoi.github.io/media/posts/23/responsive/Screen-Shot-2022-04-25-at-06.09.51-2-sm.png 480w ,https://studiomoi.github.io/media/posts/23/responsive/Screen-Shot-2022-04-25-at-06.09.51-2-md.png 768w ,https://studiomoi.github.io/media/posts/23/responsive/Screen-Shot-2022-04-25-at-06.09.51-2-lg.png 1024w"  height="1601" width="2847" alt="" />
+      
+    </figure>
+
+  <div  class="gallery-wrapper gallery-wrapper--center">
+    <div class="gallery" data-columns="3">
+      <figure class="gallery__item">
+      <a href="https://studiomoi.github.io/media/posts/23/gallery/Screen-Shot-2022-04-25-at-05.35.56-3.png" data-size="2862x1608">
+        <img loading="lazy" src="https://studiomoi.github.io/media/posts/23/gallery/Screen-Shot-2022-04-25-at-05.35.56-3-thumbnail.png" height="240" width="240" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://studiomoi.github.io/media/posts/23/gallery/Screen-Shot-2022-04-25-at-05.36.14.png" data-size="2856x1604">
+        <img loading="lazy" src="https://studiomoi.github.io/media/posts/23/gallery/Screen-Shot-2022-04-25-at-05.36.14-thumbnail.png" height="240" width="240" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://studiomoi.github.io/media/posts/23/gallery/Screen-Shot-2022-04-25-at-05.36.51.png" data-size="2862x1608">
+        <img loading="lazy" src="https://studiomoi.github.io/media/posts/23/gallery/Screen-Shot-2022-04-25-at-05.36.51-thumbnail.png" height="240" width="240" alt="" />
+      </a>
+      
+    </figure>
+    </div>
+  </div>
+
+  <p class="align-center">
+    We've been asked to design a website for them to separate from the competition and tell brand's story in a fluent and compact way.&nbsp;We maintain the circular motion throughout the website, created videos and animated content to visualize the company's vision and information.  <br><br>
+  </p>
+<div><div style="padding:54.71% 0 0 0;position:relative;"><div class="post__iframe"><iframe loading="lazy" src="https://player.vimeo.com/video/702692804?h=c935d8c2e4&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="top banner video"></iframe></div></div><script src="https://player.vimeo.com/api/player.js"></script></div>
+<div><div style="padding:75% 0 0 0;position:relative;"><div class="post__iframe"><iframe loading="lazy" src="https://player.vimeo.com/video/702691999?h=9628984ef5&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="web rf22.00.mp4"></iframe></div></div><script src="https://player.vimeo.com/api/player.js"></script></div>
+
+  <p class="align-center">
+    <a href="https://egellagroup.com/" target="_blank">egellagroup.com</a>
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Watt Coffee CO Branding</title>
         <author>
             <name>uk</name>
@@ -534,90 +613,77 @@
         </content>
     </entry>
     <entry>
-        <title>Vocalzone 3D Product Visual CGI</title>
+        <title>Gorilla Groom Branding</title>
         <author>
             <name>uk</name>
         </author>
-        <link href="https://studiomoi.github.io/vocalzone-3d-product-visual-cgi.html"/>
-        <id>https://studiomoi.github.io/vocalzone-3d-product-visual-cgi.html</id>
+        <link href="https://studiomoi.github.io/gorilla-groom-branding.html"/>
+        <id>https://studiomoi.github.io/gorilla-groom-branding.html</id>
 
-        <updated>2021-05-19T12:35:28+03:00</updated>
+        <updated>2022-04-25T06:41:07+03:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://studiomoi.github.io/media/posts/16/Frambuaz0001.jpg" alt="" />
-                     3D bottle and box visualization for Vocalzone Kids&nbsp; We modeled and&hellip;
+                        <img src="https://studiomoi.github.io/media/posts/24/6.jpeg" alt="" />
+                     We've been asked to create a masculine brand identity for men's&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://studiomoi.github.io/media/posts/16/Frambuaz0001.jpg" alt="" />
+                    <img src="https://studiomoi.github.io/media/posts/24/6.jpeg" alt="" />
                 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://studiomoi.github.io/media/posts/16/Frambuaz0001post.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/16/responsive/Frambuaz0001post-xs.jpg 300w ,https://studiomoi.github.io/media/posts/16/responsive/Frambuaz0001post-sm.jpg 480w ,https://studiomoi.github.io/media/posts/16/responsive/Frambuaz0001post-md.jpg 768w ,https://studiomoi.github.io/media/posts/16/responsive/Frambuaz0001post-lg.jpg 1024w"  height="1199" width="1500" alt="" />
+      <img loading="lazy" src="https://studiomoi.github.io/media/posts/24/2-2.jpeg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/24/responsive/2-2-xs.jpeg 300w ,https://studiomoi.github.io/media/posts/24/responsive/2-2-sm.jpeg 480w ,https://studiomoi.github.io/media/posts/24/responsive/2-2-md.jpeg 768w ,https://studiomoi.github.io/media/posts/24/responsive/2-2-lg.jpeg 1024w"  height="540" width="960" alt="" />
       
     </figure>
 
-  <p class="align-center">
-    3D bottle and box visualization for Vocalzone Kids&nbsp;
+  <p>
+    We've been asked to create a masculine brand identity for men's hair &amp; skin care company Gorilla Groom.<br>
   </p>
+
+  <div  class="gallery-wrapper gallery-wrapper--center">
+    <div class="gallery" data-columns="3">
+      <figure class="gallery__item">
+      <a href="https://studiomoi.github.io/media/posts/24/gallery/4-2.jpeg" data-size="960x540">
+        <img loading="lazy" src="https://studiomoi.github.io/media/posts/24/gallery/4-2-thumbnail.jpeg" height="240" width="240" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://studiomoi.github.io/media/posts/24/gallery/7-2.jpeg" data-size="960x540">
+        <img loading="lazy" src="https://studiomoi.github.io/media/posts/24/gallery/7-2-thumbnail.jpeg" height="240" width="240" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://studiomoi.github.io/media/posts/24/gallery/8-2.jpeg" data-size="960x540">
+        <img loading="lazy" src="https://studiomoi.github.io/media/posts/24/gallery/8-2-thumbnail.jpeg" height="240" width="240" alt="" />
+      </a>
+      
+    </figure>
+    </div>
+  </div>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://studiomoi.github.io/media/posts/16/fram.gif" height="350" width="350" alt="" />
-      
-    </figure>
-
-  <p class="align-center">
-    We modeled and rendered the products shots for Vocalzone Kids.&nbsp;
-  </p>
-
-    <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://studiomoi.github.io/media/posts/16/Frambuaz0002.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/16/responsive/Frambuaz0002-xs.jpg 300w ,https://studiomoi.github.io/media/posts/16/responsive/Frambuaz0002-sm.jpg 480w ,https://studiomoi.github.io/media/posts/16/responsive/Frambuaz0002-md.jpg 768w ,https://studiomoi.github.io/media/posts/16/responsive/Frambuaz0002-lg.jpg 1024w"  height="1200" width="1200" alt="" />
+      <img loading="lazy" src="https://studiomoi.github.io/media/posts/24/5.jpeg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/24/responsive/5-xs.jpeg 300w ,https://studiomoi.github.io/media/posts/24/responsive/5-sm.jpeg 480w ,https://studiomoi.github.io/media/posts/24/responsive/5-md.jpeg 768w ,https://studiomoi.github.io/media/posts/24/responsive/5-lg.jpeg 1024w"  height="540" width="960" alt="" />
       
     </figure>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://studiomoi.github.io/media/posts/16/Frambuaz0003.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/16/responsive/Frambuaz0003-xs.jpg 300w ,https://studiomoi.github.io/media/posts/16/responsive/Frambuaz0003-sm.jpg 480w ,https://studiomoi.github.io/media/posts/16/responsive/Frambuaz0003-md.jpg 768w ,https://studiomoi.github.io/media/posts/16/responsive/Frambuaz0003-lg.jpg 1024w"  height="1200" width="1200" alt="" />
+      <img loading="lazy" src="https://studiomoi.github.io/media/posts/24/6-2.jpeg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/24/responsive/6-2-xs.jpeg 300w ,https://studiomoi.github.io/media/posts/24/responsive/6-2-sm.jpeg 480w ,https://studiomoi.github.io/media/posts/24/responsive/6-2-md.jpeg 768w ,https://studiomoi.github.io/media/posts/24/responsive/6-2-lg.jpeg 1024w"  height="540" width="960" alt="" />
       
     </figure>
 
-  <p class="align-center">
-    Elements on sticker and box are not designed by us.
-  </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Misli.com </title>
-        <author>
-            <name>uk</name>
-        </author>
-        <link href="https://studiomoi.github.io/mislicom.html"/>
-        <id>https://studiomoi.github.io/mislicom.html</id>
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://studiomoi.github.io/media/posts/24/3.jpeg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/24/responsive/3-xs.jpeg 300w ,https://studiomoi.github.io/media/posts/24/responsive/3-sm.jpeg 480w ,https://studiomoi.github.io/media/posts/24/responsive/3-md.jpeg 768w ,https://studiomoi.github.io/media/posts/24/responsive/3-lg.jpeg 1024w"  height="540" width="960" alt="" />
+      
+    </figure>
 
-        <updated>2022-04-25T05:35:06+03:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://studiomoi.github.io/media/posts/18/mi.jpg" alt="" />
-                     We've made physical simulations and renders for misli.com packshots.&nbsp; 
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://studiomoi.github.io/media/posts/18/mi.jpg" alt="" />
-                
-  <p class="align-center">
-    We've made physical simulations and renders for misli.com packshots.&nbsp;
-  </p>
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://studiomoi.github.io/media/posts/24/9.jpeg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/24/responsive/9-xs.jpeg 300w ,https://studiomoi.github.io/media/posts/24/responsive/9-sm.jpeg 480w ,https://studiomoi.github.io/media/posts/24/responsive/9-md.jpeg 768w ,https://studiomoi.github.io/media/posts/24/responsive/9-lg.jpeg 1024w"  height="540" width="960" alt="" />
+      
+    </figure>
 
   <p>
     
   </p>
-<div><div style="padding:56.25% 0 0 0;position:relative;"><div class="post__iframe"><iframe loading="lazy" src="https://player.vimeo.com/video/558117461" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div></div><script src="https://player.vimeo.com/api/player.js"></script></div>
-
-  <p>
-    
-  </p>
-<div><div style="padding:56.25% 0 0 0;position:relative;"><div class="post__iframe"><iframe loading="lazy" src="https://player.vimeo.com/video/558124027" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div></div><script src="https://player.vimeo.com/api/player.js"></script></div>
             ]]>
         </content>
     </entry>

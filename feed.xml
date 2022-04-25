@@ -3,7 +3,7 @@
     <title>moi</title>
     <link href="https://studiomoi.github.io/feed.xml" rel="self" />
     <link href="https://studiomoi.github.io" />
-    <updated>2022-04-25T06:41:07+03:00</updated>
+    <updated>2022-04-25T18:31:13+03:00</updated>
     <author>
         <name>uk</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://studiomoi.github.io/taskimo.html"/>
         <id>https://studiomoi.github.io/taskimo.html</id>
 
-        <updated>2022-04-25T05:45:06+03:00</updated>
+        <updated>2022-04-25T18:31:13+03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://studiomoi.github.io/media/posts/22/Branding-Mockup-Freebie-2.jpg" alt="" />
@@ -45,6 +45,11 @@
   <p class="align-center">
     We designed a modular brand identity system that changes shape, color and position in an analytical way to resemble Taskimo's revolutionary approach.&nbsp;
   </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://studiomoi.github.io/media/posts/22/tanim.gif" height="500" width="500" alt="" />
+      
+    </figure>
 
     <figure class="post__image post__image--wide">
       <img loading="lazy" src="https://studiomoi.github.io/media/posts/22/Branding-Mockup-Freebie.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/22/responsive/Branding-Mockup-Freebie-xs.jpg 300w ,https://studiomoi.github.io/media/posts/22/responsive/Branding-Mockup-Freebie-sm.jpg 480w ,https://studiomoi.github.io/media/posts/22/responsive/Branding-Mockup-Freebie-md.jpg 768w ,https://studiomoi.github.io/media/posts/22/responsive/Branding-Mockup-Freebie-lg.jpg 1024w"  height="1344" width="1920" alt="" />

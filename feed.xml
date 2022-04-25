@@ -3,7 +3,7 @@
     <title>moi</title>
     <link href="https://studiomoi.github.io/feed.xml" rel="self" />
     <link href="https://studiomoi.github.io" />
-    <updated>2022-04-25T03:47:59+03:00</updated>
+    <updated>2022-04-25T04:05:17+03:00</updated>
     <author>
         <name>uk</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://studiomoi.github.io/cotto.html"/>
         <id>https://studiomoi.github.io/cotto.html</id>
 
-        <updated>2022-04-25T03:47:59+03:00</updated>
+        <updated>2022-04-25T04:05:17+03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://studiomoi.github.io/media/posts/21/Screen-Shot-2022-04-25-at-03.27.43.png" alt="Cotto Gastro" />
@@ -38,7 +38,7 @@
     </figure>
 
   <p>
-    We have been asked to create a brand identity which reflects an italian style artisan cousine.&nbsp;<br>Serves not as only a restaurant but also a cafe, a winery and a charcuterie.&nbsp;
+    We have been asked to create a brand identity which reflects an italian style artisan cousine. Serves not as only a restaurant but also a cafe, a winery and a charcuterie.&nbsp;
   </p>
 
     <figure class="post__image post__image--wide">
@@ -64,41 +64,6 @@
       
     </figure>
 
-    <figure class="post__image post__image--wide">
-      <img loading="lazy" src="https://studiomoi.github.io/media/posts/21/fsadsafas-2.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/21/responsive/fsadsafas-2-xs.jpg 300w ,https://studiomoi.github.io/media/posts/21/responsive/fsadsafas-2-sm.jpg 480w ,https://studiomoi.github.io/media/posts/21/responsive/fsadsafas-2-md.jpg 768w ,https://studiomoi.github.io/media/posts/21/responsive/fsadsafas-2-lg.jpg 1024w"  height="1930" width="3432" alt="" />
-      
-    </figure>
-
-  <p>
-    Besides the brand identity, we designed the printed material and the decorative approach.<br>
-  </p>
-
-  <div  class="gallery-wrapper gallery-wrapper--wide">
-    <div class="gallery" data-columns="4">
-      <figure class="gallery__item">
-      <a href="https://studiomoi.github.io/media/posts/21/gallery/271417524_633199898021197_4642894726236599191_n-2.jpg" data-size="1080x1350">
-        <img loading="lazy" src="https://studiomoi.github.io/media/posts/21/gallery/271417524_633199898021197_4642894726236599191_n-2-thumbnail.jpg" height="240" width="240" alt="" />
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://studiomoi.github.io/media/posts/21/gallery/270129592_599694721109208_5599225366111174109_n-2.jpg" data-size="1080x1350">
-        <img loading="lazy" src="https://studiomoi.github.io/media/posts/21/gallery/270129592_599694721109208_5599225366111174109_n-2-thumbnail.jpg" height="240" width="240" alt="" />
-      </a>
-      
-    </figure>
-    </div>
-  </div>
-
-    <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://studiomoi.github.io/media/posts/21/1a-2.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/21/responsive/1a-2-xs.jpg 300w ,https://studiomoi.github.io/media/posts/21/responsive/1a-2-sm.jpg 480w ,https://studiomoi.github.io/media/posts/21/responsive/1a-2-md.jpg 768w ,https://studiomoi.github.io/media/posts/21/responsive/1a-2-lg.jpg 1024w"  height="2000" width="2000" alt="" />
-      
-    </figure>
-
-    <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://studiomoi.github.io/media/posts/21/272466391_935472497111382_8587682097290892789_n-2.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/21/responsive/272466391_935472497111382_8587682097290892789_n-2-xs.jpg 300w ,https://studiomoi.github.io/media/posts/21/responsive/272466391_935472497111382_8587682097290892789_n-2-sm.jpg 480w ,https://studiomoi.github.io/media/posts/21/responsive/272466391_935472497111382_8587682097290892789_n-2-md.jpg 768w ,https://studiomoi.github.io/media/posts/21/responsive/272466391_935472497111382_8587682097290892789_n-2-lg.jpg 1024w"  height="1351" width="1080" alt="" />
-      
-    </figure>
-
   <div  class="gallery-wrapper gallery-wrapper--center">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
@@ -109,6 +74,41 @@
     </figure><figure class="gallery__item">
       <a href="https://studiomoi.github.io/media/posts/21/gallery/273819152_1180010882802013_8539162571634960250_n-2.jpg" data-size="1080x1350">
         <img loading="lazy" src="https://studiomoi.github.io/media/posts/21/gallery/273819152_1180010882802013_8539162571634960250_n-2-thumbnail.jpg" height="240" width="240" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://studiomoi.github.io/media/posts/21/gallery/272466391_935472497111382_8587682097290892789_n.jpg" data-size="1080x1351">
+        <img loading="lazy" src="https://studiomoi.github.io/media/posts/21/gallery/272466391_935472497111382_8587682097290892789_n-thumbnail.jpg" height="240" width="240" alt="" />
+      </a>
+      
+    </figure>
+    </div>
+  </div>
+
+    <figure class="post__image post__image--wide">
+      <img loading="lazy" src="https://studiomoi.github.io/media/posts/21/fsadsafas-2.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/21/responsive/fsadsafas-2-xs.jpg 300w ,https://studiomoi.github.io/media/posts/21/responsive/fsadsafas-2-sm.jpg 480w ,https://studiomoi.github.io/media/posts/21/responsive/fsadsafas-2-md.jpg 768w ,https://studiomoi.github.io/media/posts/21/responsive/fsadsafas-2-lg.jpg 1024w"  height="1930" width="3432" alt="" />
+      
+    </figure>
+
+  <p>
+    Besides the brand identity, we designed the printed material and the decorative approach.<br>
+  </p>
+
+  <div  class="gallery-wrapper gallery-wrapper--center">
+    <div class="gallery" data-columns="3">
+      <figure class="gallery__item">
+      <a href="https://studiomoi.github.io/media/posts/21/gallery/271417524_633199898021197_4642894726236599191_n-2.jpg" data-size="1080x1350">
+        <img loading="lazy" src="https://studiomoi.github.io/media/posts/21/gallery/271417524_633199898021197_4642894726236599191_n-2-thumbnail.jpg" height="240" width="240" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://studiomoi.github.io/media/posts/21/gallery/270129592_599694721109208_5599225366111174109_n-2.jpg" data-size="1080x1350">
+        <img loading="lazy" src="https://studiomoi.github.io/media/posts/21/gallery/270129592_599694721109208_5599225366111174109_n-2-thumbnail.jpg" height="240" width="240" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://studiomoi.github.io/media/posts/21/gallery/1a.jpg" data-size="2000x2000">
+        <img loading="lazy" src="https://studiomoi.github.io/media/posts/21/gallery/1a-thumbnail.jpg" height="240" width="240" alt="" />
       </a>
       
     </figure>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>moi</title>
     <link href="https://studiomoi.github.io/feed.xml" rel="self" />
     <link href="https://studiomoi.github.io" />
@@ -16,20 +16,21 @@
         </author>
         <link href="https://studiomoi.github.io/taskimo.html"/>
         <id>https://studiomoi.github.io/taskimo.html</id>
+        <media:content url="https://studiomoi.github.io/media/posts/22/Branding-Mockup-Freebie-2.jpg" medium="image" />
 
         <updated>2022-04-25T18:31:13+03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://studiomoi.github.io/media/posts/22/Branding-Mockup-Freebie-2.jpg" alt="" />
-                     Taskimo offers wearable digital solutions for augmented frontline workers. Enabling frontline&hellip;
+                    Taskimo offers wearable digital solutions for augmented frontline workers. Enabling frontline workers&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://studiomoi.github.io/media/posts/22/Branding-Mockup-Freebie-2.jpg" alt="" />
+                    <p><img src="https://studiomoi.github.io/media/posts/22/Branding-Mockup-Freebie-2.jpg" class="type:primaryImage" alt="" /></p>
                 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://studiomoi.github.io/media/posts/22/taskimo-1.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/22/responsive/taskimo-1-xs.jpg 300w ,https://studiomoi.github.io/media/posts/22/responsive/taskimo-1-sm.jpg 480w ,https://studiomoi.github.io/media/posts/22/responsive/taskimo-1-md.jpg 768w ,https://studiomoi.github.io/media/posts/22/responsive/taskimo-1-lg.jpg 1024w"  height="1080" width="1920" alt="" />
+      <img loading="lazy" src="https://studiomoi.github.io/media/posts/22/taskimo-1.jpg" height="1080" width="1920" alt=""  sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/22/responsive/taskimo-1-xs.jpg 300w ,https://studiomoi.github.io/media/posts/22/responsive/taskimo-1-sm.jpg 480w ,https://studiomoi.github.io/media/posts/22/responsive/taskimo-1-md.jpg 768w ,https://studiomoi.github.io/media/posts/22/responsive/taskimo-1-lg.jpg 1024w">
       
     </figure>
 
@@ -38,7 +39,7 @@
   </p>
 
     <figure class="post__image post__image--wide">
-      <img loading="lazy" src="https://studiomoi.github.io/media/posts/22/Screen-Shot-2022-04-25-at-04.30.12-3.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/22/responsive/Screen-Shot-2022-04-25-at-04.30.12-3-xs.png 300w ,https://studiomoi.github.io/media/posts/22/responsive/Screen-Shot-2022-04-25-at-04.30.12-3-sm.png 480w ,https://studiomoi.github.io/media/posts/22/responsive/Screen-Shot-2022-04-25-at-04.30.12-3-md.png 768w ,https://studiomoi.github.io/media/posts/22/responsive/Screen-Shot-2022-04-25-at-04.30.12-3-lg.png 1024w"  height="134" width="808" alt="" />
+      <img loading="lazy" src="https://studiomoi.github.io/media/posts/22/Screen-Shot-2022-04-25-at-04.30.12-3.png" height="134" width="808" alt=""  sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/22/responsive/Screen-Shot-2022-04-25-at-04.30.12-3-xs.png 300w ,https://studiomoi.github.io/media/posts/22/responsive/Screen-Shot-2022-04-25-at-04.30.12-3-sm.png 480w ,https://studiomoi.github.io/media/posts/22/responsive/Screen-Shot-2022-04-25-at-04.30.12-3-md.png 768w ,https://studiomoi.github.io/media/posts/22/responsive/Screen-Shot-2022-04-25-at-04.30.12-3-lg.png 1024w">
       
     </figure>
 
@@ -47,12 +48,12 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://studiomoi.github.io/media/posts/22/tanim.gif" height="500" width="500" alt="" />
+      <img loading="lazy" src="https://studiomoi.github.io/media/posts/22/tanim.gif" height="500" width="500" alt="" >
       
     </figure>
 
     <figure class="post__image post__image--wide">
-      <img loading="lazy" src="https://studiomoi.github.io/media/posts/22/Branding-Mockup-Freebie.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/22/responsive/Branding-Mockup-Freebie-xs.jpg 300w ,https://studiomoi.github.io/media/posts/22/responsive/Branding-Mockup-Freebie-sm.jpg 480w ,https://studiomoi.github.io/media/posts/22/responsive/Branding-Mockup-Freebie-md.jpg 768w ,https://studiomoi.github.io/media/posts/22/responsive/Branding-Mockup-Freebie-lg.jpg 1024w"  height="1344" width="1920" alt="" />
+      <img loading="lazy" src="https://studiomoi.github.io/media/posts/22/Branding-Mockup-Freebie.jpg" height="1344" width="1920" alt=""  sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/22/responsive/Branding-Mockup-Freebie-xs.jpg 300w ,https://studiomoi.github.io/media/posts/22/responsive/Branding-Mockup-Freebie-sm.jpg 480w ,https://studiomoi.github.io/media/posts/22/responsive/Branding-Mockup-Freebie-md.jpg 768w ,https://studiomoi.github.io/media/posts/22/responsive/Branding-Mockup-Freebie-lg.jpg 1024w">
       
     </figure>
 
@@ -60,17 +61,17 @@
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
       <a href="https://studiomoi.github.io/media/posts/22/gallery/A4-folder.jpg" data-size="1920x1344">
-        <img loading="lazy" src="https://studiomoi.github.io/media/posts/22/gallery/A4-folder-thumbnail.jpg" height="240" width="240" alt="" />
+        <img loading="lazy" src="https://studiomoi.github.io/media/posts/22/gallery/A4-folder-thumbnail.jpg" height="240" width="240" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
       <a href="https://studiomoi.github.io/media/posts/22/gallery/Digital-Mockup-Freebie.jpg" data-size="1920x1344">
-        <img loading="lazy" src="https://studiomoi.github.io/media/posts/22/gallery/Digital-Mockup-Freebie-thumbnail.jpg" height="240" width="240" alt="" />
+        <img loading="lazy" src="https://studiomoi.github.io/media/posts/22/gallery/Digital-Mockup-Freebie-thumbnail.jpg" height="240" width="240" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
       <a href="https://studiomoi.github.io/media/posts/22/gallery/stationery-mockup-scene-1.jpg" data-size="1920x1344">
-        <img loading="lazy" src="https://studiomoi.github.io/media/posts/22/gallery/stationery-mockup-scene-1-thumbnail.jpg" height="240" width="240" alt="" />
+        <img loading="lazy" src="https://studiomoi.github.io/media/posts/22/gallery/stationery-mockup-scene-1-thumbnail.jpg" height="240" width="240" alt="" >
       </a>
       
     </figure>
@@ -78,13 +79,13 @@
   </div>
 
     <figure class="post__image post__image--wide">
-      <img loading="lazy" src="https://studiomoi.github.io/media/posts/22/Business-Card-Branding-Mockup.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/22/responsive/Business-Card-Branding-Mockup-xs.jpg 300w ,https://studiomoi.github.io/media/posts/22/responsive/Business-Card-Branding-Mockup-sm.jpg 480w ,https://studiomoi.github.io/media/posts/22/responsive/Business-Card-Branding-Mockup-md.jpg 768w ,https://studiomoi.github.io/media/posts/22/responsive/Business-Card-Branding-Mockup-lg.jpg 1024w"  height="1520" width="1920" alt="" />
+      <img loading="lazy" src="https://studiomoi.github.io/media/posts/22/Business-Card-Branding-Mockup.jpg" height="1520" width="1920" alt=""  sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/22/responsive/Business-Card-Branding-Mockup-xs.jpg 300w ,https://studiomoi.github.io/media/posts/22/responsive/Business-Card-Branding-Mockup-sm.jpg 480w ,https://studiomoi.github.io/media/posts/22/responsive/Business-Card-Branding-Mockup-md.jpg 768w ,https://studiomoi.github.io/media/posts/22/responsive/Business-Card-Branding-Mockup-lg.jpg 1024w">
       
     </figure>
 <hr class="separator separator--dots" />
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://studiomoi.github.io/media/posts/22/Screen-Shot-2022-04-25-at-03.20.49.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/22/responsive/Screen-Shot-2022-04-25-at-03.20.49-xs.png 300w ,https://studiomoi.github.io/media/posts/22/responsive/Screen-Shot-2022-04-25-at-03.20.49-sm.png 480w ,https://studiomoi.github.io/media/posts/22/responsive/Screen-Shot-2022-04-25-at-03.20.49-md.png 768w ,https://studiomoi.github.io/media/posts/22/responsive/Screen-Shot-2022-04-25-at-03.20.49-lg.png 1024w"  height="313" width="1024" alt="" />
+      <img loading="lazy" src="https://studiomoi.github.io/media/posts/22/Screen-Shot-2022-04-25-at-03.20.49.png" height="313" width="1024" alt=""  sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/22/responsive/Screen-Shot-2022-04-25-at-03.20.49-xs.png 300w ,https://studiomoi.github.io/media/posts/22/responsive/Screen-Shot-2022-04-25-at-03.20.49-sm.png 480w ,https://studiomoi.github.io/media/posts/22/responsive/Screen-Shot-2022-04-25-at-03.20.49-md.png 768w ,https://studiomoi.github.io/media/posts/22/responsive/Screen-Shot-2022-04-25-at-03.20.49-lg.png 1024w">
       
     </figure>
 
@@ -93,30 +94,30 @@
   </p>
 
     <figure class="post__image post__image--wide">
-      <img loading="lazy" src="https://studiomoi.github.io/media/posts/22/works.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/22/responsive/works-xs.jpg 300w ,https://studiomoi.github.io/media/posts/22/responsive/works-sm.jpg 480w ,https://studiomoi.github.io/media/posts/22/responsive/works-md.jpg 768w ,https://studiomoi.github.io/media/posts/22/responsive/works-lg.jpg 1024w"  height="1125" width="2000" alt="" />
+      <img loading="lazy" src="https://studiomoi.github.io/media/posts/22/works.jpg" height="1125" width="2000" alt=""  sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/22/responsive/works-xs.jpg 300w ,https://studiomoi.github.io/media/posts/22/responsive/works-sm.jpg 480w ,https://studiomoi.github.io/media/posts/22/responsive/works-md.jpg 768w ,https://studiomoi.github.io/media/posts/22/responsive/works-lg.jpg 1024w">
       
     </figure>
 
-  <div  class="gallery-wrapper gallery-wrapper--center">
+  <div  class="gallery-wrapper">
     <div class="gallery" data-columns="4">
       <figure class="gallery__item">
       <a href="https://studiomoi.github.io/media/posts/22/gallery/filloutforms.2022-04-25-03_17_06.gif" data-size="760x514">
-        <img loading="lazy" src="https://studiomoi.github.io/media/posts/22/gallery/filloutforms.2022-04-25-03_17_06.gif" height="514" width="760" alt="" />
+        <img loading="lazy" src="https://studiomoi.github.io/media/posts/22/gallery/filloutforms.2022-04-25-03_17_06.gif" height="514" width="760" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
       <a href="https://studiomoi.github.io/media/posts/22/gallery/repetitive.2022-04-25-03_18_05.gif" data-size="760x514">
-        <img loading="lazy" src="https://studiomoi.github.io/media/posts/22/gallery/repetitive.2022-04-25-03_18_05.gif" height="514" width="760" alt="" />
+        <img loading="lazy" src="https://studiomoi.github.io/media/posts/22/gallery/repetitive.2022-04-25-03_18_05.gif" height="514" width="760" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
       <a href="https://studiomoi.github.io/media/posts/22/gallery/run-modes.2022-04-25-03_18_39.gif" data-size="760x514">
-        <img loading="lazy" src="https://studiomoi.github.io/media/posts/22/gallery/run-modes.2022-04-25-03_18_39.gif" height="514" width="760" alt="" />
+        <img loading="lazy" src="https://studiomoi.github.io/media/posts/22/gallery/run-modes.2022-04-25-03_18_39.gif" height="514" width="760" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
       <a href="https://studiomoi.github.io/media/posts/22/gallery/fill-forms_1.2022-04-25-03_15_33.gif" data-size="760x515">
-        <img loading="lazy" src="https://studiomoi.github.io/media/posts/22/gallery/fill-forms_1.2022-04-25-03_15_33.gif" height="515" width="760" alt="" />
+        <img loading="lazy" src="https://studiomoi.github.io/media/posts/22/gallery/fill-forms_1.2022-04-25-03_15_33.gif" height="515" width="760" alt="" >
       </a>
       
     </figure>
@@ -125,7 +126,7 @@
 <hr class="separator separator--dots" />
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://studiomoi.github.io/media/posts/22/TIPS-secondary-logo.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/22/responsive/TIPS-secondary-logo-xs.png 300w ,https://studiomoi.github.io/media/posts/22/responsive/TIPS-secondary-logo-sm.png 480w ,https://studiomoi.github.io/media/posts/22/responsive/TIPS-secondary-logo-md.png 768w ,https://studiomoi.github.io/media/posts/22/responsive/TIPS-secondary-logo-lg.png 1024w"  height="687" width="2379" alt="" />
+      <img loading="lazy" src="https://studiomoi.github.io/media/posts/22/TIPS-secondary-logo.png" height="687" width="2379" alt=""  sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/22/responsive/TIPS-secondary-logo-xs.png 300w ,https://studiomoi.github.io/media/posts/22/responsive/TIPS-secondary-logo-sm.png 480w ,https://studiomoi.github.io/media/posts/22/responsive/TIPS-secondary-logo-md.png 768w ,https://studiomoi.github.io/media/posts/22/responsive/TIPS-secondary-logo-lg.png 1024w">
       
     </figure>
 
@@ -133,42 +134,42 @@
     TIPS is a mobile knowledge base that your staff or customers refer to when a quick tip or guidance is needed for a standard operating procedure (SOP), a product, equipment or, service.<br>
   </p>
 
-  <div  class="gallery-wrapper gallery-wrapper--center">
+  <div  class="gallery-wrapper">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
       <a href="https://studiomoi.github.io/media/posts/22/gallery/004-use-TIPS-as-a-single-source.2022-04-25-03_24_04.gif" data-size="760x514">
-        <img loading="lazy" src="https://studiomoi.github.io/media/posts/22/gallery/004-use-TIPS-as-a-single-source.2022-04-25-03_24_04.gif" height="514" width="760" alt="" />
+        <img loading="lazy" src="https://studiomoi.github.io/media/posts/22/gallery/004-use-TIPS-as-a-single-source.2022-04-25-03_24_04.gif" height="514" width="760" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
       <a href="https://studiomoi.github.io/media/posts/22/gallery/006-Use-Tip-ratings-and.2022-04-25-03_25_07.gif" data-size="760x514">
-        <img loading="lazy" src="https://studiomoi.github.io/media/posts/22/gallery/006-Use-Tip-ratings-and.2022-04-25-03_25_07.gif" height="514" width="760" alt="" />
+        <img loading="lazy" src="https://studiomoi.github.io/media/posts/22/gallery/006-Use-Tip-ratings-and.2022-04-25-03_25_07.gif" height="514" width="760" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
       <a href="https://studiomoi.github.io/media/posts/22/gallery/005-Collect-Tip-Requests.2022-04-25-03_24_43.gif" data-size="760x514">
-        <img loading="lazy" src="https://studiomoi.github.io/media/posts/22/gallery/005-Collect-Tip-Requests.2022-04-25-03_24_43.gif" height="514" width="760" alt="" />
+        <img loading="lazy" src="https://studiomoi.github.io/media/posts/22/gallery/005-Collect-Tip-Requests.2022-04-25-03_24_43.gif" height="514" width="760" alt="" >
       </a>
       
     </figure>
     </div>
   </div>
 
-  <div  class="gallery-wrapper gallery-wrapper--center">
+  <div  class="gallery-wrapper">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
       <a href="https://studiomoi.github.io/media/posts/22/gallery/33333.jpg" data-size="574x574">
-        <img loading="lazy" src="https://studiomoi.github.io/media/posts/22/gallery/33333-thumbnail.jpg" height="240" width="240" alt="" />
+        <img loading="lazy" src="https://studiomoi.github.io/media/posts/22/gallery/33333-thumbnail.jpg" height="240" width="240" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
       <a href="https://studiomoi.github.io/media/posts/22/gallery/111111.jpg" data-size="574x574">
-        <img loading="lazy" src="https://studiomoi.github.io/media/posts/22/gallery/111111-thumbnail.jpg" height="240" width="240" alt="" />
+        <img loading="lazy" src="https://studiomoi.github.io/media/posts/22/gallery/111111-thumbnail.jpg" height="240" width="240" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
       <a href="https://studiomoi.github.io/media/posts/22/gallery/222222.jpg" data-size="574x574">
-        <img loading="lazy" src="https://studiomoi.github.io/media/posts/22/gallery/222222-thumbnail.jpg" height="240" width="240" alt="" />
+        <img loading="lazy" src="https://studiomoi.github.io/media/posts/22/gallery/222222-thumbnail.jpg" height="240" width="240" alt="" >
       </a>
       
     </figure>
@@ -176,7 +177,7 @@
   </div>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://studiomoi.github.io/media/posts/22/console-2.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/22/responsive/console-2-xs.jpg 300w ,https://studiomoi.github.io/media/posts/22/responsive/console-2-sm.jpg 480w ,https://studiomoi.github.io/media/posts/22/responsive/console-2-md.jpg 768w ,https://studiomoi.github.io/media/posts/22/responsive/console-2-lg.jpg 1024w"  height="155" width="924" alt="" />
+      <img loading="lazy" src="https://studiomoi.github.io/media/posts/22/console-2.jpg" height="155" width="924" alt=""  sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/22/responsive/console-2-xs.jpg 300w ,https://studiomoi.github.io/media/posts/22/responsive/console-2-sm.jpg 480w ,https://studiomoi.github.io/media/posts/22/responsive/console-2-md.jpg 768w ,https://studiomoi.github.io/media/posts/22/responsive/console-2-lg.jpg 1024w">
       
     </figure>
 
@@ -193,24 +194,25 @@
         </author>
         <link href="https://studiomoi.github.io/cotto.html"/>
         <id>https://studiomoi.github.io/cotto.html</id>
+        <media:content url="https://studiomoi.github.io/media/posts/21/sss.jpg" medium="image" />
 
         <updated>2022-04-25T06:20:31+03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://studiomoi.github.io/media/posts/21/sss.jpg" alt="Cotto Gastro" />
-                     Cotto Gastro Italiano is the new artsy Italian restaurant in Suadiye&hellip;
+                    Cotto Gastro Italiano is the new artsy Italian restaurant in Suadiye /&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://studiomoi.github.io/media/posts/21/sss.jpg" alt="Cotto Gastro" />
+                    <p><img src="https://studiomoi.github.io/media/posts/21/sss.jpg" class="type:primaryImage" alt="Cotto Gastro" /></p>
                 
   <p>
     Cotto Gastro Italiano is the new artsy Italian restaurant in Suadiye / Istanbul. Located in the most lively and local part of the city, Cotto is somewhere to be in a special day, or make the day special.&nbsp;
   </p>
 
     <figure class="post__image post__image--wide">
-      <img loading="lazy" src="https://studiomoi.github.io/media/posts/21/logo.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/21/responsive/logo-xs.png 300w ,https://studiomoi.github.io/media/posts/21/responsive/logo-sm.png 480w ,https://studiomoi.github.io/media/posts/21/responsive/logo-md.png 768w ,https://studiomoi.github.io/media/posts/21/responsive/logo-lg.png 1024w"  height="924" width="1716" alt="" />
+      <img loading="lazy" src="https://studiomoi.github.io/media/posts/21/logo.png" height="924" width="1716" alt=""  sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/21/responsive/logo-xs.png 300w ,https://studiomoi.github.io/media/posts/21/responsive/logo-sm.png 480w ,https://studiomoi.github.io/media/posts/21/responsive/logo-md.png 768w ,https://studiomoi.github.io/media/posts/21/responsive/logo-lg.png 1024w">
       
     </figure>
 
@@ -219,7 +221,7 @@
   </p>
 
     <figure class="post__image post__image--wide">
-      <img loading="lazy" src="https://studiomoi.github.io/media/posts/21/02_View.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/21/responsive/02_View-xs.jpg 300w ,https://studiomoi.github.io/media/posts/21/responsive/02_View-sm.jpg 480w ,https://studiomoi.github.io/media/posts/21/responsive/02_View-md.jpg 768w ,https://studiomoi.github.io/media/posts/21/responsive/02_View-lg.jpg 1024w"  height="2000" width="3000" alt="" />
+      <img loading="lazy" src="https://studiomoi.github.io/media/posts/21/02_View.jpg" height="2000" width="3000" alt=""  sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/21/responsive/02_View-xs.jpg 300w ,https://studiomoi.github.io/media/posts/21/responsive/02_View-sm.jpg 480w ,https://studiomoi.github.io/media/posts/21/responsive/02_View-md.jpg 768w ,https://studiomoi.github.io/media/posts/21/responsive/02_View-lg.jpg 1024w">
       
     </figure>
 
@@ -228,7 +230,7 @@
   </p>
 
     <figure class="post__image post__image--wide">
-      <img loading="lazy" src="https://studiomoi.github.io/media/posts/21/08-geometria-branding-mockup-vol2.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/21/responsive/08-geometria-branding-mockup-vol2-xs.jpg 300w ,https://studiomoi.github.io/media/posts/21/responsive/08-geometria-branding-mockup-vol2-sm.jpg 480w ,https://studiomoi.github.io/media/posts/21/responsive/08-geometria-branding-mockup-vol2-md.jpg 768w ,https://studiomoi.github.io/media/posts/21/responsive/08-geometria-branding-mockup-vol2-lg.jpg 1024w"  height="3000" width="4500" alt="" />
+      <img loading="lazy" src="https://studiomoi.github.io/media/posts/21/08-geometria-branding-mockup-vol2.jpg" height="3000" width="4500" alt=""  sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/21/responsive/08-geometria-branding-mockup-vol2-xs.jpg 300w ,https://studiomoi.github.io/media/posts/21/responsive/08-geometria-branding-mockup-vol2-sm.jpg 480w ,https://studiomoi.github.io/media/posts/21/responsive/08-geometria-branding-mockup-vol2-md.jpg 768w ,https://studiomoi.github.io/media/posts/21/responsive/08-geometria-branding-mockup-vol2-lg.jpg 1024w">
       
     </figure>
 
@@ -237,25 +239,25 @@
   </p>
 
     <figure class="post__image post__image--wide">
-      <img loading="lazy" src="https://studiomoi.github.io/media/posts/21/06-geometria-branding-mockup-vol1-2.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/21/responsive/06-geometria-branding-mockup-vol1-2-xs.jpg 300w ,https://studiomoi.github.io/media/posts/21/responsive/06-geometria-branding-mockup-vol1-2-sm.jpg 480w ,https://studiomoi.github.io/media/posts/21/responsive/06-geometria-branding-mockup-vol1-2-md.jpg 768w ,https://studiomoi.github.io/media/posts/21/responsive/06-geometria-branding-mockup-vol1-2-lg.jpg 1024w"  height="2842" width="5052" alt="" />
+      <img loading="lazy" src="https://studiomoi.github.io/media/posts/21/06-geometria-branding-mockup-vol1-2.jpg" height="2842" width="5052" alt=""  sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/21/responsive/06-geometria-branding-mockup-vol1-2-xs.jpg 300w ,https://studiomoi.github.io/media/posts/21/responsive/06-geometria-branding-mockup-vol1-2-sm.jpg 480w ,https://studiomoi.github.io/media/posts/21/responsive/06-geometria-branding-mockup-vol1-2-md.jpg 768w ,https://studiomoi.github.io/media/posts/21/responsive/06-geometria-branding-mockup-vol1-2-lg.jpg 1024w">
       
     </figure>
 
-  <div  class="gallery-wrapper gallery-wrapper--center">
+  <div  class="gallery-wrapper">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
       <a href="https://studiomoi.github.io/media/posts/21/gallery/277361200_731898764884269_492589326312890401_n.jpg" data-size="1080x1351">
-        <img loading="lazy" src="https://studiomoi.github.io/media/posts/21/gallery/277361200_731898764884269_492589326312890401_n-thumbnail.jpg" height="240" width="240" alt="" />
+        <img loading="lazy" src="https://studiomoi.github.io/media/posts/21/gallery/277361200_731898764884269_492589326312890401_n-thumbnail.jpg" height="240" width="240" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
       <a href="https://studiomoi.github.io/media/posts/21/gallery/273819152_1180010882802013_8539162571634960250_n-2.jpg" data-size="1080x1350">
-        <img loading="lazy" src="https://studiomoi.github.io/media/posts/21/gallery/273819152_1180010882802013_8539162571634960250_n-2-thumbnail.jpg" height="240" width="240" alt="" />
+        <img loading="lazy" src="https://studiomoi.github.io/media/posts/21/gallery/273819152_1180010882802013_8539162571634960250_n-2-thumbnail.jpg" height="240" width="240" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
       <a href="https://studiomoi.github.io/media/posts/21/gallery/272466391_935472497111382_8587682097290892789_n.jpg" data-size="1080x1351">
-        <img loading="lazy" src="https://studiomoi.github.io/media/posts/21/gallery/272466391_935472497111382_8587682097290892789_n-thumbnail.jpg" height="240" width="240" alt="" />
+        <img loading="lazy" src="https://studiomoi.github.io/media/posts/21/gallery/272466391_935472497111382_8587682097290892789_n-thumbnail.jpg" height="240" width="240" alt="" >
       </a>
       
     </figure>
@@ -263,7 +265,7 @@
   </div>
 
     <figure class="post__image post__image--wide">
-      <img loading="lazy" src="https://studiomoi.github.io/media/posts/21/fsadsafas-2.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/21/responsive/fsadsafas-2-xs.jpg 300w ,https://studiomoi.github.io/media/posts/21/responsive/fsadsafas-2-sm.jpg 480w ,https://studiomoi.github.io/media/posts/21/responsive/fsadsafas-2-md.jpg 768w ,https://studiomoi.github.io/media/posts/21/responsive/fsadsafas-2-lg.jpg 1024w"  height="1930" width="3432" alt="" />
+      <img loading="lazy" src="https://studiomoi.github.io/media/posts/21/fsadsafas-2.jpg" height="1930" width="3432" alt=""  sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/21/responsive/fsadsafas-2-xs.jpg 300w ,https://studiomoi.github.io/media/posts/21/responsive/fsadsafas-2-sm.jpg 480w ,https://studiomoi.github.io/media/posts/21/responsive/fsadsafas-2-md.jpg 768w ,https://studiomoi.github.io/media/posts/21/responsive/fsadsafas-2-lg.jpg 1024w">
       
     </figure>
 
@@ -271,21 +273,21 @@
     Besides the brand identity, we designed the printed material and the decorative approach.<br>
   </p>
 
-  <div  class="gallery-wrapper gallery-wrapper--center">
+  <div  class="gallery-wrapper">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
       <a href="https://studiomoi.github.io/media/posts/21/gallery/271417524_633199898021197_4642894726236599191_n-2.jpg" data-size="1080x1350">
-        <img loading="lazy" src="https://studiomoi.github.io/media/posts/21/gallery/271417524_633199898021197_4642894726236599191_n-2-thumbnail.jpg" height="240" width="240" alt="" />
+        <img loading="lazy" src="https://studiomoi.github.io/media/posts/21/gallery/271417524_633199898021197_4642894726236599191_n-2-thumbnail.jpg" height="240" width="240" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
       <a href="https://studiomoi.github.io/media/posts/21/gallery/270129592_599694721109208_5599225366111174109_n-2.jpg" data-size="1080x1350">
-        <img loading="lazy" src="https://studiomoi.github.io/media/posts/21/gallery/270129592_599694721109208_5599225366111174109_n-2-thumbnail.jpg" height="240" width="240" alt="" />
+        <img loading="lazy" src="https://studiomoi.github.io/media/posts/21/gallery/270129592_599694721109208_5599225366111174109_n-2-thumbnail.jpg" height="240" width="240" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
       <a href="https://studiomoi.github.io/media/posts/21/gallery/1a.jpg" data-size="2000x2000">
-        <img loading="lazy" src="https://studiomoi.github.io/media/posts/21/gallery/1a-thumbnail.jpg" height="240" width="240" alt="" />
+        <img loading="lazy" src="https://studiomoi.github.io/media/posts/21/gallery/1a-thumbnail.jpg" height="240" width="240" alt="" >
       </a>
       
     </figure>
@@ -305,30 +307,31 @@
         </author>
         <link href="https://studiomoi.github.io/imza-bir.html"/>
         <id>https://studiomoi.github.io/imza-bir.html</id>
+        <media:content url="https://studiomoi.github.io/media/posts/6/main.jpg" medium="image" />
 
         <updated>2022-04-25T04:11:49+03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://studiomoi.github.io/media/posts/6/main.jpg" alt="" />
-                    İmza Bir Tost on instagram 
+                    İmza Bir Tost on instagram
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://studiomoi.github.io/media/posts/6/main.jpg" alt="" />
-                <figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/6/ibt-1-1.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/6/responsive/ibt-1-1-xs.jpg 300w ,https://studiomoi.github.io/media/posts/6/responsive/ibt-1-1-sm.jpg 480w ,https://studiomoi.github.io/media/posts/6/responsive/ibt-1-1-md.jpg 768w ,https://studiomoi.github.io/media/posts/6/responsive/ibt-1-1-lg.jpg 1024w"  alt="" width="2000" height="1120"></figure>
-<figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/6/ibt-2-1.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/6/responsive/ibt-2-1-xs.jpg 300w ,https://studiomoi.github.io/media/posts/6/responsive/ibt-2-1-sm.jpg 480w ,https://studiomoi.github.io/media/posts/6/responsive/ibt-2-1-md.jpg 768w ,https://studiomoi.github.io/media/posts/6/responsive/ibt-2-1-lg.jpg 1024w"  alt="" width="2000" height="1120"></figure>
-<figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/6/ibt-2-2.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/6/responsive/ibt-2-2-xs.jpg 300w ,https://studiomoi.github.io/media/posts/6/responsive/ibt-2-2-sm.jpg 480w ,https://studiomoi.github.io/media/posts/6/responsive/ibt-2-2-md.jpg 768w ,https://studiomoi.github.io/media/posts/6/responsive/ibt-2-2-lg.jpg 1024w"  alt="" width="2000" height="1120"></figure>
-<figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/6/ibt-2-4.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/6/responsive/ibt-2-4-xs.jpg 300w ,https://studiomoi.github.io/media/posts/6/responsive/ibt-2-4-sm.jpg 480w ,https://studiomoi.github.io/media/posts/6/responsive/ibt-2-4-md.jpg 768w ,https://studiomoi.github.io/media/posts/6/responsive/ibt-2-4-lg.jpg 1024w"  alt="" width="2000" height="1120"></figure><figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/6/ibt-2-3.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/6/responsive/ibt-2-3-xs.jpg 300w ,https://studiomoi.github.io/media/posts/6/responsive/ibt-2-3-sm.jpg 480w ,https://studiomoi.github.io/media/posts/6/responsive/ibt-2-3-md.jpg 768w ,https://studiomoi.github.io/media/posts/6/responsive/ibt-2-3-lg.jpg 1024w"  alt="" width="2000" height="1120"></figure>
+                    <p><img src="https://studiomoi.github.io/media/posts/6/main.jpg" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/6/ibt-1-1.jpg" alt="" width="2000" height="1120" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/6/responsive/ibt-1-1-xs.jpg 300w ,https://studiomoi.github.io/media/posts/6/responsive/ibt-1-1-sm.jpg 480w ,https://studiomoi.github.io/media/posts/6/responsive/ibt-1-1-md.jpg 768w ,https://studiomoi.github.io/media/posts/6/responsive/ibt-1-1-lg.jpg 1024w"></figure>
+<figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/6/ibt-2-1.jpg" alt="" width="2000" height="1120" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/6/responsive/ibt-2-1-xs.jpg 300w ,https://studiomoi.github.io/media/posts/6/responsive/ibt-2-1-sm.jpg 480w ,https://studiomoi.github.io/media/posts/6/responsive/ibt-2-1-md.jpg 768w ,https://studiomoi.github.io/media/posts/6/responsive/ibt-2-1-lg.jpg 1024w"></figure>
+<figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/6/ibt-2-2.jpg" alt="" width="2000" height="1120" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/6/responsive/ibt-2-2-xs.jpg 300w ,https://studiomoi.github.io/media/posts/6/responsive/ibt-2-2-sm.jpg 480w ,https://studiomoi.github.io/media/posts/6/responsive/ibt-2-2-md.jpg 768w ,https://studiomoi.github.io/media/posts/6/responsive/ibt-2-2-lg.jpg 1024w"></figure>
+<figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/6/ibt-2-4.jpg" alt="" width="2000" height="1120" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/6/responsive/ibt-2-4-xs.jpg 300w ,https://studiomoi.github.io/media/posts/6/responsive/ibt-2-4-sm.jpg 480w ,https://studiomoi.github.io/media/posts/6/responsive/ibt-2-4-md.jpg 768w ,https://studiomoi.github.io/media/posts/6/responsive/ibt-2-4-lg.jpg 1024w"></figure><figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/6/ibt-2-3.jpg" alt="" width="2000" height="1120" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/6/responsive/ibt-2-3-xs.jpg 300w ,https://studiomoi.github.io/media/posts/6/responsive/ibt-2-3-sm.jpg 480w ,https://studiomoi.github.io/media/posts/6/responsive/ibt-2-3-md.jpg 768w ,https://studiomoi.github.io/media/posts/6/responsive/ibt-2-3-lg.jpg 1024w"></figure>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="4">
 <figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/6/gallery/ibt-msj-01.jpg" data-size="900x900"><img loading="lazy" src="https://studiomoi.github.io/media/posts/6/gallery/ibt-msj-01-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
 <figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/6/gallery/ibt-msj-02.jpg" data-size="900x900"><img loading="lazy" src="https://studiomoi.github.io/media/posts/6/gallery/ibt-msj-02-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
 <figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/6/gallery/ibt-msj-03.jpg" data-size="900x900"><img loading="lazy" src="https://studiomoi.github.io/media/posts/6/gallery/ibt-msj-03-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
 <figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/6/gallery/ibt-msj-04.jpg" data-size="900x900"><img loading="lazy" src="https://studiomoi.github.io/media/posts/6/gallery/ibt-msj-04-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
 </div></div>
-<figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/6/ibt-2.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/6/responsive/ibt-2-xs.jpg 300w ,https://studiomoi.github.io/media/posts/6/responsive/ibt-2-sm.jpg 480w ,https://studiomoi.github.io/media/posts/6/responsive/ibt-2-md.jpg 768w ,https://studiomoi.github.io/media/posts/6/responsive/ibt-2-lg.jpg 1024w"  alt="" width="1396" height="1080"></figure>
-<figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/6/ibt-3.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/6/responsive/ibt-3-xs.jpg 300w ,https://studiomoi.github.io/media/posts/6/responsive/ibt-3-sm.jpg 480w ,https://studiomoi.github.io/media/posts/6/responsive/ibt-3-md.jpg 768w ,https://studiomoi.github.io/media/posts/6/responsive/ibt-3-lg.jpg 1024w"  alt="" width="2000" height="1125"></figure>
-<figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/6/ibt-4.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/6/responsive/ibt-4-xs.jpg 300w ,https://studiomoi.github.io/media/posts/6/responsive/ibt-4-sm.jpg 480w ,https://studiomoi.github.io/media/posts/6/responsive/ibt-4-md.jpg 768w ,https://studiomoi.github.io/media/posts/6/responsive/ibt-4-lg.jpg 1024w"  alt="" width="2000" height="1148"></figure>
+<figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/6/ibt-2.jpg" alt="" width="1396" height="1080" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/6/responsive/ibt-2-xs.jpg 300w ,https://studiomoi.github.io/media/posts/6/responsive/ibt-2-sm.jpg 480w ,https://studiomoi.github.io/media/posts/6/responsive/ibt-2-md.jpg 768w ,https://studiomoi.github.io/media/posts/6/responsive/ibt-2-lg.jpg 1024w"></figure>
+<figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/6/ibt-3.jpg" alt="" width="2000" height="1125" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/6/responsive/ibt-3-xs.jpg 300w ,https://studiomoi.github.io/media/posts/6/responsive/ibt-3-sm.jpg 480w ,https://studiomoi.github.io/media/posts/6/responsive/ibt-3-md.jpg 768w ,https://studiomoi.github.io/media/posts/6/responsive/ibt-3-lg.jpg 1024w"></figure>
+<figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/6/ibt-4.jpg" alt="" width="2000" height="1148" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/6/responsive/ibt-4-xs.jpg 300w ,https://studiomoi.github.io/media/posts/6/responsive/ibt-4-sm.jpg 480w ,https://studiomoi.github.io/media/posts/6/responsive/ibt-4-md.jpg 768w ,https://studiomoi.github.io/media/posts/6/responsive/ibt-4-lg.jpg 1024w"></figure>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="4">
 <figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/6/gallery/ttttttt.png" data-size="478x599"><img loading="lazy" src="https://studiomoi.github.io/media/posts/6/gallery/ttttttt-thumbnail.png" alt="" width="240" height="240"></a></figure>
 <figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/6/gallery/tttt.png" data-size="599x477"><img loading="lazy" src="https://studiomoi.github.io/media/posts/6/gallery/tttt-thumbnail.png" alt="" width="240" height="240"></a></figure>
@@ -351,17 +354,18 @@
         </author>
         <link href="https://studiomoi.github.io/sivil-sesler-festivali.html"/>
         <id>https://studiomoi.github.io/sivil-sesler-festivali.html</id>
+        <media:content url="https://studiomoi.github.io/media/posts/17/sivil.jpg" medium="image" />
 
         <updated>2022-04-25T05:30:52+03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://studiomoi.github.io/media/posts/17/sivil.jpg" alt="Sivil Sesler Festivali" />
-                     Festival corporate identity design and announcement videos we created for the&hellip;
+                    Festival corporate identity design and announcement videos we created for the "Sivil&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://studiomoi.github.io/media/posts/17/sivil.jpg" alt="Sivil Sesler Festivali" />
+                    <p><img src="https://studiomoi.github.io/media/posts/17/sivil.jpg" class="type:primaryImage" alt="Sivil Sesler Festivali" /></p>
                 
   <p class="align-center">
     Festival corporate identity design and announcement videos we created for the "Sivil Sesler Festivali" communication campaign, which brought together all non-governmental organizations in Turkey by STGM.
@@ -406,6 +410,7 @@
         </author>
         <link href="https://studiomoi.github.io/soking.html"/>
         <id>https://studiomoi.github.io/soking.html</id>
+        <media:content url="https://studiomoi.github.io/media/posts/4/1.jpg" medium="image" />
 
         <updated>2022-04-25T05:28:08+03:00</updated>
             <summary>
@@ -416,14 +421,14 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://studiomoi.github.io/media/posts/4/1.jpg" alt="" />
-                <figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/4/sg-2.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/4/responsive/sg-2-xs.jpg 300w ,https://studiomoi.github.io/media/posts/4/responsive/sg-2-sm.jpg 480w ,https://studiomoi.github.io/media/posts/4/responsive/sg-2-md.jpg 768w ,https://studiomoi.github.io/media/posts/4/responsive/sg-2-lg.jpg 1024w"  alt="" width="2000" height="704"></figure>
-<figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/4/sg-3.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/4/responsive/sg-3-xs.jpg 300w ,https://studiomoi.github.io/media/posts/4/responsive/sg-3-sm.jpg 480w ,https://studiomoi.github.io/media/posts/4/responsive/sg-3-md.jpg 768w ,https://studiomoi.github.io/media/posts/4/responsive/sg-3-lg.jpg 1024w"  alt="" width="1920" height="1080"></figure>
-<figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/4/sg-4.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/4/responsive/sg-4-xs.jpg 300w ,https://studiomoi.github.io/media/posts/4/responsive/sg-4-sm.jpg 480w ,https://studiomoi.github.io/media/posts/4/responsive/sg-4-md.jpg 768w ,https://studiomoi.github.io/media/posts/4/responsive/sg-4-lg.jpg 1024w"  alt="" width="2000" height="1120"></figure>
-<figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/4/sg-5.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/4/responsive/sg-5-xs.jpg 300w ,https://studiomoi.github.io/media/posts/4/responsive/sg-5-sm.jpg 480w ,https://studiomoi.github.io/media/posts/4/responsive/sg-5-md.jpg 768w ,https://studiomoi.github.io/media/posts/4/responsive/sg-5-lg.jpg 1024w"  alt="" width="2000" height="1120"></figure>
-<figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/4/sg-6.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/4/responsive/sg-6-xs.jpg 300w ,https://studiomoi.github.io/media/posts/4/responsive/sg-6-sm.jpg 480w ,https://studiomoi.github.io/media/posts/4/responsive/sg-6-md.jpg 768w ,https://studiomoi.github.io/media/posts/4/responsive/sg-6-lg.jpg 1024w"  alt="" width="2000" height="1120"></figure>
-<figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/4/sg-8.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/4/responsive/sg-8-xs.jpg 300w ,https://studiomoi.github.io/media/posts/4/responsive/sg-8-sm.jpg 480w ,https://studiomoi.github.io/media/posts/4/responsive/sg-8-md.jpg 768w ,https://studiomoi.github.io/media/posts/4/responsive/sg-8-lg.jpg 1024w"  alt="" width="2000" height="1120"></figure>
-<figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/4/sg-9.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/4/responsive/sg-9-xs.jpg 300w ,https://studiomoi.github.io/media/posts/4/responsive/sg-9-sm.jpg 480w ,https://studiomoi.github.io/media/posts/4/responsive/sg-9-md.jpg 768w ,https://studiomoi.github.io/media/posts/4/responsive/sg-9-lg.jpg 1024w"  alt="" width="2000" height="1125"></figure>
+                    <p><img src="https://studiomoi.github.io/media/posts/4/1.jpg" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/4/sg-2.jpg" alt="" width="2000" height="704" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/4/responsive/sg-2-xs.jpg 300w ,https://studiomoi.github.io/media/posts/4/responsive/sg-2-sm.jpg 480w ,https://studiomoi.github.io/media/posts/4/responsive/sg-2-md.jpg 768w ,https://studiomoi.github.io/media/posts/4/responsive/sg-2-lg.jpg 1024w"></figure>
+<figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/4/sg-3.jpg" alt="" width="1920" height="1080" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/4/responsive/sg-3-xs.jpg 300w ,https://studiomoi.github.io/media/posts/4/responsive/sg-3-sm.jpg 480w ,https://studiomoi.github.io/media/posts/4/responsive/sg-3-md.jpg 768w ,https://studiomoi.github.io/media/posts/4/responsive/sg-3-lg.jpg 1024w"></figure>
+<figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/4/sg-4.jpg" alt="" width="2000" height="1120" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/4/responsive/sg-4-xs.jpg 300w ,https://studiomoi.github.io/media/posts/4/responsive/sg-4-sm.jpg 480w ,https://studiomoi.github.io/media/posts/4/responsive/sg-4-md.jpg 768w ,https://studiomoi.github.io/media/posts/4/responsive/sg-4-lg.jpg 1024w"></figure>
+<figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/4/sg-5.jpg" alt="" width="2000" height="1120" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/4/responsive/sg-5-xs.jpg 300w ,https://studiomoi.github.io/media/posts/4/responsive/sg-5-sm.jpg 480w ,https://studiomoi.github.io/media/posts/4/responsive/sg-5-md.jpg 768w ,https://studiomoi.github.io/media/posts/4/responsive/sg-5-lg.jpg 1024w"></figure>
+<figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/4/sg-6.jpg" alt="" width="2000" height="1120" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/4/responsive/sg-6-xs.jpg 300w ,https://studiomoi.github.io/media/posts/4/responsive/sg-6-sm.jpg 480w ,https://studiomoi.github.io/media/posts/4/responsive/sg-6-md.jpg 768w ,https://studiomoi.github.io/media/posts/4/responsive/sg-6-lg.jpg 1024w"></figure>
+<figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/4/sg-8.jpg" alt="" width="2000" height="1120" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/4/responsive/sg-8-xs.jpg 300w ,https://studiomoi.github.io/media/posts/4/responsive/sg-8-sm.jpg 480w ,https://studiomoi.github.io/media/posts/4/responsive/sg-8-md.jpg 768w ,https://studiomoi.github.io/media/posts/4/responsive/sg-8-lg.jpg 1024w"></figure>
+<figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/4/sg-9.jpg" alt="" width="2000" height="1125" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/4/responsive/sg-9-xs.jpg 300w ,https://studiomoi.github.io/media/posts/4/responsive/sg-9-sm.jpg 480w ,https://studiomoi.github.io/media/posts/4/responsive/sg-9-md.jpg 768w ,https://studiomoi.github.io/media/posts/4/responsive/sg-9-lg.jpg 1024w"></figure>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="4">
 <figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/4/gallery/Screen-Shot-2018-09-26-at-3.03.44-PM.png" data-size="639x563"><img loading="lazy" src="https://studiomoi.github.io/media/posts/4/gallery/Screen-Shot-2018-09-26-at-3.03.44-PM-thumbnail.png" alt="" width="240" height="240"></a></figure>
 <figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/4/gallery/Screen-Shot-2018-09-26-at-3.04.01-PM.png" data-size="637x638"><img loading="lazy" src="https://studiomoi.github.io/media/posts/4/gallery/Screen-Shot-2018-09-26-at-3.04.01-PM-thumbnail.png" alt="" width="240" height="240"></a></figure>
@@ -441,20 +446,21 @@
         </author>
         <link href="https://studiomoi.github.io/egella-group-branding.html"/>
         <id>https://studiomoi.github.io/egella-group-branding.html</id>
+        <media:content url="https://studiomoi.github.io/media/posts/23/Screen-Shot-2022-04-25-at-05.35.14.png" medium="image" />
 
         <updated>2022-04-25T06:15:53+03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://studiomoi.github.io/media/posts/23/Screen-Shot-2022-04-25-at-05.35.14.png" alt="" />
-                     EGELLA Group is Dubai, UAE based, specialized in sourcing and sale&hellip;
+                    EGELLA Group is Dubai, UAE based, specialized in sourcing and sale of&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://studiomoi.github.io/media/posts/23/Screen-Shot-2022-04-25-at-05.35.14.png" alt="" />
+                    <p><img src="https://studiomoi.github.io/media/posts/23/Screen-Shot-2022-04-25-at-05.35.14.png" class="type:primaryImage" alt="" /></p>
                 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://studiomoi.github.io/media/posts/23/Screen-Shot-2022-04-25-at-05.36.41.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/23/responsive/Screen-Shot-2022-04-25-at-05.36.41-xs.png 300w ,https://studiomoi.github.io/media/posts/23/responsive/Screen-Shot-2022-04-25-at-05.36.41-sm.png 480w ,https://studiomoi.github.io/media/posts/23/responsive/Screen-Shot-2022-04-25-at-05.36.41-md.png 768w ,https://studiomoi.github.io/media/posts/23/responsive/Screen-Shot-2022-04-25-at-05.36.41-lg.png 1024w"  height="1608" width="2858" alt="" />
+      <img loading="lazy" src="https://studiomoi.github.io/media/posts/23/Screen-Shot-2022-04-25-at-05.36.41.png" height="1608" width="2858" alt=""  sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/23/responsive/Screen-Shot-2022-04-25-at-05.36.41-xs.png 300w ,https://studiomoi.github.io/media/posts/23/responsive/Screen-Shot-2022-04-25-at-05.36.41-sm.png 480w ,https://studiomoi.github.io/media/posts/23/responsive/Screen-Shot-2022-04-25-at-05.36.41-md.png 768w ,https://studiomoi.github.io/media/posts/23/responsive/Screen-Shot-2022-04-25-at-05.36.41-lg.png 1024w">
       
     </figure>
 
@@ -463,7 +469,7 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://studiomoi.github.io/media/posts/23/Screen-Shot-2022-04-25-at-05.35.26.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/23/responsive/Screen-Shot-2022-04-25-at-05.35.26-xs.png 300w ,https://studiomoi.github.io/media/posts/23/responsive/Screen-Shot-2022-04-25-at-05.35.26-sm.png 480w ,https://studiomoi.github.io/media/posts/23/responsive/Screen-Shot-2022-04-25-at-05.35.26-md.png 768w ,https://studiomoi.github.io/media/posts/23/responsive/Screen-Shot-2022-04-25-at-05.35.26-lg.png 1024w"  height="1606" width="2858" alt="" />
+      <img loading="lazy" src="https://studiomoi.github.io/media/posts/23/Screen-Shot-2022-04-25-at-05.35.26.png" height="1606" width="2858" alt=""  sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/23/responsive/Screen-Shot-2022-04-25-at-05.35.26-xs.png 300w ,https://studiomoi.github.io/media/posts/23/responsive/Screen-Shot-2022-04-25-at-05.35.26-sm.png 480w ,https://studiomoi.github.io/media/posts/23/responsive/Screen-Shot-2022-04-25-at-05.35.26-md.png 768w ,https://studiomoi.github.io/media/posts/23/responsive/Screen-Shot-2022-04-25-at-05.35.26-lg.png 1024w">
       
     </figure>
 
@@ -472,30 +478,30 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://studiomoi.github.io/media/posts/23/1-2.gif" height="1080" width="1920" alt="" />
+      <img loading="lazy" src="https://studiomoi.github.io/media/posts/23/1-2.gif" height="1080" width="1920" alt="" >
       
     </figure>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://studiomoi.github.io/media/posts/23/Screen-Shot-2022-04-25-at-06.09.51-2.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/23/responsive/Screen-Shot-2022-04-25-at-06.09.51-2-xs.png 300w ,https://studiomoi.github.io/media/posts/23/responsive/Screen-Shot-2022-04-25-at-06.09.51-2-sm.png 480w ,https://studiomoi.github.io/media/posts/23/responsive/Screen-Shot-2022-04-25-at-06.09.51-2-md.png 768w ,https://studiomoi.github.io/media/posts/23/responsive/Screen-Shot-2022-04-25-at-06.09.51-2-lg.png 1024w"  height="1601" width="2847" alt="" />
+      <img loading="lazy" src="https://studiomoi.github.io/media/posts/23/Screen-Shot-2022-04-25-at-06.09.51-2.png" height="1601" width="2847" alt=""  sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/23/responsive/Screen-Shot-2022-04-25-at-06.09.51-2-xs.png 300w ,https://studiomoi.github.io/media/posts/23/responsive/Screen-Shot-2022-04-25-at-06.09.51-2-sm.png 480w ,https://studiomoi.github.io/media/posts/23/responsive/Screen-Shot-2022-04-25-at-06.09.51-2-md.png 768w ,https://studiomoi.github.io/media/posts/23/responsive/Screen-Shot-2022-04-25-at-06.09.51-2-lg.png 1024w">
       
     </figure>
 
-  <div  class="gallery-wrapper gallery-wrapper--center">
+  <div  class="gallery-wrapper">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
       <a href="https://studiomoi.github.io/media/posts/23/gallery/Screen-Shot-2022-04-25-at-05.35.56-3.png" data-size="2862x1608">
-        <img loading="lazy" src="https://studiomoi.github.io/media/posts/23/gallery/Screen-Shot-2022-04-25-at-05.35.56-3-thumbnail.png" height="240" width="240" alt="" />
+        <img loading="lazy" src="https://studiomoi.github.io/media/posts/23/gallery/Screen-Shot-2022-04-25-at-05.35.56-3-thumbnail.png" height="240" width="240" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
       <a href="https://studiomoi.github.io/media/posts/23/gallery/Screen-Shot-2022-04-25-at-05.36.14.png" data-size="2856x1604">
-        <img loading="lazy" src="https://studiomoi.github.io/media/posts/23/gallery/Screen-Shot-2022-04-25-at-05.36.14-thumbnail.png" height="240" width="240" alt="" />
+        <img loading="lazy" src="https://studiomoi.github.io/media/posts/23/gallery/Screen-Shot-2022-04-25-at-05.36.14-thumbnail.png" height="240" width="240" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
       <a href="https://studiomoi.github.io/media/posts/23/gallery/Screen-Shot-2022-04-25-at-05.36.51.png" data-size="2862x1608">
-        <img loading="lazy" src="https://studiomoi.github.io/media/posts/23/gallery/Screen-Shot-2022-04-25-at-05.36.51-thumbnail.png" height="240" width="240" alt="" />
+        <img loading="lazy" src="https://studiomoi.github.io/media/posts/23/gallery/Screen-Shot-2022-04-25-at-05.36.51-thumbnail.png" height="240" width="240" alt="" >
       </a>
       
     </figure>
@@ -521,24 +527,25 @@
         </author>
         <link href="https://studiomoi.github.io/watt.html"/>
         <id>https://studiomoi.github.io/watt.html</id>
+        <media:content url="https://studiomoi.github.io/media/posts/1/headmi.jpg" medium="image" />
 
         <updated>2022-04-25T05:27:12+03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://studiomoi.github.io/media/posts/1/headmi.jpg" alt="" />
-                     Watt Coffee Co on Instagram
+                    Watt Coffee Co on Instagram
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://studiomoi.github.io/media/posts/1/headmi.jpg" alt="" />
+                    <p><img src="https://studiomoi.github.io/media/posts/1/headmi.jpg" class="type:primaryImage" alt="" /></p>
                 <p class="align-center"><img loading="lazy" src="https://studiomoi.github.io/media/posts/1/ust.gif" alt="" width="800" height="800"></p>
-<figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/1/14.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/1/responsive/14-xs.jpg 300w ,https://studiomoi.github.io/media/posts/1/responsive/14-sm.jpg 480w ,https://studiomoi.github.io/media/posts/1/responsive/14-md.jpg 768w ,https://studiomoi.github.io/media/posts/1/responsive/14-lg.jpg 1024w"  alt="" width="1920" height="1080"></figure>
-<figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/1/05_Coffee_Stationery_Mockup.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/1/responsive/05_Coffee_Stationery_Mockup-xs.jpg 300w ,https://studiomoi.github.io/media/posts/1/responsive/05_Coffee_Stationery_Mockup-sm.jpg 480w ,https://studiomoi.github.io/media/posts/1/responsive/05_Coffee_Stationery_Mockup-md.jpg 768w ,https://studiomoi.github.io/media/posts/1/responsive/05_Coffee_Stationery_Mockup-lg.jpg 1024w"  alt="" width="1920" height="1080"></figure>
-<figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/1/ellee.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/1/responsive/ellee-xs.jpg 300w ,https://studiomoi.github.io/media/posts/1/responsive/ellee-sm.jpg 480w ,https://studiomoi.github.io/media/posts/1/responsive/ellee-md.jpg 768w ,https://studiomoi.github.io/media/posts/1/responsive/ellee-lg.jpg 1024w"  alt="" width="2000" height="334"></figure>
-<figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/1/12.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/1/responsive/12-xs.jpg 300w ,https://studiomoi.github.io/media/posts/1/responsive/12-sm.jpg 480w ,https://studiomoi.github.io/media/posts/1/responsive/12-md.jpg 768w ,https://studiomoi.github.io/media/posts/1/responsive/12-lg.jpg 1024w"  alt="" width="1920" height="1080"></figure>
-<figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/1/Drawstring-Bag-Mockup-vol-2.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/1/responsive/Drawstring-Bag-Mockup-vol-2-xs.jpg 300w ,https://studiomoi.github.io/media/posts/1/responsive/Drawstring-Bag-Mockup-vol-2-sm.jpg 480w ,https://studiomoi.github.io/media/posts/1/responsive/Drawstring-Bag-Mockup-vol-2-md.jpg 768w ,https://studiomoi.github.io/media/posts/1/responsive/Drawstring-Bag-Mockup-vol-2-lg.jpg 1024w"  alt="" width="1920" height="1080"></figure>
-<figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/1/PaperBag.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/1/responsive/PaperBag-xs.jpg 300w ,https://studiomoi.github.io/media/posts/1/responsive/PaperBag-sm.jpg 480w ,https://studiomoi.github.io/media/posts/1/responsive/PaperBag-md.jpg 768w ,https://studiomoi.github.io/media/posts/1/responsive/PaperBag-lg.jpg 1024w"  alt="" width="1920" height="1080"> </figure>
+<figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/1/14.jpg" alt="" width="1920" height="1080" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/1/responsive/14-xs.jpg 300w ,https://studiomoi.github.io/media/posts/1/responsive/14-sm.jpg 480w ,https://studiomoi.github.io/media/posts/1/responsive/14-md.jpg 768w ,https://studiomoi.github.io/media/posts/1/responsive/14-lg.jpg 1024w"></figure>
+<figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/1/05_Coffee_Stationery_Mockup.jpg" alt="" width="1920" height="1080" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/1/responsive/05_Coffee_Stationery_Mockup-xs.jpg 300w ,https://studiomoi.github.io/media/posts/1/responsive/05_Coffee_Stationery_Mockup-sm.jpg 480w ,https://studiomoi.github.io/media/posts/1/responsive/05_Coffee_Stationery_Mockup-md.jpg 768w ,https://studiomoi.github.io/media/posts/1/responsive/05_Coffee_Stationery_Mockup-lg.jpg 1024w"></figure>
+<figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/1/ellee.jpg" alt="" width="2000" height="334" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/1/responsive/ellee-xs.jpg 300w ,https://studiomoi.github.io/media/posts/1/responsive/ellee-sm.jpg 480w ,https://studiomoi.github.io/media/posts/1/responsive/ellee-md.jpg 768w ,https://studiomoi.github.io/media/posts/1/responsive/ellee-lg.jpg 1024w"></figure>
+<figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/1/12.jpg" alt="" width="1920" height="1080" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/1/responsive/12-xs.jpg 300w ,https://studiomoi.github.io/media/posts/1/responsive/12-sm.jpg 480w ,https://studiomoi.github.io/media/posts/1/responsive/12-md.jpg 768w ,https://studiomoi.github.io/media/posts/1/responsive/12-lg.jpg 1024w"></figure>
+<figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/1/Drawstring-Bag-Mockup-vol-2.jpg" alt="" width="1920" height="1080" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/1/responsive/Drawstring-Bag-Mockup-vol-2-xs.jpg 300w ,https://studiomoi.github.io/media/posts/1/responsive/Drawstring-Bag-Mockup-vol-2-sm.jpg 480w ,https://studiomoi.github.io/media/posts/1/responsive/Drawstring-Bag-Mockup-vol-2-md.jpg 768w ,https://studiomoi.github.io/media/posts/1/responsive/Drawstring-Bag-Mockup-vol-2-lg.jpg 1024w"></figure>
+<figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/1/PaperBag.jpg" alt="" width="1920" height="1080" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/1/responsive/PaperBag-xs.jpg 300w ,https://studiomoi.github.io/media/posts/1/responsive/PaperBag-sm.jpg 480w ,https://studiomoi.github.io/media/posts/1/responsive/PaperBag-md.jpg 768w ,https://studiomoi.github.io/media/posts/1/responsive/PaperBag-lg.jpg 1024w"> </figure>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="4">
 <figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/1/gallery/41512202_504350333324898_5685641673306443390_n.jpg" data-size="640x800"><img loading="lazy" src="https://studiomoi.github.io/media/posts/1/gallery/41512202_504350333324898_5685641673306443390_n-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
 <figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/1/gallery/40317119_2170563206526591_2112279698418074369_n.jpg" data-size="640x800"><img loading="lazy" src="https://studiomoi.github.io/media/posts/1/gallery/40317119_2170563206526591_2112279698418074369_n-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
@@ -556,18 +563,19 @@
         </author>
         <link href="https://studiomoi.github.io/tricore.html"/>
         <id>https://studiomoi.github.io/tricore.html</id>
+        <media:content url="https://studiomoi.github.io/media/posts/8/thumb.jpg" medium="image" />
 
         <updated>2022-04-25T05:27:51+03:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://studiomoi.github.io/media/posts/8/thumb.jpg" alt="" />
+                    <p><img src="https://studiomoi.github.io/media/posts/8/thumb.jpg" class="type:primaryImage" alt="" /></p>
                 <p><img loading="lazy" src="https://studiomoi.github.io/media/posts/8/gif.gif" alt="" width="800" height="800"></p>
-<figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/8/4.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/8/responsive/4-xs.jpg 300w ,https://studiomoi.github.io/media/posts/8/responsive/4-sm.jpg 480w ,https://studiomoi.github.io/media/posts/8/responsive/4-md.jpg 768w ,https://studiomoi.github.io/media/posts/8/responsive/4-lg.jpg 1024w"  alt="" width="1920" height="1080"></figure>
-<figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/8/logoyatay.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/8/responsive/logoyatay-xs.jpg 300w ,https://studiomoi.github.io/media/posts/8/responsive/logoyatay-sm.jpg 480w ,https://studiomoi.github.io/media/posts/8/responsive/logoyatay-md.jpg 768w ,https://studiomoi.github.io/media/posts/8/responsive/logoyatay-lg.jpg 1024w"  width="2180" height="450"></figure>
-<figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/8/1.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/8/responsive/1-xs.jpg 300w ,https://studiomoi.github.io/media/posts/8/responsive/1-sm.jpg 480w ,https://studiomoi.github.io/media/posts/8/responsive/1-md.jpg 768w ,https://studiomoi.github.io/media/posts/8/responsive/1-lg.jpg 1024w"  alt="" width="2180" height="1226"></figure>
-<figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/8/555.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/8/responsive/555-xs.jpg 300w ,https://studiomoi.github.io/media/posts/8/responsive/555-sm.jpg 480w ,https://studiomoi.github.io/media/posts/8/responsive/555-md.jpg 768w ,https://studiomoi.github.io/media/posts/8/responsive/555-lg.jpg 1024w"  alt="" width="2000" height="455"></figure>
-<figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/8/Scene1.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/8/responsive/Scene1-xs.jpg 300w ,https://studiomoi.github.io/media/posts/8/responsive/Scene1-sm.jpg 480w ,https://studiomoi.github.io/media/posts/8/responsive/Scene1-md.jpg 768w ,https://studiomoi.github.io/media/posts/8/responsive/Scene1-lg.jpg 1024w"  alt="" width="2048" height="1188"></figure>
+<figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/8/4.jpg" alt="" width="1920" height="1080" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/8/responsive/4-xs.jpg 300w ,https://studiomoi.github.io/media/posts/8/responsive/4-sm.jpg 480w ,https://studiomoi.github.io/media/posts/8/responsive/4-md.jpg 768w ,https://studiomoi.github.io/media/posts/8/responsive/4-lg.jpg 1024w"></figure>
+<figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/8/logoyatay.jpg" width="2180" height="450" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/8/responsive/logoyatay-xs.jpg 300w ,https://studiomoi.github.io/media/posts/8/responsive/logoyatay-sm.jpg 480w ,https://studiomoi.github.io/media/posts/8/responsive/logoyatay-md.jpg 768w ,https://studiomoi.github.io/media/posts/8/responsive/logoyatay-lg.jpg 1024w"></figure>
+<figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/8/1.jpg" alt="" width="2180" height="1226" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/8/responsive/1-xs.jpg 300w ,https://studiomoi.github.io/media/posts/8/responsive/1-sm.jpg 480w ,https://studiomoi.github.io/media/posts/8/responsive/1-md.jpg 768w ,https://studiomoi.github.io/media/posts/8/responsive/1-lg.jpg 1024w"></figure>
+<figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/8/555.jpg" alt="" width="2000" height="455" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/8/responsive/555-xs.jpg 300w ,https://studiomoi.github.io/media/posts/8/responsive/555-sm.jpg 480w ,https://studiomoi.github.io/media/posts/8/responsive/555-md.jpg 768w ,https://studiomoi.github.io/media/posts/8/responsive/555-lg.jpg 1024w"></figure>
+<figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/8/Scene1.jpg" alt="" width="2048" height="1188" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/8/responsive/Scene1-xs.jpg 300w ,https://studiomoi.github.io/media/posts/8/responsive/Scene1-sm.jpg 480w ,https://studiomoi.github.io/media/posts/8/responsive/Scene1-md.jpg 768w ,https://studiomoi.github.io/media/posts/8/responsive/Scene1-lg.jpg 1024w"></figure>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
 <figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/8/gallery/38507947_1102598496567324_2942527969035288576_n.jpg" data-size="640x800"><img loading="lazy" src="https://studiomoi.github.io/media/posts/8/gallery/38507947_1102598496567324_2942527969035288576_n-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
 <figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/8/gallery/37737363_2144549445826644_9036604280181620736_n.jpg" data-size="640x479"><img loading="lazy" src="https://studiomoi.github.io/media/posts/8/gallery/37737363_2144549445826644_9036604280181620736_n-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
@@ -583,6 +591,7 @@
         </author>
         <link href="https://studiomoi.github.io/coralia.html"/>
         <id>https://studiomoi.github.io/coralia.html</id>
+        <media:content url="https://studiomoi.github.io/media/posts/5/logO-main.jpg" medium="image" />
 
         <updated>2022-04-25T05:34:39+03:00</updated>
             <summary>
@@ -593,8 +602,8 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://studiomoi.github.io/media/posts/5/logO-main.jpg" alt="" />
-                <figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/5/logO.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/5/responsive/logO-xs.jpg 300w ,https://studiomoi.github.io/media/posts/5/responsive/logO-sm.jpg 480w ,https://studiomoi.github.io/media/posts/5/responsive/logO-md.jpg 768w ,https://studiomoi.github.io/media/posts/5/responsive/logO-lg.jpg 1024w"  alt="" width="2000" height="1125"></figure>
+                    <p><img src="https://studiomoi.github.io/media/posts/5/logO-main.jpg" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/5/logO.jpg" alt="" width="2000" height="1125" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/5/responsive/logO-xs.jpg 300w ,https://studiomoi.github.io/media/posts/5/responsive/logO-sm.jpg 480w ,https://studiomoi.github.io/media/posts/5/responsive/logO-md.jpg 768w ,https://studiomoi.github.io/media/posts/5/responsive/logO-lg.jpg 1024w"></figure>
 <hr>
 <p class="align-center"><em>Coralia is a classic Phinisi that’s built in Bira, Sulawesi by the Konjo tribe that has been building cargo ships for centuries.</em></p>
 <p class="align-center"><em>Coralia is a project by Papua Explorers that have been renown for exceptional service quality and commitment to protecting the nature while developing local communities in Raja Ampat.</em></p>
@@ -609,10 +618,10 @@
 <figure class="gallery__item"><a href="https://studiomoi.github.io/media/posts/5/gallery/9.jpg" data-size="1000x625"><img loading="lazy" src="https://studiomoi.github.io/media/posts/5/gallery/9-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
 </div></div>
 <hr>
-<figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/5/branding.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/5/responsive/branding-xs.jpg 300w ,https://studiomoi.github.io/media/posts/5/responsive/branding-sm.jpg 480w ,https://studiomoi.github.io/media/posts/5/responsive/branding-md.jpg 768w ,https://studiomoi.github.io/media/posts/5/responsive/branding-lg.jpg 1024w"  alt="" width="2000" height="1364"></figure>
-<figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/5/bro1.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/5/responsive/bro1-xs.jpg 300w ,https://studiomoi.github.io/media/posts/5/responsive/bro1-sm.jpg 480w ,https://studiomoi.github.io/media/posts/5/responsive/bro1-md.jpg 768w ,https://studiomoi.github.io/media/posts/5/responsive/bro1-lg.jpg 1024w"  alt="" width="2000" height="1125"></figure><figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/5/bro2.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/5/responsive/bro2-xs.jpg 300w ,https://studiomoi.github.io/media/posts/5/responsive/bro2-sm.jpg 480w ,https://studiomoi.github.io/media/posts/5/responsive/bro2-md.jpg 768w ,https://studiomoi.github.io/media/posts/5/responsive/bro2-lg.jpg 1024w"  alt="" width="2000" height="1273"></figure>
-<figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/5/kart.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/5/responsive/kart-xs.jpg 300w ,https://studiomoi.github.io/media/posts/5/responsive/kart-sm.jpg 480w ,https://studiomoi.github.io/media/posts/5/responsive/kart-md.jpg 768w ,https://studiomoi.github.io/media/posts/5/responsive/kart-lg.jpg 1024w"  alt="" width="1920" height="1080"></figure>
-<figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/5/kart2.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/5/responsive/kart2-xs.jpg 300w ,https://studiomoi.github.io/media/posts/5/responsive/kart2-sm.jpg 480w ,https://studiomoi.github.io/media/posts/5/responsive/kart2-md.jpg 768w ,https://studiomoi.github.io/media/posts/5/responsive/kart2-lg.jpg 1024w"  alt="" width="1920" height="1080"></figure><figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/5/web.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/5/responsive/web-xs.jpg 300w ,https://studiomoi.github.io/media/posts/5/responsive/web-sm.jpg 480w ,https://studiomoi.github.io/media/posts/5/responsive/web-md.jpg 768w ,https://studiomoi.github.io/media/posts/5/responsive/web-lg.jpg 1024w"  alt="" width="1672" height="1399"></figure>
+<figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/5/branding.jpg" alt="" width="2000" height="1364" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/5/responsive/branding-xs.jpg 300w ,https://studiomoi.github.io/media/posts/5/responsive/branding-sm.jpg 480w ,https://studiomoi.github.io/media/posts/5/responsive/branding-md.jpg 768w ,https://studiomoi.github.io/media/posts/5/responsive/branding-lg.jpg 1024w"></figure>
+<figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/5/bro1.jpg" alt="" width="2000" height="1125" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/5/responsive/bro1-xs.jpg 300w ,https://studiomoi.github.io/media/posts/5/responsive/bro1-sm.jpg 480w ,https://studiomoi.github.io/media/posts/5/responsive/bro1-md.jpg 768w ,https://studiomoi.github.io/media/posts/5/responsive/bro1-lg.jpg 1024w"></figure><figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/5/bro2.jpg" alt="" width="2000" height="1273" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/5/responsive/bro2-xs.jpg 300w ,https://studiomoi.github.io/media/posts/5/responsive/bro2-sm.jpg 480w ,https://studiomoi.github.io/media/posts/5/responsive/bro2-md.jpg 768w ,https://studiomoi.github.io/media/posts/5/responsive/bro2-lg.jpg 1024w"></figure>
+<figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/5/kart.jpg" alt="" width="1920" height="1080" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/5/responsive/kart-xs.jpg 300w ,https://studiomoi.github.io/media/posts/5/responsive/kart-sm.jpg 480w ,https://studiomoi.github.io/media/posts/5/responsive/kart-md.jpg 768w ,https://studiomoi.github.io/media/posts/5/responsive/kart-lg.jpg 1024w"></figure>
+<figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/5/kart2.jpg" alt="" width="1920" height="1080" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/5/responsive/kart2-xs.jpg 300w ,https://studiomoi.github.io/media/posts/5/responsive/kart2-sm.jpg 480w ,https://studiomoi.github.io/media/posts/5/responsive/kart2-md.jpg 768w ,https://studiomoi.github.io/media/posts/5/responsive/kart2-lg.jpg 1024w"></figure><figure class="post__image--wide"><img loading="lazy"  src="https://studiomoi.github.io/media/posts/5/web.jpg" alt="" width="1672" height="1399" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/5/responsive/web-xs.jpg 300w ,https://studiomoi.github.io/media/posts/5/responsive/web-sm.jpg 480w ,https://studiomoi.github.io/media/posts/5/responsive/web-md.jpg 768w ,https://studiomoi.github.io/media/posts/5/responsive/web-lg.jpg 1024w"></figure>
 <p class="align-center"><a href="https://www.coralia-liveaboard.com/" target="_blank" rel="noopener noreferrer">www.coralia-liveaboard.com</a></p>
             ]]>
         </content>
@@ -624,20 +633,21 @@
         </author>
         <link href="https://studiomoi.github.io/gorilla-groom-branding.html"/>
         <id>https://studiomoi.github.io/gorilla-groom-branding.html</id>
+        <media:content url="https://studiomoi.github.io/media/posts/24/6.jpeg" medium="image" />
 
         <updated>2022-04-25T06:41:07+03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://studiomoi.github.io/media/posts/24/6.jpeg" alt="" />
-                     We've been asked to create a masculine brand identity for men's&hellip;
+                    We've been asked to create a masculine brand identity for men's hair&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://studiomoi.github.io/media/posts/24/6.jpeg" alt="" />
+                    <p><img src="https://studiomoi.github.io/media/posts/24/6.jpeg" class="type:primaryImage" alt="" /></p>
                 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://studiomoi.github.io/media/posts/24/2-2.jpeg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/24/responsive/2-2-xs.jpeg 300w ,https://studiomoi.github.io/media/posts/24/responsive/2-2-sm.jpeg 480w ,https://studiomoi.github.io/media/posts/24/responsive/2-2-md.jpeg 768w ,https://studiomoi.github.io/media/posts/24/responsive/2-2-lg.jpeg 1024w"  height="540" width="960" alt="" />
+      <img loading="lazy" src="https://studiomoi.github.io/media/posts/24/2-2.jpeg" height="540" width="960" alt=""  sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/24/responsive/2-2-xs.jpeg 300w ,https://studiomoi.github.io/media/posts/24/responsive/2-2-sm.jpeg 480w ,https://studiomoi.github.io/media/posts/24/responsive/2-2-md.jpeg 768w ,https://studiomoi.github.io/media/posts/24/responsive/2-2-lg.jpeg 1024w">
       
     </figure>
 
@@ -645,21 +655,21 @@
     We've been asked to create a masculine brand identity for men's hair &amp; skin care company Gorilla Groom.<br>
   </p>
 
-  <div  class="gallery-wrapper gallery-wrapper--center">
+  <div  class="gallery-wrapper">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
       <a href="https://studiomoi.github.io/media/posts/24/gallery/4-2.jpeg" data-size="960x540">
-        <img loading="lazy" src="https://studiomoi.github.io/media/posts/24/gallery/4-2-thumbnail.jpeg" height="240" width="240" alt="" />
+        <img loading="lazy" src="https://studiomoi.github.io/media/posts/24/gallery/4-2-thumbnail.jpeg" height="240" width="240" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
       <a href="https://studiomoi.github.io/media/posts/24/gallery/7-2.jpeg" data-size="960x540">
-        <img loading="lazy" src="https://studiomoi.github.io/media/posts/24/gallery/7-2-thumbnail.jpeg" height="240" width="240" alt="" />
+        <img loading="lazy" src="https://studiomoi.github.io/media/posts/24/gallery/7-2-thumbnail.jpeg" height="240" width="240" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
       <a href="https://studiomoi.github.io/media/posts/24/gallery/8-2.jpeg" data-size="960x540">
-        <img loading="lazy" src="https://studiomoi.github.io/media/posts/24/gallery/8-2-thumbnail.jpeg" height="240" width="240" alt="" />
+        <img loading="lazy" src="https://studiomoi.github.io/media/posts/24/gallery/8-2-thumbnail.jpeg" height="240" width="240" alt="" >
       </a>
       
     </figure>
@@ -667,22 +677,22 @@
   </div>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://studiomoi.github.io/media/posts/24/5.jpeg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/24/responsive/5-xs.jpeg 300w ,https://studiomoi.github.io/media/posts/24/responsive/5-sm.jpeg 480w ,https://studiomoi.github.io/media/posts/24/responsive/5-md.jpeg 768w ,https://studiomoi.github.io/media/posts/24/responsive/5-lg.jpeg 1024w"  height="540" width="960" alt="" />
+      <img loading="lazy" src="https://studiomoi.github.io/media/posts/24/5.jpeg" height="540" width="960" alt=""  sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/24/responsive/5-xs.jpeg 300w ,https://studiomoi.github.io/media/posts/24/responsive/5-sm.jpeg 480w ,https://studiomoi.github.io/media/posts/24/responsive/5-md.jpeg 768w ,https://studiomoi.github.io/media/posts/24/responsive/5-lg.jpeg 1024w">
       
     </figure>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://studiomoi.github.io/media/posts/24/6-2.jpeg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/24/responsive/6-2-xs.jpeg 300w ,https://studiomoi.github.io/media/posts/24/responsive/6-2-sm.jpeg 480w ,https://studiomoi.github.io/media/posts/24/responsive/6-2-md.jpeg 768w ,https://studiomoi.github.io/media/posts/24/responsive/6-2-lg.jpeg 1024w"  height="540" width="960" alt="" />
+      <img loading="lazy" src="https://studiomoi.github.io/media/posts/24/6-2.jpeg" height="540" width="960" alt=""  sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/24/responsive/6-2-xs.jpeg 300w ,https://studiomoi.github.io/media/posts/24/responsive/6-2-sm.jpeg 480w ,https://studiomoi.github.io/media/posts/24/responsive/6-2-md.jpeg 768w ,https://studiomoi.github.io/media/posts/24/responsive/6-2-lg.jpeg 1024w">
       
     </figure>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://studiomoi.github.io/media/posts/24/3.jpeg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/24/responsive/3-xs.jpeg 300w ,https://studiomoi.github.io/media/posts/24/responsive/3-sm.jpeg 480w ,https://studiomoi.github.io/media/posts/24/responsive/3-md.jpeg 768w ,https://studiomoi.github.io/media/posts/24/responsive/3-lg.jpeg 1024w"  height="540" width="960" alt="" />
+      <img loading="lazy" src="https://studiomoi.github.io/media/posts/24/3.jpeg" height="540" width="960" alt=""  sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/24/responsive/3-xs.jpeg 300w ,https://studiomoi.github.io/media/posts/24/responsive/3-sm.jpeg 480w ,https://studiomoi.github.io/media/posts/24/responsive/3-md.jpeg 768w ,https://studiomoi.github.io/media/posts/24/responsive/3-lg.jpeg 1024w">
       
     </figure>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://studiomoi.github.io/media/posts/24/9.jpeg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/24/responsive/9-xs.jpeg 300w ,https://studiomoi.github.io/media/posts/24/responsive/9-sm.jpeg 480w ,https://studiomoi.github.io/media/posts/24/responsive/9-md.jpeg 768w ,https://studiomoi.github.io/media/posts/24/responsive/9-lg.jpeg 1024w"  height="540" width="960" alt="" />
+      <img loading="lazy" src="https://studiomoi.github.io/media/posts/24/9.jpeg" height="540" width="960" alt=""  sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://studiomoi.github.io/media/posts/24/responsive/9-xs.jpeg 300w ,https://studiomoi.github.io/media/posts/24/responsive/9-sm.jpeg 480w ,https://studiomoi.github.io/media/posts/24/responsive/9-md.jpeg 768w ,https://studiomoi.github.io/media/posts/24/responsive/9-lg.jpeg 1024w">
       
     </figure>
 

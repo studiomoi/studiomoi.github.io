@@ -1,0 +1,2 @@
+#!/bin/ksh
+cd /Users/mac/Dropbox/moi/static && python3 moi.py

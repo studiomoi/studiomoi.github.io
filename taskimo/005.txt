@@ -30,4 +30,4 @@ TIPS is a mobile knowledge base that your staff or customers refer to when a qui
 
 tips1.gif tips2.gif tips3.gif
 
-taskimo website https://www.taskimo.com/
+Taskimo website https://www.taskimo.com/

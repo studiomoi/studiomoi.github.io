@@ -4,7 +4,7 @@ name: Generate Website Pages
 on:
   push:
     branches:
-      - main # Sadece 'main' branch'ine push yapıldığında çalışır (branch adını değiştirin gerekirse)
+      - master # Sadece 'main' branch'ine push yapıldığında çalışır (branch adını değiştirin gerekirse)
   workflow_dispatch: # Manuel olarak tetikleme imkanı sunar (Actions sekmesinden)
 
 

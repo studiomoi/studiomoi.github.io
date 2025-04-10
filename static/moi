@@ -1,9 +1,0 @@
-#!/bin/ksh
-cd /Users/mac/Dropbox/moi/static && python3 moi.py
-
-# Kaynak ve hedef dizinler
-SRC_DIR="/Users/mac/Dropbox/moi"
-DEST_DIR="/Users/mac/Dropbox/studiomoi.github.io"
-
-# "static" hariç tüm dosya ve klasörleri kopyala
-rsync -av --exclude 'static' "$SRC_DIR/" "$DEST_DIR/"

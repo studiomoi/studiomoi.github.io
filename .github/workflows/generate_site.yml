@@ -4,9 +4,8 @@ name: Generate Website Pages
 on:
   push:
     branches:
-      - master # Sadece 'main' branch'ine push yapıldığında çalışır (branch adını değiştirin gerekirse)
+      - master # Sadece 'master' branch'ine push yapıldığında çalışır
   workflow_dispatch: # Manuel olarak tetikleme imkanı sunar (Actions sekmesinden)
-
 
 # Workflow'un repoya yazma izni olması için gerekli
 permissions:
@@ -14,6 +13,8 @@ permissions:
 
 jobs:
   build-and-deploy:
+    # !!! BURAYA EKLE: Commit mesajı '[skip ci]' içermiyorsa bu job'ı çalıştır !!!
+    if: "!contains(github.event.head_commit.message, '[skip ci]')"
     runs-on: ubuntu-latest # Çalıştırılacak sanal makine tipi
     steps:
       - name: Checkout Repository Code
@@ -22,7 +23,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.10' # Kullanılacak Python sürümü (script'inize uygun seçin)
+          python-version: '3.10' # Kullanılacak Python sürümü
 
       - name: Install Dependencies
         run: |
@@ -30,14 +31,13 @@ jobs:
           pip install Pillow # Gerekli kütüphaneyi kur
 
       - name: Run Website Generator Script
-        run: python generate_site.py # Güncellenmiş Python script'ini çalıştırır (dosya adını kontrol edin)
+        run: python generate_site.py # Python script'ini çalıştırır
 
       - name: Commit and Push Generated Files
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Automated generation of website pages [skip ci]" # Commit mesajı
-          # [skip ci] ifadesi, bu commit'in tekrar workflow'u tetiklemesini engeller
+          commit_message: "Automated generation of website pages [skip ci]" # Commit mesajı (Zaten [skip ci] içeriyor, harika!)
           commit_user_name: github-actions[bot] # Commit yapan kullanıcı adı
           commit_user_email: 41898282+github-actions[bot]@users.noreply.github.com # Commit yapan e-posta
           commit_author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com> # Commit yazarı
-          # Sadece değişiklik varsa commit atılacaktır
+          # Bu action zaten sadece değişiklik varsa commit atar.

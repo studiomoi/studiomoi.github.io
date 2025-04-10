@@ -1,4 +1,5 @@
-name: Generate Website Pages
+# Workflow adı
+name: Generate and Deploy Website
 
 # Workflow'un ne zaman çalışacağını belirler:
 on:
@@ -7,37 +8,68 @@ on:
       - master # Sadece 'master' branch'ine push yapıldığında çalışır
   workflow_dispatch: # Manuel olarak tetikleme imkanı sunar (Actions sekmesinden)
 
-# Workflow'un repoya yazma izni olması için gerekli
+# Workflow genelinde gerekli izinler
+# generate işi için: contents: write (commit atabilmek için)
+# deploy işi için: pages: write, id-token: write (GitHub Pages'e yazabilmek için)
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 jobs:
-  build-and-deploy:
-    # !!! BURAYA EKLE: Commit mesajı '[skip ci]' içermiyorsa bu job'ı çalıştır !!!
-    if: "!contains(github.event.head_commit.message, '[skip ci]')"
-    runs-on: ubuntu-latest # Çalıştırılacak sanal makine tipi
+  # --- İŞ 1: Sadece Kullanıcı Push Yaptığında Siteyi Oluştur ve Commit Et ---
+  generate:
+    name: Generate Website Files
+    # Bu iş sadece push'u yapan kişi 'github-actions[bot]' DEĞİLSE çalışır.
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository Code
-        uses: actions/checkout@v4 # Repodaki kodları çalışma alanına çeker
+        uses: actions/checkout@v4 # Kodu çalışma alanına çeker
 
-      - name: Set up Python
+      - name: Set up Python 3.10
         uses: actions/setup-python@v4
         with:
-          python-version: '3.10' # Kullanılacak Python sürümü
+          python-version: '3.10' # Python sürümünü ayarlar
 
       - name: Install Dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install Pillow # Gerekli kütüphaneyi kur
+          pip install Pillow # Gerekli Python kütüphanelerini kurar
 
       - name: Run Website Generator Script
-        run: python generate_site.py # Python script'ini çalıştırır
+        run: python generate_site.py # Siteyi oluşturan script'i çalıştırır
 
-      - name: Commit and Push Generated Files
-        uses: stefanzweifel/git-auto-commit-action@v5
+      - name: Commit and Push Generated Files if Changed
+        uses: stefanzweifel/git-auto-commit-action@v5 # Değişiklik varsa otomatik commit atar
         with:
-          commit_message: "Automated generation of website pages [skip ci]" # Commit mesajı (Zaten [skip ci] içeriyor, harika!)
-          commit_user_name: github-actions[bot] # Commit yapan kullanıcı adı
-          commit_user_email: 41898282+github-actions[bot]@users.noreply.github.com # Commit yapan e-posta
+          # Bu commit mesajı deploy işini tetikleyeceği için [skip ci] YOKTUR.
+          commit_message: "chore: Auto-generate website files"
+          commit_user_name: github-actions[bot] # Commit atan bot adı
+          commit_user_email: 41898282+github-actions[bot]@users.noreply.github.com # Bot e-postası
           commit_author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com> # Commit yazarı
-          # Bu action zaten sadece değişiklik varsa commit atar.
+
+  # --- İŞ 2: Sadece Bot Commit Yaptığında Deploy Et ---
+  deploy:
+    name: Deploy Website to GitHub Pages
+    # Bu iş SADECE push'u yapan kişi 'github-actions[bot]' İSE çalışır.
+    if: github.actor == 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    # GitHub Pages deploy ortamını tanımlama (GitHub'ın Deployments sekmesinde görünür)
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }} # Deploy sonrası site URL'si
+    steps:
+      # Deploy için en güncel kodu (bot'un commit'lediği hali) almamız lazım
+      - name: Checkout Repository Code
+        uses: actions/checkout@v4
+
+      # Deponun kök dizinini GitHub Pages'e deploy et
+      - name: Deploy to GitHub Pages
+        id: deployment # Adım çıktısına referans vermek için ID
+        uses: peaceiris/actions-gh-pages@v3 # GitHub Pages deploy action'ı
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }} # Action'ın kimlik doğrulaması için token
+          publish_dir: ./ # Reponun kök dizinini yayınla
+          # Varsayılan hedef branch 'gh-pages'dir. Bu branch 'master' olmadığı için
+          # bu push işlemi workflow'u tekrar tetiklemez.

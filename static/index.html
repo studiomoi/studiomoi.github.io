@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<link rel="icon" type="image/png" href="favicon.png">   
+<meta charset="UTF-8">
+<link rel="apple-touch-icon" sizes="300x300" href="favicon.png">
+<meta name="apple-mobile-web-app-status-bar-style" content="white">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta property="og:title" content="Studio Moi">
+<meta property="og:description" content="Studio Moi is an Istanbul based creative studio specialized in art direction, branding, graphic design, motion design & 3D animation.">
+<meta property="og:image" content="logo.png">
+<meta property="og:url" content="https://studiomoi.co">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Studio Moi">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap" rel="stylesheet">
+<title>studiomoi.co</title>
+
+<style>
+a {
+    color: black;
+    text-decoration-style: dashed;
+}
+
+footer {
+  text-align: center;
+  font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+header {
+  text-align: center;
+  margin-top: 30px;
+}        
+
+img, video {
+   max-width: 100%;
+   vertical-align: middle;
+}
+
+.intro {
+  text-align: center;
+  font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+ }
+.wrapper {
+   margin-left: auto;
+   margin-right: auto;
+   padding-top: 1.5em;
+   padding-right: 1.5em;
+   padding-left: 1.5em;
+   max-width: 1080px;
+ }
+/* Masonry grid */
+.masonry {
+  transition: all .5s ease-in-out;
+  column-gap: 15px;
+  column-fill: initial;
+}
+
+/* Masonry item */
+.masonry .brick {
+  overflow: hidden; 
+  margin-bottom: 15px;
+  display: inline-block; /* Fix the misalignment of items */
+  vertical-align: top; /* Keep the item on the very top */
+}
+
+/* Masonry image effects */
+.masonry .brick img {
+  width: 100%;  /* Görselin çerçeveye sığmasını sağla */
+  height: auto;
+  transition: all .3s ease-in-out;
+  backface-visibility: hidden; /* Remove Image flickering on hover */
+}
+
+.masonry .brick:hover img {
+  transform: scale(1.1);
+}
+
+/* Masonry on tablets */
+@media only screen and (min-width: 768px) and (max-width: 1023px) {
+  .masonry {
+    column-count: 2;
+  }
+}
+
+/* Masonry on big screens */
+@media only screen and (min-width: 1024px) {
+  .masonry {
+    column-count: 3;
+  }
+}
+</style>          
+
+</head>
+<header>
+  <a href="https://studiomoi.co"><img src="logo.png" alt="studio moi"></a>
+</header>
+<body>
+<div class="wrapper">
+<br>
+<div class="intro">
+<p>Studio Moi is an Istanbul based creative studio specialized in art direction, branding, graphic design, motion design & 3D animation.</p>
+<p><a href="about.html">read more about us</a></p>
+</div>
+<br>
+<br>
+<div class="masonry">    
+{% block proje_listesi_icerigi %}{% endblock %}
+</div>
+<br>
+<br>
+<footer>
+  <a href="https://studiomoi.co" style="text-decoration: none;">studio moi</a>  
+  </footer>
+</div>
+</body>
+</html>

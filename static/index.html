@@ -56,29 +56,45 @@ img, video {
    padding-left: 1.5em;
    max-width: 1080px;
  }
-
 /* Masonry grid */
 .masonry {
-  position: relative;
+  transition: all .5s ease-in-out;
+  column-gap: 15px;
+  column-fill: initial;
 }
 
 /* Masonry item */
 .masonry .brick {
-  position: absolute;
-  overflow: hidden;
+  overflow: hidden; 
+  margin-bottom: 15px;
+  display: inline-block; /* Fix the misalignment of items */
+  vertical-align: top; /* Keep the item on the very top */
 }
 
 /* Masonry image effects */
 .masonry .brick img {
-  width: 100%;
+  width: 100%;  /* Görselin çerçeveye sığmasını sağla */
   height: auto;
-  display: block;
   transition: all .3s ease-in-out;
-  backface-visibility: hidden;
+  backface-visibility: hidden; /* Remove Image flickering on hover */
 }
 
 .masonry .brick:hover img {
   transform: scale(1.1);
+}
+
+/* Masonry on tablets */
+@media only screen and (min-width: 768px) and (max-width: 1023px) {
+  .masonry {
+    column-count: 2;
+  }
+}
+
+/* Masonry on big screens */
+@media only screen and (min-width: 1024px) {
+  .masonry {
+    column-count: 3;
+  }
 }
 </style>          
 
@@ -104,59 +120,5 @@ img, video {
   <a href="https://studiomoi.co" style="text-decoration: none;">studio moi</a>  
   </footer>
 </div>
-
-<script>
-(function () {
-  var GAP = 15;
-
-  function layout() {
-    var grid = document.querySelector('.masonry');
-    if (!grid) return;
-    var bricks = Array.from(grid.querySelectorAll('.brick'));
-    if (!bricks.length) return;
-
-    var gridWidth = grid.clientWidth;
-    var cols = gridWidth >= 1024 ? 3 : gridWidth >= 768 ? 2 : 1;
-    var colWidth = (gridWidth - GAP * (cols - 1)) / cols;
-    var colHeights = new Array(cols).fill(0);
-
-    bricks.forEach(function (brick) {
-      var minCol = colHeights.indexOf(Math.min.apply(null, colHeights));
-      var img = brick.querySelector('img');
-      var w = parseInt(img.getAttribute('width'), 10);
-      var h = parseInt(img.getAttribute('height'), 10);
-      var brickHeight = (w && h) ? Math.round(colWidth * h / w) : colWidth;
-
-      brick.style.width = colWidth + 'px';
-      brick.style.left  = (minCol * (colWidth + GAP)) + 'px';
-      brick.style.top   = colHeights[minCol] + 'px';
-
-      colHeights[minCol] += brickHeight + GAP;
-    });
-
-    grid.style.height = Math.max.apply(null, colHeights) + 'px';
-  }
-
-  document.addEventListener('DOMContentLoaded', function () {
-    layout();
-
-    // Görsel yüklendikçe layout'u düzelt
-    document.querySelectorAll('.masonry img').forEach(function (img) {
-      if (!img.complete) {
-        img.addEventListener('load', layout);
-        img.addEventListener('error', layout);
-      }
-    });
-  });
-
-  // Pencere boyutu değişince yeniden hesapla
-  var resizeTimer;
-  window.addEventListener('resize', function () {
-    clearTimeout(resizeTimer);
-    resizeTimer = setTimeout(layout, 100);
-  });
-})();
-</script>
-
 </body>
 </html>

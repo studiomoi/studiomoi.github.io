@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="tr">
 <head>
-<link rel="icon" type="image/png" href="favicon.png">   
+<link rel="icon" type="image/png" href="favicon.png">
 <meta charset="UTF-8">
 <link rel="apple-touch-icon" sizes="300x300" href="favicon.png">
 <meta name="apple-mobile-web-app-status-bar-style" content="white">
@@ -16,91 +16,18 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap" rel="stylesheet">
 <title>studiomoi.co</title>
-
 <style>
-a {
-    color: black;
-    text-decoration-style: dashed;
-}
-
-footer {
-  text-align: center;
-  font-family: "Outfit", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 400;
-  margin-top: 30px;
-  margin-bottom: 30px;
-}
-header {
-  text-align: center;
-  margin-top: 30px;
-}        
-
-img, video {
-   max-width: 100%;
-   height: auto; 
-   vertical-align: middle;
-}
-
-.intro {
-  text-align: center;
-  font-family: "Outfit", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 400;
-  font-style: normal;
- }
-.wrapper {
-   margin-left: auto;
-   margin-right: auto;
-   padding-top: 1.5em;
-   padding-right: 1.5em;
-   padding-left: 1.5em;
-   max-width: 1080px;
- }
-/* Masonry grid */
-.masonry {
-  transition: all .5s ease-in-out;
-  column-gap: 15px;
-  column-fill: initial;
-}
-
-/* Masonry item */
-.masonry .brick {
-  overflow: hidden; 
-  margin-bottom: 15px;
-  display: inline-block; /* Fix the misalignment of items */
-  vertical-align: top; /* Keep the item on the very top */
-}
-
-/* Masonry image effects */
-.masonry .brick img {
-  width: 100%;  /* Görselin çerçeveye sığmasını sağla */
-  height: auto;
-  display: block;
-  background-color: #f0f0f0; 
-  transition: all .3s ease-in-out;
-  backface-visibility: hidden; /* Remove Image flickering on hover */
-}
-
-.masonry .brick:hover img {
-  transform: scale(1.1);
-}
-
-/* Masonry on tablets */
-@media only screen and (min-width: 768px) and (max-width: 1023px) {
-  .masonry {
-    column-count: 2;
-  }
-}
-
-/* Masonry on big screens */
-@media only screen and (min-width: 1024px) {
-  .masonry {
-    column-count: 3;
-  }
-}
-</style>          
-
+a { color: black; text-decoration-style: dashed; }
+footer { text-align: center; font-family: "Outfit", sans-serif; font-weight: 400; margin-top: 30px; margin-bottom: 30px; }
+header { text-align: center; margin-top: 30px; }
+img, video { max-width: 100%; height: auto; vertical-align: middle; }
+.intro { text-align: center; font-family: "Outfit", sans-serif; font-weight: 400; }
+.wrapper { margin-left: auto; margin-right: auto; padding-top: 1.5em; padding-right: 1.5em; padding-left: 1.5em; max-width: 1080px; }
+.masonry { position: relative; }
+.masonry .brick { position: absolute; box-sizing: border-box; overflow: hidden; }
+.masonry .brick img { width: 100%; height: auto; display: block; background-color: #f0f0f0; transition: transform .3s ease-in-out; backface-visibility: hidden; }
+.masonry .brick:hover img { transform: scale(1.1); }
+</style>
 </head>
 <header>
   <a href="https://studiomoi.co"><img src="logo.png" alt="studio moi"></a>
@@ -109,44 +36,75 @@ img, video {
 <div class="wrapper">
 <br>
 <div class="intro">
-<p>Studio Moi is an Istanbul based creative studio specialized in art direction, branding, graphic design, motion design & 3D animation.</p>
-<p><a href="about.html">read more about us</a></p>
+  <p>Studio Moi is an Istanbul based creative studio specialized in art direction, branding, graphic design, motion design & 3D animation.</p>
+  <p><a href="about.html">read more about us</a></p>
 </div>
 <br>
 <br>
-<div class="masonry">    
+<div class="masonry" id="masonry">
 <div class="brick"><a href="simya/"><img src="simya/thumbnail.jpg" alt="Simya Evi Re-Branding" width="900" height="1125"></a></div>
-<div class="brick"><a href="taskimo/"><img src="taskimo/thumbnail.jpg" alt="Taskimo Branding" width="768" height="538"></a></div>
 <div class="brick"><a href="cotto/"><img src="cotto/thumbnail.jpg" alt="Cotto Branding" width="768" height="768"></a></div>
-<div class="brick"><a href="daring-littles/"><img src="daring-littles/thumbnail.gif" alt="daring littles" width="900" height="827"></a></div>
+<div class="brick"><a href="taskimo/"><img src="taskimo/thumbnail.jpg" alt="Taskimo Branding" width="768" height="538"></a></div>
 <div class="brick"><a href="imza-bir-tost/"><img src="imza-bir-tost/thumbnail.jpg" alt="imza bir tost branding" width="900" height="555"></a></div>
-<div class="brick"><a href="egella/"><img src="egella/thumbnail.png" alt="egella group branding" width="768" height="767"></a></div>
-<div class="brick"><a href="yours-to-bury/"><img src="yours-to-bury/thumbnail.jpg" alt="Yours to Bury Movie Poster" width="1000" height="1000"></a></div>
+<div class="brick"><a href="daring-littles/"><img src="daring-littles/thumbnail.gif" alt="Daring Littles" width="900" height="827"></a></div>
 <div class="brick"><a href="sockin-good/"><img src="sockin-good/thumbnail.jpg" alt="Sockin' Good Branding" width="900" height="901"></a></div>
-<div class="brick"><a href="atelier-brule/"><img src="atelier-brule/thumbnail.jpg" alt="atelier brule" width="900" height="600"></a></div>
-<div class="brick"><a href="coralia/"><img src="coralia/thumbnail.jpg" alt="Coralia Liveaboard Branding" width="900" height="684"></a></div>
-<div class="brick"><a href="sivil-sesler/"><img src="sivil-sesler/thumbnail.jpg" alt="sivil sesler festivali" width="768" height="768"></a></div>
-<div class="brick"><a href="a-reasonable-man/"><img src="a-reasonable-man/thumbnail.gif" alt="A Reasonable Man" width="900" height="457"></a></div>
-<div class="brick"><a href="altyol/"><img src="altyol/thumbnail.jpg" alt="Altyol Branding" width="2880" height="1800"></a></div>
-<div class="brick"><a href="the-egg-and-the-thieving-pie/"><img src="the-egg-and-the-thieving-pie/thumbnail.jpg" alt="The Egg And The Thieving Pie Movie Poster" width="900" height="684"></a></div>
-<div class="brick"><a href="vocalzone/"><img src="vocalzone/thumbnail.jpg" alt="Vocalzone 3D Product Visual CGI" width="900" height="710"></a></div>
-<div class="brick"><a href="mukto/"><img src="mukto/thumbnail.png" alt="Mukto Jewellery Branding" width="768" height="547"></a></div>
-<div class="brick"><a href="misli-futbol-voleybol/"><img src="misli-futbol-voleybol/thumbnail.jpg" alt="Misli.com Football and Volleyball packshots" width="900" height="503"></a></div>
-<div class="brick"><a href="vitamin/"><img src="vitamin/thumbnail.jpg" alt="VİTAMİN" width="1920" height="1061"></a></div>
-<div class="brick"><a href="watt/"><img src="watt/thumbnail.jpg" alt="Watt Coffee CO Branding" width="900" height="900"></a></div>
 <div class="brick"><a href="tricore/"><img src="tricore/thumbnail.jpg" alt="Tricore Academy Branding" width="900" height="474"></a></div>
-<div class="brick"><a href="misli/"><img src="misli/thumbnail.jpg" alt="Animated Packshots for Misli.com" width="768" height="432"></a></div>
-<div class="brick"><a href="herita-animated/"><img src="herita-animated/thumbnail.gif" alt="Herita Animated" width="900" height="900"></a></div>
+<div class="brick"><a href="atelier-brule/"><img src="atelier-brule/thumbnail.jpg" alt="Atelier Brule" width="900" height="600"></a></div>
+<div class="brick"><a href="vitamin/"><img src="vitamin/thumbnail.jpg" alt="VİTAMİN" width="1920" height="1061"></a></div>
+<div class="brick"><a href="sivil-sesler/"><img src="sivil-sesler/thumbnail.jpg" alt="Sivil Sesler Festivali" width="768" height="768"></a></div>
+<div class="brick"><a href="altyol/"><img src="altyol/thumbnail.jpg" alt="Altyol Branding" width="2880" height="1800"></a></div>
 <div class="brick"><a href="beko/"><img src="beko/thumbnail.jpg" alt="Beko Social Media" width="768" height="768"></a></div>
+<div class="brick"><a href="egella/"><img src="egella/thumbnail.png" alt="Egella Group Branding" width="768" height="767"></a></div>
+<div class="brick"><a href="a-reasonable-man/"><img src="a-reasonable-man/thumbnail.gif" alt="A Reasonable Man" width="900" height="457"></a></div>
+<div class="brick"><a href="watt/"><img src="watt/thumbnail.jpg" alt="Watt Coffee CO Branding" width="900" height="900"></a></div>
+<div class="brick"><a href="yours-to-bury/"><img src="yours-to-bury/thumbnail.jpg" alt="Yours to Bury Movie Poster" width="1000" height="1000"></a></div>
+<div class="brick"><a href="coralia/"><img src="coralia/thumbnail.jpg" alt="Coralia Liveaboard Branding" width="900" height="684"></a></div>
 <div class="brick"><a href="digilogue/"><img src="digilogue/thumbnail.gif" alt="Digilogue" width="900" height="506"></a></div>
+<div class="brick"><a href="mukto/"><img src="mukto/thumbnail.png" alt="Mukto Jewellery Branding" width="768" height="547"></a></div>
+<div class="brick"><a href="the-egg-and-the-thieving-pie/"><img src="the-egg-and-the-thieving-pie/thumbnail.jpg" alt="The Egg And The Thieving Pie Movie Poster" width="900" height="684"></a></div>
+<div class="brick"><a href="misli-futbol-voleybol/"><img src="misli-futbol-voleybol/thumbnail.jpg" alt="Misli.com Football and Volleyball packshots" width="900" height="503"></a></div>
+<div class="brick"><a href="herita-animated/"><img src="herita-animated/thumbnail.gif" alt="Herita Animated" width="900" height="900"></a></div>
 <div class="brick"><a href="psd-fonts/"><img src="psd-fonts/thumbnail.jpg" alt="PSD Fonts" width="768" height="514"></a></div>
+<div class="brick"><a href="misli/"><img src="misli/thumbnail.jpg" alt="Animated Packshots for Misli.com" width="768" height="432"></a></div>
+<div class="brick"><a href="vocalzone/"><img src="vocalzone/thumbnail.jpg" alt="Vocalzone 3D Product Visual CGI" width="900" height="710"></a></div>
 <div class="brick"><a href="gorilla/"><img src="gorilla/thumbnail.jpeg" alt="Gorilla Groom Branding" width="768" height="432"></a></div>
 </div>
 <br>
 <br>
 <footer>
-  <a href="https://studiomoi.co" style="text-decoration: none;">studio moi</a>  
-  </footer>
+  <a href="https://studiomoi.co" style="text-decoration: none;">studio moi</a>
+</footer>
 </div>
+<script>
+(function () {
+  var GAP = 15;
+  function cols() {
+    return window.innerWidth >= 1024 ? 3 : window.innerWidth >= 768 ? 2 : 1;
+  }
+  function layout() {
+    var grid = document.getElementById('masonry');
+    var bricks = Array.from(grid.querySelectorAll('.brick'));
+    var n = cols();
+    var gridW = grid.offsetWidth;
+    var colW = (gridW - GAP * (n - 1)) / n;
+    var heights = new Array(n).fill(0);
+    bricks.forEach(function (brick) {
+      brick.style.width = colW + 'px';
+      var shortest = heights.indexOf(Math.min.apply(null, heights));
+      brick.style.left = (shortest * (colW + GAP)) + 'px';
+      brick.style.top = heights[shortest] + 'px';
+      heights[shortest] += brick.offsetHeight + GAP;
+    });
+    grid.style.height = Math.max.apply(null, heights) + 'px';
+  }
+  var images = document.querySelectorAll('#masonry img');
+  var loaded = 0;
+  function onLoad() { if (++loaded >= images.length) layout(); }
+  images.forEach(function (img) {
+    if (img.complete) onLoad(); else { img.addEventListener('load', onLoad); img.addEventListener('error', onLoad); }
+  });
+  window.addEventListener('resize', layout);
+})();
+</script>
 </body>
 </html>

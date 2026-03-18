@@ -82,12 +82,16 @@ h1 { text-align: center; font-family: "Outfit", sans-serif; font-weight: 400; }
     <a href="https://studiomoi.co" style="text-decoration: none;">studio moi</a>
   </div>
   <script>
+  var lb = document.getElementById('lb');
   document.querySelectorAll('.galeri img').forEach(function(img) {
     img.addEventListener('click', function() {
       document.getElementById('lb-img').src = this.src;
-      document.getElementById('lb').classList.add('open');
+      lb.classList.add('open');
     });
   });
+  window.addEventListener('scroll', function() {
+    lb.classList.remove('open');
+  }, { passive: true });
   </script>
 </body>
 </html>

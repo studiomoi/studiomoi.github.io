@@ -31,6 +31,17 @@
   max-width: calc((100% - 60px) / 3);
   height: auto; display: block;
 }
+#lb {
+  display: none; position: fixed; inset: 0;
+  background: rgba(255,255,255,0.88);
+  z-index: 9999;
+  align-items: center; justify-content: center;
+}
+#lb.open { display: flex; }
+#lb img {
+  max-width: 90vw; max-height: 90vh;
+  object-fit: contain; display: block;
+}
 .foot { text-align: center; margin-top: 30px; margin-bottom: 30px; }
 p { padding-top: 30px; text-align: center; margin-left: auto; margin-right: auto; max-width: 800px; }
 a { color: black; text-decoration-style: dashed; }
@@ -48,6 +59,9 @@ h1 { text-align: center; font-family: "Outfit", sans-serif; font-weight: 400; }
   <a href="https://studiomoi.co"><img src="../logo.png" alt="studio moi"></a>
 </header>
 <body>
+  <div id="lb" onclick="this.classList.remove('open')">
+    <img id="lb-img" src="" alt="">
+  </div>
   <div class="wrapper">
     <h1>Cotto Branding</h1>
     <p>Cotto Gastro Italiano is the new artsy Italian restaurant in Suadiye / Istanbul. Located in the most lively and local part of the city, Cotto is somewhere to be in a special day, or make the day special.</p>
@@ -93,5 +107,13 @@ h1 { text-align: center; font-family: "Outfit", sans-serif; font-weight: 400; }
   <div class="foot">
     <a href="https://studiomoi.co" style="text-decoration: none;">studio moi</a>
   </div>
+  <script>
+  document.querySelectorAll('.galeri img').forEach(function(img) {
+    img.addEventListener('click', function() {
+      document.getElementById('lb-img').src = this.src;
+      document.getElementById('lb').classList.add('open');
+    });
+  });
+  </script>
 </body>
 </html>

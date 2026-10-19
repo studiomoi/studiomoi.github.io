@@ -86,46 +86,6 @@ h1 { text-align: center; font-family: "Outfit", sans-serif; font-weight: 400; }
     flex-basis: 100%; width: 100%;
   }
 }
-
-/* Minimal Vimeo poster: thumbnail + centered play button */
-.vimeo-custom { position: relative; overflow: hidden; background: #000; }
-.vimeo-custom .vimeo-poster {
-  position: absolute; inset: 0; display: block; width: 100%; height: 100%;
-  padding: 0; border: 0; cursor: pointer; background: #000;
-}
-.vimeo-custom .vimeo-poster img {
-  display: block; width: 100%; height: 100%; object-fit: cover;
-}
-/* Kapak ile play butonu arasında siyah %30 katman */
-.vimeo-custom .vimeo-poster::before {
-  content: ""; position: absolute; inset: 0;
-  background: rgba(0,0,0,.30); pointer-events: none;
-}
-.vimeo-custom .vimeo-play {
-  position: absolute; left: 50%; top: 50%;
-  display: block; width: 64px; height: 64px; padding: 0;
-  border: 1.5px solid #fff; border-radius: 50%;
-  box-sizing: border-box; background: transparent;
-  transform: translate(-50%, -50%);
-  transition: transform .2s ease;
-}
-.vimeo-custom .vimeo-play::after {
-  content: ""; position: absolute; left: 50%; top: 50%;
-  transform: translate(-30%, -50%);
-  border-top: 10px solid transparent; border-bottom: 10px solid transparent;
-  border-left: 15px solid #fff;
-  filter: drop-shadow(0 1px 3px rgba(0,0,0,.35));
-}
-.vimeo-custom .vimeo-poster:hover .vimeo-play {
-  transform: translate(-50%, -50%) scale(1.06);
-}
-.vimeo-custom iframe { display: block; border: 0; }
-@media (max-width: 600px) {
-  .vimeo-custom .vimeo-play { width: 56px; height: 56px; }
-  .vimeo-custom .vimeo-play::after {
-    border-top-width: 9px; border-bottom-width: 9px; border-left-width: 13px;
-  }
-}
 </style>
 </head>
 <body>
@@ -172,10 +132,8 @@ h1 { text-align: center; font-family: "Outfit", sans-serif; font-weight: 400; }
 <br>
 <br>
 <div class="vimeo-run">
-<div class="video-container vimeo-custom" data-vimeo-id="1064272094" data-thumb="logo-lg.png">
-  <button class="vimeo-poster" type="button" aria-label="Videoyu oynat">
-    <span class="vimeo-play" aria-hidden="true"></span>
-  </button>
+<div class="video-container">
+    <iframe src="https://player.vimeo.com/video/1064272094" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 </div>
 </div>
 <br>
@@ -200,55 +158,11 @@ h1 { text-align: center; font-family: "Outfit", sans-serif; font-weight: 400; }
   </script>
 <script>
 (function () {
-  var boxes = document.querySelectorAll('.vimeo-custom');
-  if (!boxes.length) return;
-
-  // Kutunun oranını videonun gerçek boyutuna göre ayarlar (yatay / dikey / kare).
-  function applyRatio(box, w, h) {
-    w = Number(w); h = Number(h);
-    if (!Number.isFinite(w) || !Number.isFinite(h) || w <= 0 || h <= 0) return;
-    box.style.aspectRatio = w + ' / ' + h;
-    box.classList.toggle('vimeo-portrait', h > w);
-    box.classList.toggle('vimeo-square', w === h);
-  }
-
-  // Kapak görselini kutuya ekler (yüklenemezse yedek adaya düşer).
-  function setThumb(box, urls) {
-    var button = box.querySelector('.vimeo-poster');
-    if (!button || box.querySelector('.vimeo-poster img')) return;
-    var list = urls.filter(Boolean);
-    if (!list.length) return;
-    var img = document.createElement('img');
-    img.alt = 'Video kapağı';
-    var i = 0;
-    img.onerror = function () {
-      i += 1;
-      if (i < list.length) { img.src = list[i]; } else { img.remove(); }
-    };
-    img.src = list[0];
-    button.insertBefore(img, button.firstChild);
-  }
-
-  // Her video için oEmbed: kendi kapağı + gerçek boyutu (yerleşim tıklamadan önce de doğru olsun).
-  boxes.forEach(function (box) {
-    var id = box.getAttribute('data-vimeo-id');
-    var fallback = box.getAttribute('data-thumb');
-    if (!id || !window.fetch) { setThumb(box, [fallback]); return; }
-    fetch('https://vimeo.com/api/oembed.json?url=' + encodeURIComponent('https://vimeo.com/' + id))
-      .then(function (r) { return r.ok ? r.json() : null; })
-      .then(function (d) {
-        if (!d) { setThumb(box, [fallback]); return; }
-        applyRatio(box, d.width, d.height);
-        var t = d.thumbnail_url || '';
-        var big = t ? t.split('?')[0].replace(/_[0-9]+x[0-9]+$/, '_1280') : '';
-        setThumb(box, [big, t, fallback]);
-      })
-      .catch(function () { setThumb(box, [fallback]); });
-  });
-
-  // iframe oluştuktan sonra Player SDK ile boyutu bir kez daha doğrula (yedek).
-  function measure(box, frame) {
-    function run() {
+  var frames = document.querySelectorAll('.vimeo-run iframe');
+  if (!frames.length) return;
+  function init() {
+    if (!window.Vimeo || !window.Vimeo.Player) return;
+    frames.forEach(function (frame) {
       try {
         var player = new window.Vimeo.Player(frame);
         var timer;
@@ -258,40 +172,24 @@ h1 { text-align: center; font-family: "Outfit", sans-serif; font-weight: 400; }
         Promise.race([
           Promise.all([player.getVideoWidth(), player.getVideoHeight()]), timeout
         ]).then(function (size) {
-          applyRatio(box, size[0], size[1]);
+          var w = Number(size[0]), h = Number(size[1]);
+          if (!Number.isFinite(w) || !Number.isFinite(h) || w <= 0 || h <= 0) return;
+          var box = frame.parentElement;
+          box.style.aspectRatio = w + ' / ' + h;
+          box.classList.toggle('vimeo-portrait', h > w);
+          box.classList.toggle('vimeo-square', w === h);
         }).catch(function () {
-          // Metadata yoksa mevcut oran kalır.
+          // Keep the usable 16:9 embed when metadata is unavailable.
         }).finally(function () { clearTimeout(timer); });
-      } catch (_) { /* SDK hatasında embed olduğu gibi kalır. */ }
-    }
-    if (window.Vimeo && window.Vimeo.Player) { run(); return; }
-    var sdk = document.createElement('script');
-    sdk.src = 'https://player.vimeo.com/api/player.js';
-    sdk.async = true;
-    sdk.onload = run;
-    document.head.appendChild(sdk);
-  }
-
-  boxes.forEach(function (box) {
-    var button = box.querySelector('.vimeo-poster');
-    if (!button) return;
-    button.addEventListener('click', function () {
-      var id = box.getAttribute('data-vimeo-id');
-      var iframe = document.createElement('iframe');
-      iframe.src = 'https://player.vimeo.com/video/' + encodeURIComponent(id) +
-        '?autoplay=1&title=0&byline=0&portrait=0&badge=0&controls=1&dnt=1';
-      iframe.title = 'Vimeo video player';
-      iframe.setAttribute('allow', 'autoplay; fullscreen; picture-in-picture');
-      iframe.setAttribute('allowfullscreen', '');
-      iframe.setAttribute('frameborder', '0');
-      iframe.style.position = 'absolute';
-      iframe.style.inset = '0';
-      iframe.style.width = '100%';
-      iframe.style.height = '100%';
-      box.replaceChildren(iframe);
-      measure(box, iframe);
+      } catch (_) { /* Keep the original embed on SDK failure. */ }
     });
-  });
+  }
+  if (window.Vimeo && window.Vimeo.Player) { init(); return; }
+  var sdk = document.createElement('script');
+  sdk.src = 'https://player.vimeo.com/api/player.js';
+  sdk.async = true;
+  sdk.onload = init;
+  document.head.appendChild(sdk);
 })();
 </script>
 </body>

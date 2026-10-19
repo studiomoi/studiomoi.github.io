@@ -53,6 +53,16 @@ h1 { text-align: center; font-family: "Outfit", sans-serif; font-weight: 400; }
   padding-top: 30px; max-width: 1080px;
   font-family: "Outfit", sans-serif; font-weight: 400;
 }
+/* One 30px gap between content modules; legacy BR spacing is ignored. */
+.wrapper > h1 { margin: 0 0 30px; }
+.project-content { display: flex; flex-direction: column; gap: 30px; }
+.project-content > br { display: none; }
+.project-content > * { flex-shrink: 0; margin: 0 auto; }
+.project-content > p { padding: 0; width: 100%; }
+.project-content > .galeri { padding-top: 0; width: 100%; }
+.project-content > .video-container,
+.project-content > .vimeo-run { width: 100%; }
+.project-content > img { align-self: center; }
 
 </style>
 </head>
@@ -65,6 +75,7 @@ h1 { text-align: center; font-family: "Outfit", sans-serif; font-weight: 400; }
   </div>
   <div class="wrapper">
     <h1>Taskimo Branding</h1>
+    <div class="project-content">
     <p>Taskimo offers wearable digital solutions for augmented frontline workers. Enabling frontline workers to reach contextual data on-the-job while having hands free using wearables and mobile computers.</p>
 <br>
 <img src="taskimologo.jpg" alt="Proje Resmi">
@@ -114,6 +125,7 @@ h1 { text-align: center; font-family: "Outfit", sans-serif; font-weight: 400; }
 <br>
 <a href="https://www.taskimo.com/" target="_blank">Taskimo website</a>
 <br>
+    </div>
   </div>
   <div class="foot">
     <a href="https://studiomoi.co" style="text-decoration: none;">studio moi</a>

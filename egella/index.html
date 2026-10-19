@@ -53,6 +53,16 @@ h1 { text-align: center; font-family: "Outfit", sans-serif; font-weight: 400; }
   padding-top: 30px; max-width: 1080px;
   font-family: "Outfit", sans-serif; font-weight: 400;
 }
+/* One 30px gap between content modules; legacy BR spacing is ignored. */
+.wrapper > h1 { margin: 0 0 30px; }
+.project-content { display: flex; flex-direction: column; gap: 30px; }
+.project-content > br { display: none; }
+.project-content > * { flex-shrink: 0; margin: 0 auto; }
+.project-content > p { padding: 0; width: 100%; }
+.project-content > .galeri { padding-top: 0; width: 100%; }
+.project-content > .video-container,
+.project-content > .vimeo-run { width: 100%; }
+.project-content > img { align-self: center; }
 .vimeo-run {
   display: flex; flex-wrap: wrap; justify-content: center;
   align-items: flex-start; gap: 30px;
@@ -87,6 +97,7 @@ h1 { text-align: center; font-family: "Outfit", sans-serif; font-weight: 400; }
   </div>
   <div class="wrapper">
     <h1>Egella Group Branding</h1>
+    <div class="project-content">
     <br>
 <img src="egellatop.png" alt="Proje Resmi">
 <br>
@@ -119,6 +130,7 @@ h1 { text-align: center; font-family: "Outfit", sans-serif; font-weight: 400; }
 <br>
 <a href="https://egellagroup.com/" target="_blank">egellagroup.com</a>
 <br>
+    </div>
   </div>
   <div class="foot">
     <a href="https://studiomoi.co" style="text-decoration: none;">studio moi</a>

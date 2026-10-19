@@ -53,12 +53,35 @@ h1 { text-align: center; font-family: "Outfit", sans-serif; font-weight: 400; }
   padding-top: 30px; max-width: 1080px;
   font-family: "Outfit", sans-serif; font-weight: 400;
 }
+.vimeo-run {
+  display: flex; flex-wrap: wrap; justify-content: center;
+  align-items: flex-start; gap: 30px;
+  max-width: 1025px; margin: auto;
+}
+.vimeo-run > .video-container {
+  flex: 0 0 100%; width: 100%; margin: 0;
+  padding-bottom: 0; height: auto; aspect-ratio: 16 / 9;
+}
+.vimeo-run > .video-container.vimeo-portrait {
+  flex-basis: calc((100% - 60px) / 3);
+  width: calc((100% - 60px) / 3);
+}
+.vimeo-run > .video-container.vimeo-square {
+  flex-basis: calc((100% - 30px) / 2);
+  width: calc((100% - 30px) / 2);
+}
+@media (max-width: 600px) {
+  .vimeo-run > .video-container.vimeo-portrait,
+  .vimeo-run > .video-container.vimeo-square {
+    flex-basis: 100%; width: 100%;
+  }
+}
 </style>
 </head>
-<header>
-  <a href="https://studiomoi.co"><img src="../logo.png" alt="studio moi"></a>
-</header>
 <body>
+  <header>
+    <a href="https://studiomoi.co"><img src="../logo.png" alt="studio moi"></a>
+  </header>
   <div id="lb" onclick="this.classList.remove('open')">
     <img id="lb-img" src="" alt="">
   </div>
@@ -76,7 +99,7 @@ h1 { text-align: center; font-family: "Outfit", sans-serif; font-weight: 400; }
 <br>
 <img src="branding.jpg" alt="Proje Resmi">
 <br>
-<p>The name Cotto -means "cooked" in italian. So we combined terracotta colors with a deep green in an Art Deco style typography. Aiming to set a mood for the customers before they even get in.</p>
+<p>The name Cotto -means &quot;cooked&quot; in italian. So we combined terracotta colors with a deep green in an Art Deco style typography. Aiming to set a mood for the customers before they even get in.</p>
 <br>
 <img src="branding2.jpg" alt="Proje Resmi">
 <br>
@@ -97,8 +120,10 @@ h1 { text-align: center; font-family: "Outfit", sans-serif; font-weight: 400; }
 </div>
 <br>
 <br>
+<div class="vimeo-run">
 <div class="video-container">
     <iframe src="https://player.vimeo.com/video/1064272094" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+</div>
 </div>
 <br>
 <a href="https://www.instagram.com/cottogastro/" target="_blank">cotto gastro on instagram</a>
@@ -119,5 +144,41 @@ h1 { text-align: center; font-family: "Outfit", sans-serif; font-weight: 400; }
     lb.classList.remove('open');
   }, { passive: true });
   </script>
+<script>
+(function () {
+  var frames = document.querySelectorAll('.vimeo-run iframe');
+  if (!frames.length) return;
+  function init() {
+    if (!window.Vimeo || !window.Vimeo.Player) return;
+    frames.forEach(function (frame) {
+      try {
+        var player = new window.Vimeo.Player(frame);
+        var timer;
+        var timeout = new Promise(function (_, reject) {
+          timer = setTimeout(function () { reject(new Error('Vimeo timeout')); }, 10000);
+        });
+        Promise.race([
+          Promise.all([player.getVideoWidth(), player.getVideoHeight()]), timeout
+        ]).then(function (size) {
+          var w = Number(size[0]), h = Number(size[1]);
+          if (!Number.isFinite(w) || !Number.isFinite(h) || w <= 0 || h <= 0) return;
+          var box = frame.parentElement;
+          box.style.aspectRatio = w + ' / ' + h;
+          box.classList.toggle('vimeo-portrait', h > w);
+          box.classList.toggle('vimeo-square', w === h);
+        }).catch(function () {
+          // Keep the usable 16:9 embed when metadata is unavailable.
+        }).finally(function () { clearTimeout(timer); });
+      } catch (_) { /* Keep the original embed on SDK failure. */ }
+    });
+  }
+  if (window.Vimeo && window.Vimeo.Player) { init(); return; }
+  var sdk = document.createElement('script');
+  sdk.src = 'https://player.vimeo.com/api/player.js';
+  sdk.async = true;
+  sdk.onload = init;
+  document.head.appendChild(sdk);
+})();
+</script>
 </body>
 </html>

@@ -80,7 +80,12 @@ h1 { text-align: center; font-family: "Outfit", sans-serif; font-weight: 400; }
   flex-basis: calc((100% - 30px) / 2);
   width: calc((100% - 30px) / 2);
 }
+.vimeo-run.vimeo-mixed > .video-container.vimeo-portrait {
+  flex-basis: calc((50% - 15px) * var(--vimeo-ratio));
+  width: calc((50% - 15px) * var(--vimeo-ratio));
+}
 @media (max-width: 600px) {
+  .vimeo-run.vimeo-mixed > .video-container.vimeo-portrait,
   .vimeo-run > .video-container.vimeo-portrait,
   .vimeo-run > .video-container.vimeo-square {
     flex-basis: 100%; width: 100%;
@@ -173,6 +178,10 @@ h1 { text-align: center; font-family: "Outfit", sans-serif; font-weight: 400; }
           box.style.aspectRatio = w + ' / ' + h;
           box.classList.toggle('vimeo-portrait', h > w);
           box.classList.toggle('vimeo-square', w === h);
+          box.style.setProperty('--vimeo-ratio', String(w / h));
+          var run = box.parentElement;
+          run.classList.toggle('vimeo-mixed',
+            !!run.querySelector('.vimeo-square') && !!run.querySelector('.vimeo-portrait'));
         }).catch(function () {
           // Keep the usable 16:9 embed when metadata is unavailable.
         }).finally(function () { clearTimeout(timer); });

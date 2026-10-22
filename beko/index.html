@@ -106,36 +106,36 @@ h1 { text-align: center; font-family: "Outfit", sans-serif; font-weight: 400; }
     <p>Working with Beko’s agency, we handled the 3D production and art direction for a series of animated social media content. We brought a new dimension to the feed, putting the products and their everyday features in motion.</p>
 <br>
 <div class="vimeo-run">
-<div class="video-container">
+<div class="video-container vimeo-square" style="aspect-ratio: 1080 / 1080; --vimeo-ratio: 1.00000">
     <iframe src="https://player.vimeo.com/video/558190464" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 </div>
-<div class="video-container">
+<div class="video-container vimeo-square" style="aspect-ratio: 1080 / 1080; --vimeo-ratio: 1.00000">
     <iframe src="https://player.vimeo.com/video/558149563" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 </div>
 </div>
 <p>We kept the compositions simple and the products in focus. Carefully considered lighting, materials and movement highlight the design of each appliance, giving everyday objects an elegant presence on screen.</p>
 <br>
 <div class="vimeo-run">
-<div class="video-container">
+<div class="video-container vimeo-square" style="aspect-ratio: 1080 / 1080; --vimeo-ratio: 1.00000">
     <iframe src="https://player.vimeo.com/video/558146030" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 </div>
-<div class="video-container">
+<div class="video-container vimeo-square" style="aspect-ratio: 1080 / 1080; --vimeo-ratio: 1.00000">
     <iframe src="https://player.vimeo.com/video/558190114" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 </div>
-<div class="video-container">
+<div class="video-container vimeo-square" style="aspect-ratio: 1080 / 1080; --vimeo-ratio: 1.00000">
     <iframe src="https://player.vimeo.com/video/558189474" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 </div>
-<div class="video-container">
+<div class="video-container vimeo-square" style="aspect-ratio: 1080 / 1080; --vimeo-ratio: 1.00000">
     <iframe src="https://player.vimeo.com/video/558188228" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 </div>
 </div>
 <p>We used 3D animation to show how the products work, from the movement of an oven door to the steps of preparing a meal. Each sequence was designed around a specific feature.</p>
 <br>
-<div class="vimeo-run">
-<div class="video-container">
+<div class="vimeo-run vimeo-mixed">
+<div class="video-container vimeo-square" style="aspect-ratio: 1080 / 1080; --vimeo-ratio: 1.00000">
     <iframe src="https://player.vimeo.com/video/558190563" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 </div>
-<div class="video-container">
+<div class="video-container vimeo-portrait" style="aspect-ratio: 1080 / 1920; --vimeo-ratio: 0.56250">
     <iframe src="https://player.vimeo.com/video/558188088" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 </div>
 </div>
@@ -156,45 +156,5 @@ h1 { text-align: center; font-family: "Outfit", sans-serif; font-weight: 400; }
     lb.classList.remove('open');
   }, { passive: true });
   </script>
-<script>
-(function () {
-  var frames = document.querySelectorAll('.vimeo-run iframe');
-  if (!frames.length) return;
-  function init() {
-    if (!window.Vimeo || !window.Vimeo.Player) return;
-    frames.forEach(function (frame) {
-      try {
-        var player = new window.Vimeo.Player(frame);
-        var timer;
-        var timeout = new Promise(function (_, reject) {
-          timer = setTimeout(function () { reject(new Error('Vimeo timeout')); }, 10000);
-        });
-        Promise.race([
-          Promise.all([player.getVideoWidth(), player.getVideoHeight()]), timeout
-        ]).then(function (size) {
-          var w = Number(size[0]), h = Number(size[1]);
-          if (!Number.isFinite(w) || !Number.isFinite(h) || w <= 0 || h <= 0) return;
-          var box = frame.parentElement;
-          box.style.aspectRatio = w + ' / ' + h;
-          box.classList.toggle('vimeo-portrait', h > w);
-          box.classList.toggle('vimeo-square', w === h);
-          box.style.setProperty('--vimeo-ratio', String(w / h));
-          var run = box.parentElement;
-          run.classList.toggle('vimeo-mixed',
-            !!run.querySelector('.vimeo-square') && !!run.querySelector('.vimeo-portrait'));
-        }).catch(function () {
-          // Keep the usable 16:9 embed when metadata is unavailable.
-        }).finally(function () { clearTimeout(timer); });
-      } catch (_) { /* Keep the original embed on SDK failure. */ }
-    });
-  }
-  if (window.Vimeo && window.Vimeo.Player) { init(); return; }
-  var sdk = document.createElement('script');
-  sdk.src = 'https://player.vimeo.com/api/player.js';
-  sdk.async = true;
-  sdk.onload = init;
-  document.head.appendChild(sdk);
-})();
-</script>
 </body>
 </html>

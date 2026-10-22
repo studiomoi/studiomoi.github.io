@@ -106,22 +106,22 @@ h1 { text-align: center; font-family: "Outfit", sans-serif; font-weight: 400; }
     <p>Festival corporate identity design and announcement videos we created for the &quot;Sivil Sesler Festivali&quot; communication campaign, which brought together all non-governmental organizations in Turkey by STGM.</p>
 <br>
 <div class="vimeo-run">
-<div class="video-container">
+<div class="video-container" style="aspect-ratio: 1920 / 1080; --vimeo-ratio: 1.77778">
     <iframe src="https://player.vimeo.com/video/336396955" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 </div>
-<div class="video-container">
+<div class="video-container" style="aspect-ratio: 1920 / 1080; --vimeo-ratio: 1.77778">
     <iframe src="https://player.vimeo.com/video/374889975" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 </div>
-<div class="video-container">
+<div class="video-container" style="aspect-ratio: 1920 / 1080; --vimeo-ratio: 1.77778">
     <iframe src="https://player.vimeo.com/video/374890077" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 </div>
-<div class="video-container">
+<div class="video-container" style="aspect-ratio: 1920 / 1080; --vimeo-ratio: 1.77778">
     <iframe src="https://player.vimeo.com/video/374889867" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 </div>
-<div class="video-container">
+<div class="video-container" style="aspect-ratio: 1920 / 1080; --vimeo-ratio: 1.77778">
     <iframe src="https://player.vimeo.com/video/374889354" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 </div>
-<div class="video-container">
+<div class="video-container" style="aspect-ratio: 1920 / 1080; --vimeo-ratio: 1.77778">
     <iframe src="https://player.vimeo.com/video/374889755" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 </div>
 </div>
@@ -142,45 +142,5 @@ h1 { text-align: center; font-family: "Outfit", sans-serif; font-weight: 400; }
     lb.classList.remove('open');
   }, { passive: true });
   </script>
-<script>
-(function () {
-  var frames = document.querySelectorAll('.vimeo-run iframe');
-  if (!frames.length) return;
-  function init() {
-    if (!window.Vimeo || !window.Vimeo.Player) return;
-    frames.forEach(function (frame) {
-      try {
-        var player = new window.Vimeo.Player(frame);
-        var timer;
-        var timeout = new Promise(function (_, reject) {
-          timer = setTimeout(function () { reject(new Error('Vimeo timeout')); }, 10000);
-        });
-        Promise.race([
-          Promise.all([player.getVideoWidth(), player.getVideoHeight()]), timeout
-        ]).then(function (size) {
-          var w = Number(size[0]), h = Number(size[1]);
-          if (!Number.isFinite(w) || !Number.isFinite(h) || w <= 0 || h <= 0) return;
-          var box = frame.parentElement;
-          box.style.aspectRatio = w + ' / ' + h;
-          box.classList.toggle('vimeo-portrait', h > w);
-          box.classList.toggle('vimeo-square', w === h);
-          box.style.setProperty('--vimeo-ratio', String(w / h));
-          var run = box.parentElement;
-          run.classList.toggle('vimeo-mixed',
-            !!run.querySelector('.vimeo-square') && !!run.querySelector('.vimeo-portrait'));
-        }).catch(function () {
-          // Keep the usable 16:9 embed when metadata is unavailable.
-        }).finally(function () { clearTimeout(timer); });
-      } catch (_) { /* Keep the original embed on SDK failure. */ }
-    });
-  }
-  if (window.Vimeo && window.Vimeo.Player) { init(); return; }
-  var sdk = document.createElement('script');
-  sdk.src = 'https://player.vimeo.com/api/player.js';
-  sdk.async = true;
-  sdk.onload = init;
-  document.head.appendChild(sdk);
-})();
-</script>
 </body>
 </html>

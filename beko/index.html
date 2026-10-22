@@ -80,13 +80,14 @@ h1 { text-align: center; font-family: "Outfit", sans-serif; font-weight: 400; }
   flex-basis: calc((100% - 30px) / 2);
   width: calc((100% - 30px) / 2);
 }
-.vimeo-run.vimeo-mixed > .video-container.vimeo-portrait {
+/* Kareyle aynı satırdaki dikey: karenin yüksekliğine eşit */
+.vimeo-run > .video-container.vimeo-portrait.vimeo-match {
   flex-basis: calc((50% - 15px) * var(--vimeo-ratio));
   width: calc((50% - 15px) * var(--vimeo-ratio));
 }
 @media (max-width: 600px) {
-  .vimeo-run.vimeo-mixed > .video-container.vimeo-portrait,
   .vimeo-run > .video-container.vimeo-portrait,
+  .vimeo-run > .video-container.vimeo-portrait.vimeo-match,
   .vimeo-run > .video-container.vimeo-square {
     flex-basis: 100%; width: 100%;
   }
@@ -131,11 +132,11 @@ h1 { text-align: center; font-family: "Outfit", sans-serif; font-weight: 400; }
 </div>
 <p>We used 3D animation to show how the products work, from the movement of an oven door to the steps of preparing a meal. Each sequence was designed around a specific feature.</p>
 <br>
-<div class="vimeo-run vimeo-mixed">
+<div class="vimeo-run">
 <div class="video-container vimeo-square" style="aspect-ratio: 1080 / 1080; --vimeo-ratio: 1.00000">
     <iframe src="https://player.vimeo.com/video/558190563" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 </div>
-<div class="video-container vimeo-portrait" style="aspect-ratio: 1080 / 1920; --vimeo-ratio: 0.56250">
+<div class="video-container vimeo-portrait vimeo-match" style="aspect-ratio: 1080 / 1920; --vimeo-ratio: 0.56250">
     <iframe src="https://player.vimeo.com/video/558188088" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 </div>
 </div>
